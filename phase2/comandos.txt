@@ -1,0 +1,33 @@
+## Isto é para simplificar chamar o evosuite
+export EVOSUITE="java -jar $(pwd)/lib/evosuite-1.0.6.jar"
+## ISTP E PARA INDICAR AS DEPENDENCIAS QUANDO TIVERMOS A COMPILAR
+#export CLASSPATH=:src/java:target/classes/*:evosuite-tests/*:dependency/*
+#usar esta agora
+
+ export CLASSPATH=:src/java:target/classes:evosuite-tests:dependency/*
+
+
+##ISTO E PARA CRIAR OS TESTES (NAO E PRECISO FAZER-JA ESTA FEITO)
+java -jar ./lib/evosuite-1.0.6.jar  -target ./target/classes2/UMeR.java -projectCP ./target/classes2/ -Dstatistics_backend=HTML
+
+
+##COMPILAR OS TESTES
+javac ./evosuite-tests/*.java -d novostestes/ 
+
+
+##MEDIR O COVERAGE
+ $EVOSUITE -measureCoverage -target target/classes2  -projectCP target/classes2:novostestes -criterion branch
+
+$EVOSUITE -measureCoverage -class target/classes2/Trip.class  -projectCP target/classes2:novostestes -Dstatistics_backend=HTML > log.txt
+
+##MEDIR O COVERAGE APENAS PARA 1 CLASS
+ $EVOSUITE -measureCoverage -class Bike  -projectCP target/classes2:novostestes
+
+##PIT
+
+java -cp <your classpath including pit jar and dependencies> \
+    org.pitest.mutationtest.commandline.MutationCoverageReport \
+    --reportDir <outputdir> \
+    --targetClasses com.your.package.tobemutated* \
+    --targetTests com.your.package.*
+    --sourceDirs <pathtosource>

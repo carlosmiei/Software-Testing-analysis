@@ -1,0 +1,729 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+<title>
+User
+</title>
+<link href="files/prettify.css" type="text/css" rel="stylesheet" />
+<link href="files/style.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="files/prettify.js"></script>
+<script type="text/javascript" src="files/jquery.js"></script>
+<script type="text/javascript" src="files/foldButton.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('H2#tests').foldButton();
+    $('H2#source').foldButton();
+    $('H2#parameters').foldButton();
+  });</script>
+<link href="files/foldButton.css" rel="stylesheet" type="text/css">
+</head>
+<body onload="prettyPrint()">
+<div id="wrapper">
+<img src="files/evosuite.png" height="40"/>
+<br><br><h2 class=title>Summary</h2>
+<ul><li>Target class: User: 0.9261352362914863</ul>
+<ul>
+<li>22.476190476190474 fitness evaluations, 0 generations, null statements, 45 tests.
+<li>Covered null/null branches, <li>Covered null/null methods, <li>Covered 235/258 total goals
+</ul>
+<div id="page">
+<div id="page-bgtop">
+<div id="page-bgbtm">
+<div id="content">
+<div id="post">
+<h2 class=title id=tests>Test suite</h2>
+<div class=tests>
+<h3>Test case 1</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="2">  2: </a></span>Client client0 = new Client(&quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, localDate0);
+<span class="nocode"><a name="3">  3: </a></span>client0.setTotalDistance(0.0);
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(0.0, client0.getTotalDistance(), 0.01);
+</pre>
+<h3>Test case 2</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="2">  2: </a></span>Driver driver0 = new Driver(&quot;\nN\u00FAmero de classifica\u00E7\u00F5es : &quot;, &quot;\nN\u00FAmero de classifica\u00E7\u00F5es : &quot;, &quot;\nN\u00FAmero de classifica\u00E7\u00F5es : &quot;, &quot;\nN\u00FAmero de classifica\u00E7\u00F5es : &quot;, localDate0, 797.0601779452479, &quot;\nN\u00FAmero de classifica\u00E7\u00F5es : &quot;);
+<span class="nocode"><a name="3">  3: </a></span>driver0.setPassword(&quot;\nN\u00FAmero de classifica\u00E7\u00F5es : &quot;);
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(&quot;\nN\u00FAmero de classifica\u00E7\u00F5es : &quot;, driver0.getEmail());
+</pre>
+<h3>Test case 3</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="2">  2: </a></span>Client client0 = new Client(&quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, localDate0);
+<span class="nocode"><a name="3">  3: </a></span>Driver driver0 = new Driver(&quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, localDate0, 0.0, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;);
+<span class="nocode"><a name="4">  4: </a></span>boolean boolean0 = driver0.equals((User) client0);
+<span class="nocode"><a name="5">  5: </a></span>assertTrue(boolean0);
+</pre>
+<h3>Test case 4</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="2">  2: </a></span>Driver driver0 = new Driver(&quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, localDate0, 0.0, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;);
+<span class="nocode"><a name="3">  3: </a></span>driver0.setName(&quot;_!gEs@&amp;P&lt;%6!f,mG&quot;);
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(0.0, driver0.getTimeCompliance(), 0.01);
+</pre>
+<h3>Test case 5</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="2">  2: </a></span>Client client0 = new Client(&quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, localDate0);
+<span class="nocode"><a name="3">  3: </a></span>int int0 = client0.getNumberOfTrips();
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(0, int0);
+</pre>
+<h3>Test case 6</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay(1, 1);
+<span class="nocode"><a name="2">  2: </a></span>Boolean boolean0 = Boolean.TRUE;
+<span class="nocode"><a name="3">  3: </a></span>ArrayList&lt;Trip&gt; arrayList0 = new ArrayList&lt;Trip&gt;();
+<span class="nocode"><a name="4">  4: </a></span>Driver driver0 = new Driver(&quot;?&quot;, &quot;?&quot;, &quot;?&quot;, &quot;s&quot;, localDate0, 1, 1, boolean0, 1, arrayList0, 1, 1, 1, &quot;s&quot;, &quot;&quot;, 0.0);
+<span class="nocode"><a name="5">  5: </a></span>driver0.setAddress(&quot;s&quot;);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(1.0, driver0.getTimeCompliance(), 0.01);
+</pre>
+<h3>Test case 7</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="2">  2: </a></span>Driver driver0 = new Driver(&quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;, localDate0, 0.0, &quot;_!gEs@&amp;P&lt;%6!f,mG&quot;);
+<span class="nocode"><a name="3">  3: </a></span>driver0.setMoney(0.0);
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(0.0, driver0.getMoney(), 0.01);
+</pre>
+<h3>Test case 8</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="2">  2: </a></span>Client client0 = new Client(&quot;d-%Z{0L2_5+ec~&quot;, &quot;d-%Z{0L2_5+ec~&quot;, &quot;d-%Z{0L2_5+ec~&quot;, &quot;d-%Z{0L2_5+ec~&quot;, localDate0);
+<span class="nocode"><a name="3">  3: </a></span>client0.setBirthday(localDate0);
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(0.0, client0.getTotalDistance(), 0.01);
+</pre>
+<h3>Test case 9</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Driver driver0 = new Driver();
+</pre>
+<h3>Test case 10</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Period period0 = Period.ZERO;
+<span class="nocode"><a name="2">  2: </a></span>IsoChronology isoChronology0 = period0.getChronology();
+<span class="nocode"><a name="3">  3: </a></span>LocalDate localDate0 = MockIsoChronology.dateNow(isoChronology0);
+<span class="nocode"><a name="4">  4: </a></span>Client client0 = new Client(&quot;&quot;, (String) null, &quot;ua]/_BlW&quot;, &quot;&quot;, localDate0);
+<span class="nocode"><a name="5">  5: </a></span>Trip trip0 = new Trip();
+<span class="nocode"><a name="6">  6: </a></span>client0.addTrip(trip0);
+<span class="nocode"><a name="7">  7: </a></span>client0.clone();
+</pre>
+<h3>Test case 11</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay(1, 1);
+<span class="nocode"><a name="2">  2: </a></span>Boolean boolean0 = Boolean.TRUE;
+<span class="nocode"><a name="3">  3: </a></span>ArrayList&lt;Trip&gt; arrayList0 = new ArrayList&lt;Trip&gt;();
+<span class="nocode"><a name="4">  4: </a></span>Driver driver0 = new Driver(&quot;?&quot;, &quot;?&quot;, &quot;?&quot;, &quot;s&quot;, localDate0, 1, 1, boolean0, 1, arrayList0, 1, 1, 1, &quot;s&quot;, &quot;&quot;, 0.0);
+<span class="nocode"><a name="5">  5: </a></span>ArrayList&lt;String&gt; arrayList1 = driver0.getDates();
+<span class="nocode"><a name="6">  6: </a></span>assertTrue(arrayList1.isEmpty());
+</pre>
+<h3>Test case 12</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay(1, 1);
+<span class="nocode"><a name="2">  2: </a></span>Boolean boolean0 = Boolean.TRUE;
+<span class="nocode"><a name="3">  3: </a></span>ArrayList&lt;Trip&gt; arrayList0 = new ArrayList&lt;Trip&gt;();
+<span class="nocode"><a name="4">  4: </a></span>Trip trip0 = new Trip();
+<span class="nocode"><a name="5">  5: </a></span>arrayList0.add(trip0);
+<span class="nocode"><a name="6">  6: </a></span>arrayList0.add(trip0);
+<span class="nocode"><a name="7">  7: </a></span>Driver driver0 = new Driver(&quot;?&quot;, &quot;?&quot;, &quot;?&quot;, &quot;s&quot;, localDate0, 1, 1, boolean0, 1, arrayList0, 1, 1, 1, &quot;s&quot;, &quot;&quot;, 0.0);
+<span class="nocode"><a name="8">  8: </a></span>ArrayList&lt;String&gt; arrayList1 = driver0.getDates();
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(1, arrayList1.size());
+</pre>
+<h3>Test case 13</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="2">  2: </a></span>Driver driver0 = new Driver(&quot;\nData de nascimento : &quot;, &quot;O10]&quot;, &quot;O10]&quot;, &quot;\nData de nascimento : &quot;, localDate0, 1.0, &quot;O10]&quot;);
+<span class="nocode"><a name="3">  3: </a></span>String string0 = driver0.getName();
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(&quot;O10]&quot;, string0);
+</pre>
+<h3>Test case 14</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="2">  2: </a></span>Client client0 = new Client(&quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, &quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, &quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, &quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, localDate0);
+<span class="nocode"><a name="3">  3: </a></span>String string0 = client0.getEmail();
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(&quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, string0);
+</pre>
+<h3>Test case 15</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="2">  2: </a></span>Client client0 = new Client(&quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, (String) null, &quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, (String) null, localDate0);
+<span class="nocode"><a name="3">  3: </a></span>Boolean boolean0 = new Boolean(&quot;yln7e=&quot;);
+<span class="nocode"><a name="4">  4: </a></span>ArrayList&lt;Trip&gt; arrayList0 = client0.getTrips();
+<span class="nocode"><a name="5">  5: </a></span>Driver driver0 = new Driver(&quot;U'+6+]i^Ecnza&quot;, &quot;}9b&quot;, &quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, &quot;\neMail : &quot;, localDate0, (-1.0), 2, boolean0, 2, arrayList0, 0, 3600.0, 0.0, &quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, &quot;U'+6+]i^Ecnza&quot;, 2);
+<span class="nocode"><a name="6">  6: </a></span>double double0 = driver0.getMoney();
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(3600.0, double0, 0.01);
+</pre>
+<h3>Test case 16</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay(1, 1);
+<span class="nocode"><a name="2">  2: </a></span>Client client0 = new Client(&quot;?&quot;, &quot;&quot;, (String) null, &quot;cp&quot;, localDate0);
+<span class="nocode"><a name="3">  3: </a></span>String string0 = client0.getPassword();
+<span class="nocode"><a name="4">  4: </a></span>assertNull(string0);
+</pre>
+<h3>Test case 17</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="2">  2: </a></span>Driver driver0 = new Driver(&quot;\nGrau de cumprimento : &quot;, &quot;&quot;, &quot;&quot;, &quot;\nGrau de cumprimento : &quot;, localDate0, (-1.0), &quot;Oa}YvD!nmnd&quot;);
+<span class="nocode"><a name="3">  3: </a></span>LocalDate localDate1 = driver0.getBirthday();
+<span class="nocode"><a name="4">  4: </a></span>assertNotSame(localDate0, localDate1);
+</pre>
+<h3>Test case 18</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="2">  2: </a></span>Boolean boolean0 = Boolean.valueOf(true);
+<span class="nocode"><a name="3">  3: </a></span>ArrayList&lt;Trip&gt; arrayList0 = new ArrayList&lt;Trip&gt;();
+<span class="nocode"><a name="4">  4: </a></span>Driver driver0 = new Driver(&quot;&quot;, &quot;\nDist\u00E2ncia Total : &quot;, &quot;&quot;, &quot;\nN\u00FAmero de viagens :&quot;, localDate0, 0, 0, boolean0, 0, arrayList0, 1, 2385.4, 2.0, &quot;\nDist\u00E2ncia Total : &quot;, &quot;\nN\u00FAmero de viagens :&quot;, 2385.4);
+<span class="nocode"><a name="5">  5: </a></span>double double0 = driver0.getTotalDistance();
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, double0, 0.01);
+</pre>
+<h3>Test case 19</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="2">  2: </a></span>Boolean boolean0 = Boolean.valueOf(&quot;t.)^U=*UPJo7&quot;);
+<span class="nocode"><a name="3">  3: </a></span>ArrayList&lt;Trip&gt; arrayList0 = new ArrayList&lt;Trip&gt;();
+<span class="nocode"><a name="4">  4: </a></span>Driver driver0 = new Driver(&quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, localDate0, 2698.35713672316, 0.0, boolean0, (-1.0), arrayList0, 268, 0.0, 3026.68, &quot;t.)^U=*UPJo7&quot;, &quot;&quot;, (-1.0));
+<span class="nocode"><a name="5">  5: </a></span>String string0 = driver0.getAddress();
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(&quot;&quot;, string0);
+</pre>
+<h3>Test case 20</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay(1, 1);
+<span class="nocode"><a name="2">  2: </a></span>Boolean boolean0 = Boolean.TRUE;
+<span class="nocode"><a name="3">  3: </a></span>ArrayList&lt;Trip&gt; arrayList0 = new ArrayList&lt;Trip&gt;();
+<span class="nocode"><a name="4">  4: </a></span>Driver driver0 = new Driver(&quot;?&quot;, &quot;?&quot;, &quot;?&quot;, &quot;s&quot;, localDate0, 1, 1, boolean0, 1, arrayList0, 1, 1, 1, &quot;s&quot;, &quot;&quot;, 0.0);
+<span class="nocode"><a name="5">  5: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double(0.0, 0.0);
+<span class="nocode"><a name="6">  6: </a></span>Trip trip0 = new Trip(1, point2D_Double0, point2D_Double0, (Double) 0.0, (Double) 0.0, localDate0, &quot;m:&quot;, &quot;m:&quot;, &quot;&quot;, 1, 0.0, point2D_Double0, 0.0, 0.0, 0.0);
+<span class="nocode"><a name="7">  7: </a></span>driver0.addTrip(trip0);
+<span class="nocode"><a name="8">  8: </a></span>ArrayList&lt;Trip&gt; arrayList1 = driver0.getTrips();
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(1, arrayList1.size());
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(1.0, driver0.getTotalDistance(), 0.01);
+<span class="nocode"><a name="11"> 11: </a></span>assertEquals(1.0, driver0.getMoney(), 0.01);
+</pre>
+<h3>Test case 21</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay(1, 1);
+<span class="nocode"><a name="2">  2: </a></span>Boolean boolean0 = Boolean.TRUE;
+<span class="nocode"><a name="3">  3: </a></span>ArrayList&lt;Trip&gt; arrayList0 = new ArrayList&lt;Trip&gt;();
+<span class="nocode"><a name="4">  4: </a></span>Trip trip0 = new Trip();
+<span class="nocode"><a name="5">  5: </a></span>Driver driver0 = new Driver(&quot;?&quot;, &quot;?&quot;, &quot;?&quot;, &quot;s&quot;, localDate0, 1, 1, boolean0, 1, arrayList0, 1, 1, 1, &quot;s&quot;, &quot;&quot;, 0.0);
+<span class="nocode"><a name="6">  6: </a></span>driver0.addTrip(trip0);
+</pre>
+<h3>Test case 22</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay(21, 21);
+<span class="nocode"><a name="2">  2: </a></span>Client client0 = new Client(&quot;qf2jch.l@ASzZj`&quot;, &quot;-&quot;, (String) null, &quot;qf2jch.l@ASzZj`&quot;, localDate0);
+<span class="nocode"><a name="3">  3: </a></span>Driver driver0 = new Driver((String) null, &quot;-&quot;, &quot;~1za]EPyD(&quot;, &quot;\nPosi\u00E7\u00E3o : (&quot;, localDate0, 0, &quot;&quot;);
+<span class="nocode"><a name="4">  4: </a></span>driver0.equals((User) client0);
+</pre>
+<h3>Test case 23</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay(1, 1);
+<span class="nocode"><a name="2">  2: </a></span>Boolean boolean0 = Boolean.TRUE;
+<span class="nocode"><a name="3">  3: </a></span>ArrayList&lt;Trip&gt; arrayList0 = new ArrayList&lt;Trip&gt;();
+<span class="nocode"><a name="4">  4: </a></span>arrayList0.add((Trip) null);
+<span class="nocode"><a name="5">  5: </a></span>Driver driver0 = new Driver(&quot;?&quot;, &quot;?&quot;, &quot;?&quot;, &quot;s&quot;, localDate0, 1, 1, boolean0, 1, arrayList0, 1, 1, 1, &quot;s&quot;, &quot;&quot;, 0.0);
+<span class="nocode"><a name="6">  6: </a></span>driver0.getDates();
+</pre>
+<h3>Test case 24</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay(1, 1);
+<span class="nocode"><a name="2">  2: </a></span>Boolean boolean0 = Boolean.TRUE;
+<span class="nocode"><a name="3">  3: </a></span>ArrayList&lt;Trip&gt; arrayList0 = new ArrayList&lt;Trip&gt;();
+<span class="nocode"><a name="4">  4: </a></span>Trip trip0 = new Trip();
+<span class="nocode"><a name="5">  5: </a></span>arrayList0.add(trip0);
+<span class="nocode"><a name="6">  6: </a></span>Driver driver0 = new Driver(&quot;?&quot;, &quot;?&quot;, &quot;?&quot;, &quot;s&quot;, localDate0, 1, 1, boolean0, 1, arrayList0, 1, 1, 1, &quot;s&quot;, &quot;&quot;, 0.0);
+<span class="nocode"><a name="7">  7: </a></span>driver0.getTrips();
+</pre>
+<h3>Test case 25</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Clock clock0 = MockClock.systemDefaultZone();
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now(clock0);
+<span class="nocode"><a name="3">  3: </a></span>Driver driver0 = new Driver(&quot;ik,&quot;, &quot;}JArA)MgS}2@z+8B4B&quot;, &quot;&quot;, &quot;&quot;, localDate0, 3600.0, &quot;,,peJD;U)&quot;);
+<span class="nocode"><a name="4">  4: </a></span>driver0.setBirthday((LocalDate) null);
+</pre>
+<h3>Test case 26</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Period period0 = Period.ZERO;
+<span class="nocode"><a name="2">  2: </a></span>IsoChronology isoChronology0 = period0.getChronology();
+<span class="nocode"><a name="3">  3: </a></span>LocalDate localDate0 = MockIsoChronology.dateNow(isoChronology0);
+<span class="nocode"><a name="4">  4: </a></span>Boolean boolean0 = Boolean.FALSE;
+<span class="nocode"><a name="5">  5: </a></span>Driver driver0 = new Driver(&quot;$t6&gt;5]j!]#+x&quot;, &quot;$t6&gt;5]j!]#+x&quot;, &quot;q5waH3hh'53dmP;&amp;oH&quot;, &quot;_6Y Hf9m8^fsV&quot;, localDate0, (-1.0), &quot;q5waH3hh'53dmP;&amp;oH&quot;);
+<span class="nocode"><a name="6">  6: </a></span>ArrayList&lt;Trip&gt; arrayList0 = driver0.getTrips();
+<span class="nocode"><a name="7">  7: </a></span>Driver driver1 = new Driver(&quot;$t6&gt;5]j!]#+x&quot;, &quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, &quot;$t6&gt;5]j!]#+x&quot;, &quot;_6Y Hf9m8^fsV&quot;, localDate0, (-3L), (-3L), boolean0, (-2266.2507), arrayList0, 0, (-490.374110878436), (-2266.2507), &quot;$t6&gt;5]j!]#+x&quot;, &quot;q5waH3hh'53dmP;&amp;oH&quot;, (-1.0));
+<span class="nocode"><a name="8">  8: </a></span>driver1.clone();
+<span class="nocode"><a name="9">  9: </a></span>assertEquals((-3.0), driver1.getTotalDistance(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals((-490.374110878436), driver1.getMoney(), 0.01);
+</pre>
+<h3>Test case 27</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Period period0 = Period.ZERO;
+<span class="nocode"><a name="2">  2: </a></span>IsoChronology isoChronology0 = period0.getChronology();
+<span class="nocode"><a name="3">  3: </a></span>LocalDate localDate0 = MockIsoChronology.dateNow(isoChronology0);
+<span class="nocode"><a name="4">  4: </a></span>Driver driver0 = new Driver(&quot;ua]/_BlW&quot;, (String) null, &quot;L1q&quot;, &quot;L1q&quot;, localDate0, 1376.8504861974027, &quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;);
+<span class="nocode"><a name="5">  5: </a></span>driver0.clone();
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, driver0.getMoney(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, driver0.getTotalDistance(), 0.01);
+</pre>
+<h3>Test case 28</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Period period0 = Period.ZERO;
+<span class="nocode"><a name="2">  2: </a></span>IsoChronology isoChronology0 = period0.getChronology();
+<span class="nocode"><a name="3">  3: </a></span>LocalDate localDate0 = MockIsoChronology.dateNow(isoChronology0);
+<span class="nocode"><a name="4">  4: </a></span>Boolean boolean0 = Boolean.FALSE;
+<span class="nocode"><a name="5">  5: </a></span>Client client0 = new Client(&quot;&quot;, (String) null, &quot;ua]/_BlW&quot;, &quot;&quot;, localDate0);
+<span class="nocode"><a name="6">  6: </a></span>Point2D.Double point2D_Double0 = client0.getPosition();
+<span class="nocode"><a name="7">  7: </a></span>ArrayList&lt;Trip&gt; arrayList0 = client0.getTrips();
+<span class="nocode"><a name="8">  8: </a></span>Trip trip0 = new Trip(1, point2D_Double0, point2D_Double0, (Double) 0.0, (Double) point2D_Double0.y, localDate0, (String) null, &quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, (String) null, (-1920), 1, point2D_Double0, (-1.0), (-506.761), (-218.7451966889));
+<span class="nocode"><a name="9">  9: </a></span>arrayList0.add(trip0);
+<span class="nocode"><a name="10"> 10: </a></span>Driver driver0 = new Driver(&quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, &quot;&quot;, &quot;&quot;, &quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, localDate0, 0.0, 0.0, boolean0, 0.0, arrayList0, (-1920), 1376.8504861974027, (-1920), &quot;ua]/_BlW&quot;, &quot;L1q&quot;, 1.0);
+<span class="nocode"><a name="11"> 11: </a></span>Driver driver1 = (Driver)driver0.clone();
+<span class="nocode"><a name="12"> 12: </a></span>assertEquals(0.0, driver0.getTotalDistance(), 0.01);
+<span class="nocode"><a name="13"> 13: </a></span>assertEquals(1, driver1.getNumberOfTrips());
+<span class="nocode"><a name="14"> 14: </a></span>assertEquals(1376.8504861974027, driver0.getMoney(), 0.01);
+</pre>
+<h3>Test case 29</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>ZoneOffset zoneOffset0 = ZoneOffset.UTC;
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now((ZoneId) zoneOffset0);
+<span class="nocode"><a name="3">  3: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double(1.0, 1.0);
+<span class="nocode"><a name="4">  4: </a></span>ArrayList&lt;Trip&gt; arrayList0 = new ArrayList&lt;Trip&gt;();
+<span class="nocode"><a name="5">  5: </a></span>Client client0 = new Client(&quot;&quot;, &quot;4VQ&gt;3#;h.tWsidYT#&quot;, &quot;&quot;, &quot;:BQC&lt;w\&quot;p +RZ7,&quot;, localDate0, point2D_Double0, 1.0, arrayList0, (-3618), (-3618), true, &quot;User&quot;);
+<span class="nocode"><a name="6">  6: </a></span>client0.clone();
+<span class="nocode"><a name="7">  7: </a></span>assertEquals((-3618.0), client0.getMoney(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(1.0, client0.getTotalDistance(), 0.01);
+</pre>
+<h3>Test case 30</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Period period0 = Period.ZERO;
+<span class="nocode"><a name="2">  2: </a></span>IsoChronology isoChronology0 = period0.getChronology();
+<span class="nocode"><a name="3">  3: </a></span>LocalDate localDate0 = MockIsoChronology.dateNow(isoChronology0);
+<span class="nocode"><a name="4">  4: </a></span>Boolean boolean0 = Boolean.FALSE;
+<span class="nocode"><a name="5">  5: </a></span>Client client0 = new Client(&quot;&quot;, (String) null, &quot;ua]/_BlW&quot;, &quot;&quot;, localDate0);
+<span class="nocode"><a name="6">  6: </a></span>ArrayList&lt;Trip&gt; arrayList0 = client0.getTrips();
+<span class="nocode"><a name="7">  7: </a></span>Driver driver0 = new Driver(&quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, &quot;&quot;, &quot;&quot;, &quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, localDate0, 0.0, 0.0, boolean0, 0.0, arrayList0, (-1920), 1376.8504861974027, (-1920), &quot;ua]/_BlW&quot;, &quot;L1q&quot;, 1.0);
+<span class="nocode"><a name="8">  8: </a></span>boolean boolean1 = driver0.equals((User) client0);
+<span class="nocode"><a name="9">  9: </a></span>assertFalse(boolean1);
+</pre>
+<h3>Test case 31</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="2">  2: </a></span>Driver driver0 = new Driver(&quot;\nData de nascimento : &quot;, &quot;O10]&quot;, &quot;O10]&quot;, &quot;\nData de nascimento : &quot;, localDate0, 1.0, &quot;O10]&quot;);
+<span class="nocode"><a name="3">  3: </a></span>String string0 = driver0.getAddress();
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(&quot;\nData de nascimento : &quot;, string0);
+</pre>
+<h3>Test case 32</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="2">  2: </a></span>Client client0 = new Client(&quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, (String) null, &quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, (String) null, localDate0);
+<span class="nocode"><a name="3">  3: </a></span>String string0 = client0.getAddress();
+<span class="nocode"><a name="4">  4: </a></span>assertNull(string0);
+</pre>
+<h3>Test case 33</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay(1, 1);
+<span class="nocode"><a name="2">  2: </a></span>Boolean boolean0 = Boolean.TRUE;
+<span class="nocode"><a name="3">  3: </a></span>ArrayList&lt;Trip&gt; arrayList0 = new ArrayList&lt;Trip&gt;();
+<span class="nocode"><a name="4">  4: </a></span>Driver driver0 = new Driver(&quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;s&quot;, localDate0, 1, 1, boolean0, 1, arrayList0, 1, 1, 1, &quot;s&quot;, &quot;&quot;, 0.0);
+<span class="nocode"><a name="5">  5: </a></span>String string0 = driver0.getEmail();
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(&quot;&quot;, string0);
+</pre>
+<h3>Test case 34</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="2">  2: </a></span>Client client0 = new Client(&quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, &quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, &quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, &quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, localDate0);
+<span class="nocode"><a name="3">  3: </a></span>client0.setEmail((String) null);
+<span class="nocode"><a name="4">  4: </a></span>String string0 = client0.getEmail();
+<span class="nocode"><a name="5">  5: </a></span>assertNull(string0);
+</pre>
+<h3>Test case 35</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>ZoneOffset zoneOffset0 = ZoneOffset.ofHoursMinutes(0, 0);
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now((ZoneId) zoneOffset0);
+<span class="nocode"><a name="3">  3: </a></span>Boolean boolean0 = Boolean.valueOf(true);
+<span class="nocode"><a name="4">  4: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="5">  5: </a></span>Client client0 = new Client(&quot;Q?Lk6:&quot;, &quot;&quot;, &quot;&quot;, &quot;zh}2C/&quot;, localDate0, point2D_Double0, (-2749.6832800812), (ArrayList&lt;Trip&gt;) null, 0, 0.0, true, &quot;Q?Lk6:&quot;);
+<span class="nocode"><a name="6">  6: </a></span>ArrayList&lt;Trip&gt; arrayList0 = client0.getTrips();
+<span class="nocode"><a name="7">  7: </a></span>Driver driver0 = new Driver(&quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, localDate0, 0, 0, boolean0, 0, arrayList0, (-1), (-260.5628), 3600.0, &quot;&quot;, &quot;&quot;, 1271.788);
+<span class="nocode"><a name="8">  8: </a></span>double double0 = driver0.getMoney();
+<span class="nocode"><a name="9">  9: </a></span>assertEquals((-260.5628), double0, 0.01);
+</pre>
+<h3>Test case 36</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.ofEpochDay(0L);
+<span class="nocode"><a name="2">  2: </a></span>Driver driver0 = new Driver(&quot;(.-{(@xb~&quot;, &quot;\nPre\u00E7o estimado : &quot;, &quot;&gt;CT,! &lt;6[d~LI&quot;, &quot;`FJ7WzaS1V&gt;YeR&quot;, localDate0, 0.0, &quot;Utilizador - &gt;CT,! &lt;6[d~LI\neMail : \nPassword : \nMorada : &gt;CT,! &lt;6[d~LI\nData de nascimento : 1970-01-01\nDist\u00E2ncia Total : 0.0\nDinheiro gasto/ganho : 1796.0\nN\u00FAmero de viagens :0\nPosi\u00E7\u00E3o : (0.0,0.0)\nPontos : -1540\nPremium : true\nFila de espera : null&quot;);
+<span class="nocode"><a name="3">  3: </a></span>double double0 = driver0.getMoney();
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(0.0, double0, 0.01);
+</pre>
+<h3>Test case 37</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Period period0 = Period.ZERO;
+<span class="nocode"><a name="2">  2: </a></span>IsoChronology isoChronology0 = period0.getChronology();
+<span class="nocode"><a name="3">  3: </a></span>LocalDate localDate0 = MockIsoChronology.dateNow(isoChronology0);
+<span class="nocode"><a name="4">  4: </a></span>Boolean boolean0 = Boolean.FALSE;
+<span class="nocode"><a name="5">  5: </a></span>Client client0 = new Client(&quot;&quot;, (String) null, &quot;ua]/_BlW&quot;, &quot;&quot;, localDate0);
+<span class="nocode"><a name="6">  6: </a></span>ArrayList&lt;Trip&gt; arrayList0 = client0.getTrips();
+<span class="nocode"><a name="7">  7: </a></span>Driver driver0 = new Driver(&quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, &quot;&quot;, &quot;&quot;, &quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, localDate0, 0.0, 0.0, boolean0, 0.0, arrayList0, (-1920), 1376.8504861974027, (-1920), &quot;ua]/_BlW&quot;, &quot;L1q&quot;, 1.0);
+<span class="nocode"><a name="8">  8: </a></span>String string0 = driver0.getName();
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(&quot;&quot;, string0);
+</pre>
+<h3>Test case 38</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Period period0 = Period.ZERO;
+<span class="nocode"><a name="2">  2: </a></span>IsoChronology isoChronology0 = period0.getChronology();
+<span class="nocode"><a name="3">  3: </a></span>LocalDate localDate0 = MockIsoChronology.dateNow(isoChronology0);
+<span class="nocode"><a name="4">  4: </a></span>Driver driver0 = new Driver(&quot;ua]/_BlW&quot;, (String) null, &quot;L1q&quot;, &quot;L1q&quot;, localDate0, 1376.8504861974027, &quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;);
+<span class="nocode"><a name="5">  5: </a></span>String string0 = driver0.getName();
+<span class="nocode"><a name="6">  6: </a></span>assertNull(string0);
+</pre>
+<h3>Test case 39</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.ofEpochDay(361L);
+<span class="nocode"><a name="2">  2: </a></span>Driver driver0 = new Driver(&quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, localDate0, 361L, (String) null);
+<span class="nocode"><a name="3">  3: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="4">  4: </a></span>ArrayList&lt;Trip&gt; arrayList0 = driver0.getTrips();
+<span class="nocode"><a name="5">  5: </a></span>Trip trip0 = new Trip();
+<span class="nocode"><a name="6">  6: </a></span>arrayList0.add(trip0);
+<span class="nocode"><a name="7">  7: </a></span>Client client0 = new Client(&quot;&quot;, &quot;/dy\&quot;[CO{|&quot;, &quot;Viagem de (&quot;, &quot;&quot;, localDate0, point2D_Double0, 0.0, arrayList0, 777, 361L, false, &quot;N&amp;^?&quot;);
+<span class="nocode"><a name="8">  8: </a></span>int int0 = client0.getNumberOfTrips();
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(1, int0);
+</pre>
+<h3>Test case 40</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Period period0 = Period.ZERO;
+<span class="nocode"><a name="2">  2: </a></span>IsoChronology isoChronology0 = period0.getChronology();
+<span class="nocode"><a name="3">  3: </a></span>LocalDate localDate0 = MockIsoChronology.dateNow(isoChronology0);
+<span class="nocode"><a name="4">  4: </a></span>Boolean boolean0 = Boolean.FALSE;
+<span class="nocode"><a name="5">  5: </a></span>Client client0 = new Client(&quot;yln7e=&quot;, (String) null, &quot;ua]/_BlW&quot;, &quot;yln7e=&quot;, localDate0);
+<span class="nocode"><a name="6">  6: </a></span>ArrayList&lt;Trip&gt; arrayList0 = client0.getTrips();
+<span class="nocode"><a name="7">  7: </a></span>Driver driver0 = new Driver(&quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, &quot;&quot;, &quot;&quot;, &quot;_!g%Es@&amp;P&lt;%6!f,mXG&quot;, localDate0, 0.0, 0.0, boolean0, 0.0, arrayList0, (-1920), 1376.8504861974027, (-1920), &quot;ua]/_BlW&quot;, &quot;L1q&quot;, 1.0);
+<span class="nocode"><a name="8">  8: </a></span>String string0 = driver0.getPassword();
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(&quot;&quot;, string0);
+</pre>
+<h3>Test case 41</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Period period0 = Period.ofDays(2);
+<span class="nocode"><a name="2">  2: </a></span>IsoChronology isoChronology0 = period0.getChronology();
+<span class="nocode"><a name="3">  3: </a></span>LocalDate localDate0 = MockIsoChronology.dateNow(isoChronology0);
+<span class="nocode"><a name="4">  4: </a></span>Client client0 = new Client(&quot;_y&quot;, &quot;\nN\u00FAmero de viagens :&quot;, &quot;s&quot;, &quot;&quot;, localDate0);
+<span class="nocode"><a name="5">  5: </a></span>String string0 = client0.getPassword();
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(&quot;s&quot;, string0);
+</pre>
+<h3>Test case 42</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>ZoneOffset zoneOffset0 = ZoneOffset.ofHoursMinutes(0, 0);
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now((ZoneId) zoneOffset0);
+<span class="nocode"><a name="3">  3: </a></span>Boolean boolean0 = Boolean.valueOf(true);
+<span class="nocode"><a name="4">  4: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="5">  5: </a></span>Client client0 = new Client(&quot;Q?Lk6:&quot;, &quot;&quot;, &quot;&quot;, &quot;zh}2C/&quot;, localDate0, point2D_Double0, (-2749.6832800812), (ArrayList&lt;Trip&gt;) null, 0, 0.0, true, &quot;Q?Lk6:&quot;);
+<span class="nocode"><a name="6">  6: </a></span>ArrayList&lt;Trip&gt; arrayList0 = client0.getTrips();
+<span class="nocode"><a name="7">  7: </a></span>Driver driver0 = new Driver(&quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, localDate0, (-4325.3), (-1947.1), boolean0, (-4325.3), arrayList0, (-1), (-260.5628), 3600.0, &quot;&quot;, &quot;&quot;, 1271.788);
+<span class="nocode"><a name="8">  8: </a></span>double double0 = driver0.getTotalDistance();
+<span class="nocode"><a name="9">  9: </a></span>assertEquals((-4325.3), double0, 0.01);
+</pre>
+<h3>Test case 43</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="2">  2: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double(1172.5530169, 1172.5530169);
+<span class="nocode"><a name="3">  3: </a></span>ArrayList&lt;Trip&gt; arrayList0 = new ArrayList&lt;Trip&gt;();
+<span class="nocode"><a name="4">  4: </a></span>Client client0 = new Client(&quot;&quot;, &quot;(d&quot;, &quot;\nDist\u00E2ncia Total : &quot;, &quot;&quot;, localDate0, point2D_Double0, 1435.6444, arrayList0, (-599), (-1604.85113323), true, &quot;}Xf(UJC&quot;);
+<span class="nocode"><a name="5">  5: </a></span>double double0 = client0.getTotalDistance();
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(1435.6444, double0, 0.01);
+</pre>
+<h3>Test case 44</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.ofEpochDay(361L);
+<span class="nocode"><a name="2">  2: </a></span>Driver driver0 = new Driver(&quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, localDate0, 361L, (String) null);
+<span class="nocode"><a name="3">  3: </a></span>String string0 = driver0.toString();
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(&quot;Driver \nUtilizador - \neMail : \nPassword : \nMorada : \nData de nascimento : 1970-12-28\nDist\u00E2ncia Total : 0.0\nDinheiro gasto/ganho : 0.0\nN\u00FAmero de viagens :0\nDisponibilidade : true\nClassifica\u00E7\u00E3o : 0.0\nGrau de cumprimento : 361.0\nN\u00FAmero de classifica\u00E7\u00F5es : 0\nVe\u00EDculo : null\nDesvio total : 0.0\n&quot;, string0);
+</pre>
+<h3>Test case 45</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay(1, 1);
+<span class="nocode"><a name="2">  2: </a></span>Boolean boolean0 = Boolean.TRUE;
+<span class="nocode"><a name="3">  3: </a></span>ArrayList&lt;Trip&gt; arrayList0 = new ArrayList&lt;Trip&gt;();
+<span class="nocode"><a name="4">  4: </a></span>Driver driver0 = new Driver(&quot;?&quot;, &quot;?&quot;, &quot;?&quot;, &quot;s&quot;, localDate0, 1, 1, boolean0, 1, arrayList0, 1, 1, 1, &quot;s&quot;, &quot;&quot;, 0.0);
+<span class="nocode"><a name="5">  5: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double((-177.03), (-177.03));
+<span class="nocode"><a name="6">  6: </a></span>Point2D.Double point2D_Double1 = new Point2D.Double();
+<span class="nocode"><a name="7">  7: </a></span>Trip trip0 = new Trip(1, point2D_Double0, point2D_Double1, (Double) (-177.03), (Double) (-177.03), localDate0, &quot;m:&quot;, &quot;m:&quot;, &quot;&quot;, 1, 0.0, point2D_Double0, 0.0, 0.0, 0.0);
+<span class="nocode"><a name="8">  8: </a></span>driver0.addTrip(trip0);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals((-176.03), driver0.getMoney(), 0.01);
+</pre>
+</div><div id="post">
+<h2 class=title id=source>Source Code</h2>
+<div class=source>
+<p><pre class="prettyprint" style="border: 1px solid #888;padding: 2px"><span class="nocode"><a name="1">  1: </a></span>
+<span class="nocode"><a name="2">  2: </a></span>import java.awt.geom.Point2D;
+<span class="nocode"><a name="3">  3: </a></span>import java.io.Serializable;
+<span class="nocode"><a name="4">  4: </a></span>import java.time.LocalDate;
+<span class="nocode"><a name="5">  5: </a></span>import java.util.ArrayList;
+<span class="nocode"><a name="6">  6: </a></span>import java.util.Date;
+<span class="nocode"><a name="7">  7: </a></span>
+<span class="nocode"><a name="8">  8: </a></span>/**
+<span class="nocode"><a name="9">  9: </a></span> * User of UMeR.
+<span class="nocode"><a name="10"> 10: </a></span> */
+<span class="nocode"><a name="11"> 11: </a></span>public abstract class User implements Serializable {
+<span class="nocode"><a name="12"> 12: </a></span>
+<span class="nocode"><a name="13"> 13: </a></span>    /** Vari&aacute;veis de Inst&acirc;ncia */
+<span class="nocode"><a name="14"> 14: </a></span>
+<span class="nocode"><a name="15"> 15: </a></span>    private String email; ///&lt; Email
+<span class="nocode"><a name="16"> 16: </a></span>	private String name; ///&lt; Nome
+<span class="nocode"><a name="17"> 17: </a></span>	private String password; ///&lt; Password
+<span class="nocode"><a name="18"> 18: </a></span>	private String address; ///&lt; Morada
+<span class="nocode"><a name="19"> 19: </a></span>	private LocalDate birthday; ///&lt; Data de nascimento
+<span class="nocode"><a name="20"> 20: </a></span>	private double totalDistance; ///&lt; Dist&acirc;ncita Total
+<span class="nocode"><a name="21"> 21: </a></span>	private ArrayList&lt;Trip&gt; trips; ///&lt; Viagens do utilizador
+<span class="nocode"><a name="22"> 22: </a></span>	private double money; ///&lt; Dinheiro
+<span class="nocode"><a name="23"> 23: </a></span>
+<span class="nocode"><a name="24"> 24: </a></span>
+<span class="nocode"><a name="25"> 25: </a></span>    /** Construtores */
+<span class="nocode"><a name="26"> 26: </a></span>
+<span class="nocode"><a name="27"> 27: </a></span>	/**
+<span class="nocode"><a name="28"> 28: </a></span>	 * Constr&oacute;i um novo user a partir dos diferentes parametros fornecidos
+<span class="nocode"><a name="29"> 29: </a></span>	 * @param email 		Email
+<span class="nocode"><a name="30"> 30: </a></span>	 * @param name 			Nome
+<span class="nocode"><a name="31"> 31: </a></span>	 * @param pass			Password
+<span class="nocode"><a name="32"> 32: </a></span>	 * @param address 		Morada
+<span class="nocode"><a name="33"> 33: </a></span>	 * @param birthday 		Dia de nascimento
+<span class="nocode"><a name="34"> 34: </a></span>	 * @param totalDistance Distancia Total
+<span class="nocode"><a name="35"> 35: </a></span>	 * @param trip 			Viagens
+<span class="nocode"><a name="36"> 36: </a></span>	 * @param money 		Dinheiro
+<span class="nocode"><a name="37"> 37: </a></span>	 */
+<span class="nocode"><a name="38"> 38: </a></span>	public User(String email, String name, String password, String address, LocalDate birthday, double totalDistance, ArrayList&lt;Trip&gt; trips, double money){
+<span class="nocode"><a name="39"> 39: </a></span>		this.email = email;
+<span class="nocode"><a name="40"> 40: </a></span>		this.name = name;
+<span class="nocode"><a name="41"> 41: </a></span>		this.password = password;
+<span class="nocode"><a name="42"> 42: </a></span>		this.address = address;
+<span class="nocode"><a name="43"> 43: </a></span>		this.birthday = LocalDate.of(birthday.getYear(), birthday.getMonth(), birthday.getDayOfMonth());
+<span class="nocode"><a name="44"> 44: </a></span>		this.totalDistance = totalDistance;
+<span class="nocode"><a name="45"> 45: </a></span>		this.money = money;
+<span class="nocode"><a name="46"> 46: </a></span>
+<span class="nocode"><a name="47"> 47: </a></span>		if (trips != null)
+<span class="nocode"><a name="48"> 48: </a></span>			this.trips = new ArrayList&lt;&gt;(trips);
+<span class="nocode"><a name="49"> 49: </a></span>		else this.trips = new ArrayList&lt;&gt;();
+<span class="nocode"><a name="50"> 50: </a></span>	}
+<span class="nocode"><a name="51"> 51: </a></span>
+<span class="nocode"><a name="52"> 52: </a></span>	/**
+<span class="nocode"><a name="53"> 53: </a></span>	 * Constroi um user a partir de um j&aacute; definido
+<span class="nocode"><a name="54"> 54: </a></span>	 * @param p
+<span class="nocode"><a name="55"> 55: </a></span>	 */
+<span class="nocode"><a name="56"> 56: </a></span>	public User(User p){
+<span class="nocode"><a name="57"> 57: </a></span>		this(p.getEmail(), p.getName(), p.getPassword(), p.getAddress(), p.getBirthday(), p.getTotalDistance(), p.getTrips(), p.getMoney());
+<span class="nocode"><a name="58"> 58: </a></span>	}
+<span class="nocode"><a name="59"> 59: </a></span>
+<span class="nocode"><a name="60"> 60: </a></span>	/**
+<span class="nocode"><a name="61"> 61: </a></span>	 * Constroi um user sem parametros (tudo a null e 0,0)
+<span class="nocode"><a name="62"> 62: </a></span>	 */
+<span class="nocode"><a name="63"> 63: </a></span>	public User(){
+<span class="nocode"><a name="64"> 64: </a></span>		this.email = null;
+<span class="nocode"><a name="65"> 65: </a></span>		this.name = null;
+<span class="nocode"><a name="66"> 66: </a></span>		this.password = null;
+<span class="nocode"><a name="67"> 67: </a></span>		this.address = null;
+<span class="nocode"><a name="68"> 68: </a></span>		this.birthday = LocalDate.of(0,0,0);
+<span class="nocode"><a name="69"> 69: </a></span>		this.trips = new ArrayList&lt;&gt;();
+<span class="nocode"><a name="70"> 70: </a></span>		this.money = 0;
+<span class="nocode"><a name="71"> 71: </a></span>	}
+<span class="nocode"><a name="72"> 72: </a></span>
+<span class="nocode"><a name="73"> 73: </a></span>
+<span class="nocode"><a name="74"> 74: </a></span>    /** Metodos de Int&acirc;ncia */
+<span class="nocode"><a name="75"> 75: </a></span>
+<span class="nocode"><a name="76"> 76: </a></span>	/**
+<span class="nocode"><a name="77"> 77: </a></span>	 * Retorna o email de um user
+<span class="nocode"><a name="78"> 78: </a></span>	 * @return email
+<span class="nocode"><a name="79"> 79: </a></span>	 */
+<span class="nocode"><a name="80"> 80: </a></span>	public String getEmail(){
+<span class="nocode"><a name="81"> 81: </a></span> 		return this.email;
+<span class="nocode"><a name="82"> 82: </a></span> 	}
+<span class="nocode"><a name="83"> 83: </a></span>
+<span class="nocode"><a name="84"> 84: </a></span>	/**
+<span class="nocode"><a name="85"> 85: </a></span>	 * Retorna o nome de um user
+<span class="nocode"><a name="86"> 86: </a></span>	 * @return name
+<span class="nocode"><a name="87"> 87: </a></span>	 */
+<span class="nocode"><a name="88"> 88: </a></span> 	public String getName(){
+<span class="nocode"><a name="89"> 89: </a></span> 		return this.name;
+<span class="nocode"><a name="90"> 90: </a></span> 	}
+<span class="nocode"><a name="91"> 91: </a></span>
+<span class="nocode"><a name="92"> 92: </a></span>	/**
+<span class="nocode"><a name="93"> 93: </a></span>	 * Retorna o password de um user
+<span class="nocode"><a name="94"> 94: </a></span>	 * @return password
+<span class="nocode"><a name="95"> 95: </a></span>	 */
+<span class="nocode"><a name="96"> 96: </a></span> 	public String getPassword(){
+<span class="nocode"><a name="97"> 97: </a></span> 		return this.password;
+<span class="nocode"><a name="98"> 98: </a></span> 	}
+<span class="nocode"><a name="99"> 99: </a></span>
+<span class="nocode"><a name="100">100: </a></span>	/**
+<span class="nocode"><a name="101">101: </a></span>	 * Retorna a morada de um user
+<span class="nocode"><a name="102">102: </a></span>	 * @return address
+<span class="nocode"><a name="103">103: </a></span>	 */
+<span class="nocode"><a name="104">104: </a></span> 	public String getAddress(){
+<span class="nocode"><a name="105">105: </a></span> 		return this.address;
+<span class="nocode"><a name="106">106: </a></span> 	}
+<span class="nocode"><a name="107">107: </a></span>
+<span class="nocode"><a name="108">108: </a></span>	/**
+<span class="nocode"><a name="109">109: </a></span>	 * Retorna a data de anivers&aacute;rio de um user
+<span class="nocode"><a name="110">110: </a></span>	 * @return birthday
+<span class="nocode"><a name="111">111: </a></span>	 */
+<span class="nocode"><a name="112">112: </a></span> 	public LocalDate getBirthday(){
+<span class="nocode"><a name="113">113: </a></span> 		return LocalDate.of(this.birthday.getYear(), this.birthday.getMonth(), this.birthday.getDayOfMonth());
+<span class="nocode"><a name="114">114: </a></span> 	}
+<span class="nocode"><a name="115">115: </a></span>
+<span class="nocode"><a name="116">116: </a></span>	/**
+<span class="nocode"><a name="117">117: </a></span>	 * Retorna o n&uacute;mero de kilometros feitos pelo user
+<span class="nocode"><a name="118">118: </a></span>	 * @return N&uacute;mero de kilometros total
+<span class="nocode"><a name="119">119: </a></span>	 */
+<span class="nocode"><a name="120">120: </a></span>	public double getTotalDistance(){
+<span class="nocode"><a name="121">121: </a></span>		return this.totalDistance;
+<span class="nocode"><a name="122">122: </a></span>	}
+<span class="nocode"><a name="123">123: </a></span>
+<span class="nocode"><a name="124">124: </a></span>	/**
+<span class="nocode"><a name="125">125: </a></span>	 * Retorna uma c&oacute;pia do ArrayList com as viagens
+<span class="nocode"><a name="126">126: </a></span>	 * @return Viagens
+<span class="nocode"><a name="127">127: </a></span>	 */
+<span class="nocode"><a name="128">128: </a></span>	public ArrayList&lt;Trip&gt; getTrips() {
+<span class="nocode"><a name="129">129: </a></span>		ArrayList&lt;Trip&gt; trip = new ArrayList&lt;&gt;();
+<span class="nocode"><a name="130">130: </a></span>		if (this.trips != null)
+<span class="nocode"><a name="131">131: </a></span>			for(Trip t : this.trips) {
+<span class="nocode"><a name="132">132: </a></span>				trip.add(t.clone());
+<span class="nocode"><a name="133">133: </a></span>			}
+<span class="nocode"><a name="134">134: </a></span>		return trip;
+<span class="nocode"><a name="135">135: </a></span>	}
+<span class="nocode"><a name="136">136: </a></span>
+<span class="nocode"><a name="137">137: </a></span>	/**
+<span class="nocode"><a name="138">138: </a></span>	 * Retorna o n&uacute;mero de viagens j&aacute; efetuadas por um user
+<span class="nocode"><a name="139">139: </a></span>	 * @return N&uacute;mero de viagens
+<span class="nocode"><a name="140">140: </a></span>	 */
+<span class="nocode"><a name="141">141: </a></span>	public int getNumberOfTrips(){
+<span class="nocode"><a name="142">142: </a></span>		return this.trips.size();
+<span class="nocode"><a name="143">143: </a></span>	}
+<span class="nocode"><a name="144">144: </a></span>
+<span class="nocode"><a name="145">145: </a></span>	/**
+<span class="nocode"><a name="146">146: </a></span>	 * Retorna a quantia de dinheiro gasta/ganha pelo utilizador
+<span class="nocode"><a name="147">147: </a></span>	 * @return
+<span class="nocode"><a name="148">148: </a></span>	 */
+<span class="nocode"><a name="149">149: </a></span>	public double getMoney(){
+<span class="nocode"><a name="150">150: </a></span>		return this.money;
+<span class="nocode"><a name="151">151: </a></span>	}
+<span class="nocode"><a name="152">152: </a></span>
+<span class="nocode"><a name="153">153: </a></span>	/**
+<span class="nocode"><a name="154">154: </a></span>	 * Altera o email de um user
+<span class="nocode"><a name="155">155: </a></span>	 * @param email Novo email
+<span class="nocode"><a name="156">156: </a></span>	 */
+<span class="nocode"><a name="157">157: </a></span>	public void setEmail(String email){
+<span class="nocode"><a name="158">158: </a></span> 		this.email = email;
+<span class="nocode"><a name="159">159: </a></span>	}
+<span class="nocode"><a name="160">160: </a></span>
+<span class="nocode"><a name="161">161: </a></span>	/**
+<span class="nocode"><a name="162">162: </a></span>	 * Altera o nome de um user
+<span class="nocode"><a name="163">163: </a></span>	 * @param name Novo nome
+<span class="nocode"><a name="164">164: </a></span>	 */
+<span class="nocode"><a name="165">165: </a></span>	public void setName(String name){
+<span class="nocode"><a name="166">166: </a></span> 		this.name = name;
+<span class="nocode"><a name="167">167: </a></span>	}
+<span class="nocode"><a name="168">168: </a></span>
+<span class="nocode"><a name="169">169: </a></span>	/**
+<span class="nocode"><a name="170">170: </a></span>	 * Altera a password de um user
+<span class="nocode"><a name="171">171: </a></span>	 * @param password Nova password
+<span class="nocode"><a name="172">172: </a></span>	 */
+<span class="nocode"><a name="173">173: </a></span>	public void setPassword(String password){
+<span class="nocode"><a name="174">174: </a></span>		this.password = password;
+<span class="nocode"><a name="175">175: </a></span>	}
+<span class="nocode"><a name="176">176: </a></span>
+<span class="nocode"><a name="177">177: </a></span>	/**
+<span class="nocode"><a name="178">178: </a></span>	 * Altera a morada de um user
+<span class="nocode"><a name="179">179: </a></span>	 * @param address Novo morada
+<span class="nocode"><a name="180">180: </a></span>	 */
+<span class="nocode"><a name="181">181: </a></span>	public void setAddress(String address){
+<span class="nocode"><a name="182">182: </a></span>		this.address = address;
+<span class="nocode"><a name="183">183: </a></span>	}
+<span class="nocode"><a name="184">184: </a></span>
+<span class="nocode"><a name="185">185: </a></span>	/**
+<span class="nocode"><a name="186">186: </a></span>	 * Altera o anivers&aacute;rio de um user
+<span class="nocode"><a name="187">187: </a></span>	 * @param birthday Novo anivers&aacute;rio
+<span class="nocode"><a name="188">188: </a></span>	 */
+<span class="nocode"><a name="189">189: </a></span>	public void setBirthday(LocalDate birthday){
+<span class="nocode"><a name="190">190: </a></span>		this.birthday = LocalDate.of(birthday.getYear(), birthday.getMonth(), birthday.getDayOfMonth());
+<span class="nocode"><a name="191">191: </a></span>	}
+<span class="nocode"><a name="192">192: </a></span>
+<span class="nocode"><a name="193">193: </a></span>	/**
+<span class="nocode"><a name="194">194: </a></span>	 * Altera a dist&acirc;ncia total percorrida
+<span class="nocode"><a name="195">195: </a></span>	 * @param totalDistance Nova dist&acirc;ncia total
+<span class="nocode"><a name="196">196: </a></span>	 */
+<span class="nocode"><a name="197">197: </a></span>	public void setTotalDistance(double totalDistance){
+<span class="nocode"><a name="198">198: </a></span>		this.totalDistance = totalDistance;
+<span class="nocode"><a name="199">199: </a></span>	}
+<span class="nocode"><a name="200">200: </a></span>
+<span class="nocode"><a name="201">201: </a></span>	/**
+<span class="nocode"><a name="202">202: </a></span>	 * Altera o dinheiro gasto/ganho pelo user
+<span class="nocode"><a name="203">203: </a></span>	 * @param money Nova quantia
+<span class="nocode"><a name="204">204: </a></span>	 */
+<span class="nocode"><a name="205">205: </a></span>	public void setMoney(double money){
+<span class="nocode"><a name="206">206: </a></span>		this.money = money;
+<span class="nocode"><a name="207">207: </a></span>	}
+<span class="nocode"><a name="208">208: </a></span>
+<span class="nocode"><a name="209">209: </a></span>	/**
+<span class="nocode"><a name="210">210: </a></span>	 * Imprime a informa&ccedil;&atilde;o de um utilizador
+<span class="nocode"><a name="211">211: </a></span>	 * @return String com a informa&ccedil;&atilde;o
+<span class="nocode"><a name="212">212: </a></span>	 */
+<span class="nocode"><a name="213">213: </a></span>	public String toString(){
+<span class="nocode"><a name="214">214: </a></span>		return 	&quot;Utilizador - &quot; 		 + this.name 		  + &quot;\n&quot; +
+<span class="nocode"><a name="215">215: </a></span>				&quot;eMail : &quot; 				 + this.email 		  + &quot;\n&quot; +
+<span class="nocode"><a name="216">216: </a></span>				&quot;Password : &quot; 			 + this.password 	  + &quot;\n&quot; +
+<span class="nocode"><a name="217">217: </a></span>				&quot;Morada : &quot; 			 + this.address 	  + &quot;\n&quot; +
+<span class="nocode"><a name="218">218: </a></span>				&quot;Data de nascimento : &quot;  + this.birthday 	  + &quot;\n&quot; +
+<span class="nocode"><a name="219">219: </a></span>				&quot;Dist&acirc;ncia Total : &quot; 	 + this.totalDistance + &quot;\n&quot;+
+<span class="nocode"><a name="220">220: </a></span>				&quot;Dinheiro gasto/ganho : &quot;+ this.money 		  + &quot;\n&quot; +
+<span class="nocode"><a name="221">221: </a></span>				&quot;N&uacute;mero de viagens :&quot;	 + this.trips.size();
+<span class="nocode"><a name="222">222: </a></span>	}
+<span class="nocode"><a name="223">223: </a></span>
+<span class="nocode"><a name="224">224: </a></span>	/**
+<span class="nocode"><a name="225">225: </a></span>	 * Compara dois utilizadores
+<span class="nocode"><a name="226">226: </a></span>	 * @param u utilizador
+<span class="nocode"><a name="227">227: </a></span>	 * @return &Eacute; o mesmo utilizador (true) ou n&atilde;o (false)
+<span class="nocode"><a name="228">228: </a></span>	 */
+<span class="nocode"><a name="229">229: </a></span>	public boolean equals(User user){
+<span class="nocode"><a name="230">230: </a></span>		return this.email.equals(user.getEmail());
+<span class="nocode"><a name="231">231: </a></span>	}
+<span class="nocode"><a name="232">232: </a></span>
+<span class="nocode"><a name="233">233: </a></span>	/**
+<span class="nocode"><a name="234">234: </a></span>	 * Faz a c&oacute;pia de um user
+<span class="nocode"><a name="235">235: </a></span>	 * @return C&oacute;pia de User
+<span class="nocode"><a name="236">236: </a></span>	 */
+<span class="nocode"><a name="237">237: </a></span>	public abstract User clone();
+<span class="nocode"><a name="238">238: </a></span>
+<span class="nocode"><a name="239">239: </a></span>	/**
+<span class="nocode"><a name="240">240: </a></span>	 * Adiciona uma viagem a um utilizador
+<span class="nocode"><a name="241">241: </a></span>	 * @param trips Viagem a ser adicionada
+<span class="nocode"><a name="242">242: </a></span>	 */
+<span class="nocode"><a name="243">243: </a></span>	public void addTrip(Trip t){
+<span class="nocode"><a name="244">244: </a></span>		this.trips.add(t);
+<span class="nocode"><a name="245">245: </a></span>		this.totalDistance += t.distance();
+<span class="nocode"><a name="246">246: </a></span>		this.money += t.getPrice();
+<span class="nocode"><a name="247">247: </a></span>	}
+<span class="nocode"><a name="248">248: </a></span>
+<span class="nocode"><a name="249">249: </a></span>	/**
+<span class="nocode"><a name="250">250: </a></span>	 * Retorna as (diferentes) datas das viagens feitas
+<span class="nocode"><a name="251">251: </a></span>	 * @return Datas das viagens
+<span class="nocode"><a name="252">252: </a></span>	 */
+<span class="nocode"><a name="253">253: </a></span>	public ArrayList&lt;String&gt; getDates(){
+<span class="nocode"><a name="254">254: </a></span>		ArrayList&lt;String&gt; dates = new ArrayList&lt;&gt;();
+<span class="nocode"><a name="255">255: </a></span>		for (Trip t: this.trips)
+<span class="nocode"><a name="256">256: </a></span>			if (!dates.contains(t.getDate().toString())) {
+<span class="nocode"><a name="257">257: </a></span>				dates.add(t.getDate().toString());
+<span class="nocode"><a name="258">258: </a></span>			}
+<span class="nocode"><a name="259">259: </a></span>		return dates;
+<span class="nocode"><a name="260">260: </a></span>	}
+<span class="nocode"><a name="261">261: </a></span>}
+</pre>
+</p>
+</div>
+<div id="post">
+<h2 id=parameters>EvoSuite Parameters</h2>
+<div class=statistics><ul>
+<li>TARGET_CLASS: User
+<li>criterion: LINE;BRANCH;EXCEPTION;WEAKMUTATION;OUTPUT;METHOD;METHODNOEXCEPTION;CBRANCH
+<li>Coverage: 0.9261352362914863
+<li>Total_Goals: 258
+<li>Covered_Goals: 235
+</ul></div>
+</div>
+<p><br><a href="../report-generation.html">Back to Overview</a></p>
+</div>
+</body>
+</html>

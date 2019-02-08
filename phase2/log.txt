@@ -1,0 +1,924 @@
+* EvoSuite 1.0.6
+* Starting client
+* Properties loaded from /home/pc/Desktop/ATS/projeto-f2/2versao/ats-master/ats1819-projecto/evosuite-files/evosuite.properties
+* Connecting to master process on port 18654
+  - target/classes2
+  - novostestes
+* Finished analyzing classpath
+* Analyzing entry: 
+* Found 48 classes with prefix ''
+* Found 16 test class(es)
+* Executing test(s)
+  Executing CustomProbabilisticDistribution_ESTest
+* Number of test cases to execute: 5
+[MASTER] 18:11:04.192 [logback-1] WARN  Sandbox - Sandbox can be initalized only once
+* Started: ClassName: CustomProbabilisticDistribution_ESTest, MethodName: test3
+* Finished: ClassName: CustomProbabilisticDistribution_ESTest, MethodName: test3
+* Started: ClassName: CustomProbabilisticDistribution_ESTest, MethodName: test2
+* Finished: ClassName: CustomProbabilisticDistribution_ESTest, MethodName: test2
+* Started: ClassName: CustomProbabilisticDistribution_ESTest, MethodName: test4
+* Finished: ClassName: CustomProbabilisticDistribution_ESTest, MethodName: test4
+* Started: ClassName: CustomProbabilisticDistribution_ESTest, MethodName: test1
+* Finished: ClassName: CustomProbabilisticDistribution_ESTest, MethodName: test1
+* Started: ClassName: CustomProbabilisticDistribution_ESTest, MethodName: test0
+* Finished: ClassName: CustomProbabilisticDistribution_ESTest, MethodName: test0
+* Number of test cases executed: 5
+  Executing DeviationComparator_ESTest
+* Number of test cases to execute: 4
+[MASTER] 18:11:04.219 [logback-1] WARN  Sandbox - Sandbox can be initalized only once
+* Started: ClassName: DeviationComparator_ESTest, MethodName: test0
+* Finished: ClassName: DeviationComparator_ESTest, MethodName: test0
+* Started: ClassName: DeviationComparator_ESTest, MethodName: test1
+* Finished: ClassName: DeviationComparator_ESTest, MethodName: test1
+* Started: ClassName: DeviationComparator_ESTest, MethodName: test2
+* Finished: ClassName: DeviationComparator_ESTest, MethodName: test2
+* Started: ClassName: DeviationComparator_ESTest, MethodName: test3
+* Finished: ClassName: DeviationComparator_ESTest, MethodName: test3
+* Number of test cases executed: 4
+  Executing RatingComparator_ESTest
+* Number of test cases to execute: 4
+[MASTER] 18:11:04.233 [logback-1] WARN  Sandbox - Sandbox can be initalized only once
+* Started: ClassName: RatingComparator_ESTest, MethodName: test3
+* Finished: ClassName: RatingComparator_ESTest, MethodName: test3
+* Started: ClassName: RatingComparator_ESTest, MethodName: test2
+* Finished: ClassName: RatingComparator_ESTest, MethodName: test2
+* Started: ClassName: RatingComparator_ESTest, MethodName: test1
+* Finished: ClassName: RatingComparator_ESTest, MethodName: test1
+* Started: ClassName: RatingComparator_ESTest, MethodName: test0
+* Finished: ClassName: RatingComparator_ESTest, MethodName: test0
+* Number of test cases executed: 4
+  Executing MoneyComparatorD_ESTest
+* Number of test cases to execute: 4
+[MASTER] 18:11:04.244 [logback-1] WARN  Sandbox - Sandbox can be initalized only once
+* Started: ClassName: MoneyComparatorD_ESTest, MethodName: test0
+* Finished: ClassName: MoneyComparatorD_ESTest, MethodName: test0
+* Started: ClassName: MoneyComparatorD_ESTest, MethodName: test1
+* Finished: ClassName: MoneyComparatorD_ESTest, MethodName: test1
+* Started: ClassName: MoneyComparatorD_ESTest, MethodName: test2
+* Finished: ClassName: MoneyComparatorD_ESTest, MethodName: test2
+* Started: ClassName: MoneyComparatorD_ESTest, MethodName: test3
+* Finished: ClassName: MoneyComparatorD_ESTest, MethodName: test3
+* Number of test cases executed: 4
+  Executing MoneyComparatorC_ESTest
+[MASTER] 18:11:04.252 [logback-1] WARN  Sandbox - Sandbox can be initalized only once
+* Number of test cases to execute: 4
+* Started: ClassName: MoneyComparatorC_ESTest, MethodName: test0
+* Finished: ClassName: MoneyComparatorC_ESTest, MethodName: test0
+* Started: ClassName: MoneyComparatorC_ESTest, MethodName: test1
+* Finished: ClassName: MoneyComparatorC_ESTest, MethodName: test1
+* Started: ClassName: MoneyComparatorC_ESTest, MethodName: test2
+* Finished: ClassName: MoneyComparatorC_ESTest, MethodName: test2
+* Started: ClassName: MoneyComparatorC_ESTest, MethodName: test3
+* Finished: ClassName: MoneyComparatorC_ESTest, MethodName: test3
+* Number of test cases executed: 4
+  Executing Helicopter_ESTest
+* Number of test cases to execute: 8
+[MASTER] 18:11:04.262 [logback-1] WARN  Sandbox - Sandbox can be initalized only once
+* Started: ClassName: Helicopter_ESTest, MethodName: test0
+* Finished: ClassName: Helicopter_ESTest, MethodName: test0
+* Started: ClassName: Helicopter_ESTest, MethodName: test1
+* Finished: ClassName: Helicopter_ESTest, MethodName: test1
+* Started: ClassName: Helicopter_ESTest, MethodName: test4
+* Finished: ClassName: Helicopter_ESTest, MethodName: test4
+* Started: ClassName: Helicopter_ESTest, MethodName: test5
+* Finished: ClassName: Helicopter_ESTest, MethodName: test5
+* Started: ClassName: Helicopter_ESTest, MethodName: test2
+* Finished: ClassName: Helicopter_ESTest, MethodName: test2
+* Started: ClassName: Helicopter_ESTest, MethodName: test3
+* Finished: ClassName: Helicopter_ESTest, MethodName: test3
+* Started: ClassName: Helicopter_ESTest, MethodName: test6
+* Finished: ClassName: Helicopter_ESTest, MethodName: test6
+* Started: ClassName: Helicopter_ESTest, MethodName: test7
+* Finished: ClassName: Helicopter_ESTest, MethodName: test7
+* Number of test cases executed: 8
+  Executing Vehicle_ESTest
+* Number of test cases to execute: 57
+[MASTER] 18:11:04.282 [logback-1] WARN  Sandbox - Sandbox can be initalized only once
+* Started: ClassName: Vehicle_ESTest, MethodName: test30
+* Finished: ClassName: Vehicle_ESTest, MethodName: test30
+* Started: ClassName: Vehicle_ESTest, MethodName: test39
+* Finished: ClassName: Vehicle_ESTest, MethodName: test39
+* Started: ClassName: Vehicle_ESTest, MethodName: test34
+* Finished: ClassName: Vehicle_ESTest, MethodName: test34
+* Started: ClassName: Vehicle_ESTest, MethodName: test33
+* Finished: ClassName: Vehicle_ESTest, MethodName: test33
+* Started: ClassName: Vehicle_ESTest, MethodName: test32
+* Finished: ClassName: Vehicle_ESTest, MethodName: test32
+* Started: ClassName: Vehicle_ESTest, MethodName: test31
+* Finished: ClassName: Vehicle_ESTest, MethodName: test31
+* Started: ClassName: Vehicle_ESTest, MethodName: test38
+* Finished: ClassName: Vehicle_ESTest, MethodName: test38
+* Started: ClassName: Vehicle_ESTest, MethodName: test37
+* Finished: ClassName: Vehicle_ESTest, MethodName: test37
+* Started: ClassName: Vehicle_ESTest, MethodName: test36
+* Finished: ClassName: Vehicle_ESTest, MethodName: test36
+* Started: ClassName: Vehicle_ESTest, MethodName: test35
+* Finished: ClassName: Vehicle_ESTest, MethodName: test35
+* Started: ClassName: Vehicle_ESTest, MethodName: test29
+* Finished: ClassName: Vehicle_ESTest, MethodName: test29
+* Started: ClassName: Vehicle_ESTest, MethodName: test28
+* Finished: ClassName: Vehicle_ESTest, MethodName: test28
+* Started: ClassName: Vehicle_ESTest, MethodName: test23
+* Finished: ClassName: Vehicle_ESTest, MethodName: test23
+* Started: ClassName: Vehicle_ESTest, MethodName: test22
+* Finished: ClassName: Vehicle_ESTest, MethodName: test22
+* Started: ClassName: Vehicle_ESTest, MethodName: test21
+* Finished: ClassName: Vehicle_ESTest, MethodName: test21
+* Started: ClassName: Vehicle_ESTest, MethodName: test20
+* Finished: ClassName: Vehicle_ESTest, MethodName: test20
+* Started: ClassName: Vehicle_ESTest, MethodName: test27
+* Finished: ClassName: Vehicle_ESTest, MethodName: test27
+* Started: ClassName: Vehicle_ESTest, MethodName: test26
+* Finished: ClassName: Vehicle_ESTest, MethodName: test26
+* Started: ClassName: Vehicle_ESTest, MethodName: test25
+* Finished: ClassName: Vehicle_ESTest, MethodName: test25
+* Started: ClassName: Vehicle_ESTest, MethodName: test24
+* Finished: ClassName: Vehicle_ESTest, MethodName: test24
+* Started: ClassName: Vehicle_ESTest, MethodName: test52
+* Finished: ClassName: Vehicle_ESTest, MethodName: test52
+* Started: ClassName: Vehicle_ESTest, MethodName: test51
+* Finished: ClassName: Vehicle_ESTest, MethodName: test51
+* Started: ClassName: Vehicle_ESTest, MethodName: test50
+* Finished: ClassName: Vehicle_ESTest, MethodName: test50
+* Started: ClassName: Vehicle_ESTest, MethodName: test19
+* Finished: ClassName: Vehicle_ESTest, MethodName: test19
+* Started: ClassName: Vehicle_ESTest, MethodName: test18
+* Finished: ClassName: Vehicle_ESTest, MethodName: test18
+* Started: ClassName: Vehicle_ESTest, MethodName: test17
+* Finished: ClassName: Vehicle_ESTest, MethodName: test17
+* Started: ClassName: Vehicle_ESTest, MethodName: test12
+* Finished: ClassName: Vehicle_ESTest, MethodName: test12
+* Started: ClassName: Vehicle_ESTest, MethodName: test56
+* Finished: ClassName: Vehicle_ESTest, MethodName: test56
+* Started: ClassName: Vehicle_ESTest, MethodName: test11
+* Finished: ClassName: Vehicle_ESTest, MethodName: test11
+* Started: ClassName: Vehicle_ESTest, MethodName: test55
+* Finished: ClassName: Vehicle_ESTest, MethodName: test55
+* Started: ClassName: Vehicle_ESTest, MethodName: test10
+* Finished: ClassName: Vehicle_ESTest, MethodName: test10
+* Started: ClassName: Vehicle_ESTest, MethodName: test54
+* Finished: ClassName: Vehicle_ESTest, MethodName: test54
+* Started: ClassName: Vehicle_ESTest, MethodName: test53
+* Finished: ClassName: Vehicle_ESTest, MethodName: test53
+* Started: ClassName: Vehicle_ESTest, MethodName: test16
+* Finished: ClassName: Vehicle_ESTest, MethodName: test16
+* Started: ClassName: Vehicle_ESTest, MethodName: test15
+* Finished: ClassName: Vehicle_ESTest, MethodName: test15
+* Started: ClassName: Vehicle_ESTest, MethodName: test14
+* Finished: ClassName: Vehicle_ESTest, MethodName: test14
+* Started: ClassName: Vehicle_ESTest, MethodName: test13
+* Finished: ClassName: Vehicle_ESTest, MethodName: test13
+* Started: ClassName: Vehicle_ESTest, MethodName: test41
+* Finished: ClassName: Vehicle_ESTest, MethodName: test41
+* Started: ClassName: Vehicle_ESTest, MethodName: test40
+* Finished: ClassName: Vehicle_ESTest, MethodName: test40
+* Started: ClassName: Vehicle_ESTest, MethodName: test09
+* Finished: ClassName: Vehicle_ESTest, MethodName: test09
+* Started: ClassName: Vehicle_ESTest, MethodName: test08
+* Finished: ClassName: Vehicle_ESTest, MethodName: test08
+* Started: ClassName: Vehicle_ESTest, MethodName: test07
+* Finished: ClassName: Vehicle_ESTest, MethodName: test07
+* Started: ClassName: Vehicle_ESTest, MethodName: test06
+* Finished: ClassName: Vehicle_ESTest, MethodName: test06
+* Started: ClassName: Vehicle_ESTest, MethodName: test01
+* Finished: ClassName: Vehicle_ESTest, MethodName: test01
+* Started: ClassName: Vehicle_ESTest, MethodName: test45
+* Finished: ClassName: Vehicle_ESTest, MethodName: test45
+* Started: ClassName: Vehicle_ESTest, MethodName: test00
+* Finished: ClassName: Vehicle_ESTest, MethodName: test00
+* Started: ClassName: Vehicle_ESTest, MethodName: test44
+* Finished: ClassName: Vehicle_ESTest, MethodName: test44
+* Started: ClassName: Vehicle_ESTest, MethodName: test43
+* Finished: ClassName: Vehicle_ESTest, MethodName: test43
+* Started: ClassName: Vehicle_ESTest, MethodName: test42
+* Finished: ClassName: Vehicle_ESTest, MethodName: test42
+* Started: ClassName: Vehicle_ESTest, MethodName: test05
+* Finished: ClassName: Vehicle_ESTest, MethodName: test05
+* Started: ClassName: Vehicle_ESTest, MethodName: test49
+* Finished: ClassName: Vehicle_ESTest, MethodName: test49
+* Started: ClassName: Vehicle_ESTest, MethodName: test04
+* Finished: ClassName: Vehicle_ESTest, MethodName: test04
+* Started: ClassName: Vehicle_ESTest, MethodName: test48
+* Finished: ClassName: Vehicle_ESTest, MethodName: test48
+* Started: ClassName: Vehicle_ESTest, MethodName: test03
+* Finished: ClassName: Vehicle_ESTest, MethodName: test03
+* Started: ClassName: Vehicle_ESTest, MethodName: test47
+* Finished: ClassName: Vehicle_ESTest, MethodName: test47
+* Started: ClassName: Vehicle_ESTest, MethodName: test02
+* Finished: ClassName: Vehicle_ESTest, MethodName: test02
+* Started: ClassName: Vehicle_ESTest, MethodName: test46
+* Finished: ClassName: Vehicle_ESTest, MethodName: test46
+* Number of test cases executed: 57
+  Executing Company_ESTest
+* Number of test cases to execute: 50
+[MASTER] 18:11:04.433 [logback-1] WARN  Sandbox - Sandbox can be initalized only once
+* Started: ClassName: Company_ESTest, MethodName: test19
+* Finished: ClassName: Company_ESTest, MethodName: test19
+* Started: ClassName: Company_ESTest, MethodName: test18
+* Finished: ClassName: Company_ESTest, MethodName: test18
+* Started: ClassName: Company_ESTest, MethodName: test17
+* Finished: ClassName: Company_ESTest, MethodName: test17
+* Started: ClassName: Company_ESTest, MethodName: test12
+* Finished: ClassName: Company_ESTest, MethodName: test12
+* Started: ClassName: Company_ESTest, MethodName: test11
+* Finished: ClassName: Company_ESTest, MethodName: test11
+* Started: ClassName: Company_ESTest, MethodName: test10
+* Finished: ClassName: Company_ESTest, MethodName: test10
+* Started: ClassName: Company_ESTest, MethodName: test16
+* Finished: ClassName: Company_ESTest, MethodName: test16
+* Started: ClassName: Company_ESTest, MethodName: test15
+* Finished: ClassName: Company_ESTest, MethodName: test15
+* Started: ClassName: Company_ESTest, MethodName: test14
+* Finished: ClassName: Company_ESTest, MethodName: test14
+* Started: ClassName: Company_ESTest, MethodName: test13
+* Finished: ClassName: Company_ESTest, MethodName: test13
+* Started: ClassName: Company_ESTest, MethodName: test41
+* Finished: ClassName: Company_ESTest, MethodName: test41
+* Started: ClassName: Company_ESTest, MethodName: test40
+* Finished: ClassName: Company_ESTest, MethodName: test40
+* Started: ClassName: Company_ESTest, MethodName: test09
+* Finished: ClassName: Company_ESTest, MethodName: test09
+* Started: ClassName: Company_ESTest, MethodName: test08
+* Finished: ClassName: Company_ESTest, MethodName: test08
+* Started: ClassName: Company_ESTest, MethodName: test07
+* Finished: ClassName: Company_ESTest, MethodName: test07
+* Started: ClassName: Company_ESTest, MethodName: test06
+* Finished: ClassName: Company_ESTest, MethodName: test06
+* Started: ClassName: Company_ESTest, MethodName: test01
+* Finished: ClassName: Company_ESTest, MethodName: test01
+* Started: ClassName: Company_ESTest, MethodName: test45
+* Finished: ClassName: Company_ESTest, MethodName: test45
+* Started: ClassName: Company_ESTest, MethodName: test00
+* Finished: ClassName: Company_ESTest, MethodName: test00
+* Started: ClassName: Company_ESTest, MethodName: test44
+* Finished: ClassName: Company_ESTest, MethodName: test44
+* Started: ClassName: Company_ESTest, MethodName: test43
+* Finished: ClassName: Company_ESTest, MethodName: test43
+* Started: ClassName: Company_ESTest, MethodName: test42
+* Finished: ClassName: Company_ESTest, MethodName: test42
+* Started: ClassName: Company_ESTest, MethodName: test05
+* Finished: ClassName: Company_ESTest, MethodName: test05
+* Started: ClassName: Company_ESTest, MethodName: test49
+* Finished: ClassName: Company_ESTest, MethodName: test49
+* Started: ClassName: Company_ESTest, MethodName: test04
+* Finished: ClassName: Company_ESTest, MethodName: test04
+* Started: ClassName: Company_ESTest, MethodName: test48
+* Finished: ClassName: Company_ESTest, MethodName: test48
+* Started: ClassName: Company_ESTest, MethodName: test03
+* Finished: ClassName: Company_ESTest, MethodName: test03
+* Started: ClassName: Company_ESTest, MethodName: test47
+* Finished: ClassName: Company_ESTest, MethodName: test47
+* Started: ClassName: Company_ESTest, MethodName: test02
+* Finished: ClassName: Company_ESTest, MethodName: test02
+* Started: ClassName: Company_ESTest, MethodName: test46
+* Finished: ClassName: Company_ESTest, MethodName: test46
+* Started: ClassName: Company_ESTest, MethodName: test30
+* Finished: ClassName: Company_ESTest, MethodName: test30
+* Started: ClassName: Company_ESTest, MethodName: test39
+* Finished: ClassName: Company_ESTest, MethodName: test39
+* Started: ClassName: Company_ESTest, MethodName: test34
+* Finished: ClassName: Company_ESTest, MethodName: test34
+* Started: ClassName: Company_ESTest, MethodName: test33
+* Finished: ClassName: Company_ESTest, MethodName: test33
+* Started: ClassName: Company_ESTest, MethodName: test32
+* Finished: ClassName: Company_ESTest, MethodName: test32
+* Started: ClassName: Company_ESTest, MethodName: test31
+* Finished: ClassName: Company_ESTest, MethodName: test31
+* Started: ClassName: Company_ESTest, MethodName: test38
+* Finished: ClassName: Company_ESTest, MethodName: test38
+* Started: ClassName: Company_ESTest, MethodName: test37
+* Finished: ClassName: Company_ESTest, MethodName: test37
+* Started: ClassName: Company_ESTest, MethodName: test36
+* Finished: ClassName: Company_ESTest, MethodName: test36
+* Started: ClassName: Company_ESTest, MethodName: test35
+* Finished: ClassName: Company_ESTest, MethodName: test35
+* Started: ClassName: Company_ESTest, MethodName: test29
+* Finished: ClassName: Company_ESTest, MethodName: test29
+* Started: ClassName: Company_ESTest, MethodName: test28
+* Finished: ClassName: Company_ESTest, MethodName: test28
+* Started: ClassName: Company_ESTest, MethodName: test23
+* Finished: ClassName: Company_ESTest, MethodName: test23
+* Started: ClassName: Company_ESTest, MethodName: test22
+* Finished: ClassName: Company_ESTest, MethodName: test22
+* Started: ClassName: Company_ESTest, MethodName: test21
+* Finished: ClassName: Company_ESTest, MethodName: test21
+* Started: ClassName: Company_ESTest, MethodName: test20
+* Finished: ClassName: Company_ESTest, MethodName: test20
+* Started: ClassName: Company_ESTest, MethodName: test27
+* Finished: ClassName: Company_ESTest, MethodName: test27
+* Started: ClassName: Company_ESTest, MethodName: test26
+* Finished: ClassName: Company_ESTest, MethodName: test26
+* Started: ClassName: Company_ESTest, MethodName: test25
+* Finished: ClassName: Company_ESTest, MethodName: test25
+* Started: ClassName: Company_ESTest, MethodName: test24
+* Finished: ClassName: Company_ESTest, MethodName: test24
+* Number of test cases executed: 50
+  Executing Client_ESTest
+[MASTER] 18:11:04.568 [logback-1] WARN  Sandbox - Sandbox can be initalized only once
+* Number of test cases to execute: 26
+* Started: ClassName: Client_ESTest, MethodName: test06
+* Finished: ClassName: Client_ESTest, MethodName: test06
+* Started: ClassName: Client_ESTest, MethodName: test07
+* Finished: ClassName: Client_ESTest, MethodName: test07
+* Started: ClassName: Client_ESTest, MethodName: test08
+* Finished: ClassName: Client_ESTest, MethodName: test08
+* Started: ClassName: Client_ESTest, MethodName: test09
+* Finished: ClassName: Client_ESTest, MethodName: test09
+* Started: ClassName: Client_ESTest, MethodName: test20
+* Finished: ClassName: Client_ESTest, MethodName: test20
+* Started: ClassName: Client_ESTest, MethodName: test21
+* Finished: ClassName: Client_ESTest, MethodName: test21
+* Started: ClassName: Client_ESTest, MethodName: test00
+* Finished: ClassName: Client_ESTest, MethodName: test00
+* Started: ClassName: Client_ESTest, MethodName: test22
+* Finished: ClassName: Client_ESTest, MethodName: test22
+* Started: ClassName: Client_ESTest, MethodName: test01
+* Finished: ClassName: Client_ESTest, MethodName: test01
+* Started: ClassName: Client_ESTest, MethodName: test23
+* Finished: ClassName: Client_ESTest, MethodName: test23
+* Started: ClassName: Client_ESTest, MethodName: test02
+* Finished: ClassName: Client_ESTest, MethodName: test02
+* Started: ClassName: Client_ESTest, MethodName: test24
+* Finished: ClassName: Client_ESTest, MethodName: test24
+* Started: ClassName: Client_ESTest, MethodName: test03
+* Finished: ClassName: Client_ESTest, MethodName: test03
+* Started: ClassName: Client_ESTest, MethodName: test25
+* Finished: ClassName: Client_ESTest, MethodName: test25
+* Started: ClassName: Client_ESTest, MethodName: test04
+* Finished: ClassName: Client_ESTest, MethodName: test04
+* Started: ClassName: Client_ESTest, MethodName: test05
+* Finished: ClassName: Client_ESTest, MethodName: test05
+* Started: ClassName: Client_ESTest, MethodName: test17
+* Finished: ClassName: Client_ESTest, MethodName: test17
+* Started: ClassName: Client_ESTest, MethodName: test18
+* Finished: ClassName: Client_ESTest, MethodName: test18
+* Started: ClassName: Client_ESTest, MethodName: test19
+* Finished: ClassName: Client_ESTest, MethodName: test19
+* Started: ClassName: Client_ESTest, MethodName: test10
+* Finished: ClassName: Client_ESTest, MethodName: test10
+* Started: ClassName: Client_ESTest, MethodName: test11
+* Finished: ClassName: Client_ESTest, MethodName: test11
+* Started: ClassName: Client_ESTest, MethodName: test12
+* Finished: ClassName: Client_ESTest, MethodName: test12
+* Started: ClassName: Client_ESTest, MethodName: test13
+* Finished: ClassName: Client_ESTest, MethodName: test13
+* Started: ClassName: Client_ESTest, MethodName: test14
+* Finished: ClassName: Client_ESTest, MethodName: test14
+* Started: ClassName: Client_ESTest, MethodName: test15
+* Finished: ClassName: Client_ESTest, MethodName: test15
+* Started: ClassName: Client_ESTest, MethodName: test16
+* Finished: ClassName: Client_ESTest, MethodName: test16
+* Number of test cases executed: 26
+  Executing Driver_ESTest
+* Number of test cases to execute: 46
+[MASTER] 18:11:04.629 [logback-1] WARN  Sandbox - Sandbox can be initalized only once
+* Started: ClassName: Driver_ESTest, MethodName: test19
+* Finished: ClassName: Driver_ESTest, MethodName: test19
+* Started: ClassName: Driver_ESTest, MethodName: test17
+* Finished: ClassName: Driver_ESTest, MethodName: test17
+* Started: ClassName: Driver_ESTest, MethodName: test39
+* Finished: ClassName: Driver_ESTest, MethodName: test39
+* Started: ClassName: Driver_ESTest, MethodName: test18
+* Finished: ClassName: Driver_ESTest, MethodName: test18
+* Started: ClassName: Driver_ESTest, MethodName: test15
+* Finished: ClassName: Driver_ESTest, MethodName: test15
+* Started: ClassName: Driver_ESTest, MethodName: test37
+* Finished: ClassName: Driver_ESTest, MethodName: test37
+* Started: ClassName: Driver_ESTest, MethodName: test16
+* Finished: ClassName: Driver_ESTest, MethodName: test16
+* Started: ClassName: Driver_ESTest, MethodName: test38
+* Finished: ClassName: Driver_ESTest, MethodName: test38
+* Started: ClassName: Driver_ESTest, MethodName: test13
+* Finished: ClassName: Driver_ESTest, MethodName: test13
+* Started: ClassName: Driver_ESTest, MethodName: test35
+* Finished: ClassName: Driver_ESTest, MethodName: test35
+* Started: ClassName: Driver_ESTest, MethodName: test14
+* Finished: ClassName: Driver_ESTest, MethodName: test14
+* Started: ClassName: Driver_ESTest, MethodName: test36
+* Finished: ClassName: Driver_ESTest, MethodName: test36
+* Started: ClassName: Driver_ESTest, MethodName: test11
+* Finished: ClassName: Driver_ESTest, MethodName: test11
+* Started: ClassName: Driver_ESTest, MethodName: test33
+* Finished: ClassName: Driver_ESTest, MethodName: test33
+* Started: ClassName: Driver_ESTest, MethodName: test12
+* Finished: ClassName: Driver_ESTest, MethodName: test12
+* Started: ClassName: Driver_ESTest, MethodName: test34
+* Finished: ClassName: Driver_ESTest, MethodName: test34
+* Started: ClassName: Driver_ESTest, MethodName: test31
+* Finished: ClassName: Driver_ESTest, MethodName: test31
+* Started: ClassName: Driver_ESTest, MethodName: test10
+* Finished: ClassName: Driver_ESTest, MethodName: test10
+* Started: ClassName: Driver_ESTest, MethodName: test32
+* Finished: ClassName: Driver_ESTest, MethodName: test32
+* Started: ClassName: Driver_ESTest, MethodName: test30
+* Finished: ClassName: Driver_ESTest, MethodName: test30
+* Started: ClassName: Driver_ESTest, MethodName: test08
+* Finished: ClassName: Driver_ESTest, MethodName: test08
+* Started: ClassName: Driver_ESTest, MethodName: test09
+* Finished: ClassName: Driver_ESTest, MethodName: test09
+* Started: ClassName: Driver_ESTest, MethodName: test06
+* Finished: ClassName: Driver_ESTest, MethodName: test06
+* Started: ClassName: Driver_ESTest, MethodName: test28
+* Finished: ClassName: Driver_ESTest, MethodName: test28
+* Started: ClassName: Driver_ESTest, MethodName: test07
+* Finished: ClassName: Driver_ESTest, MethodName: test07
+* Started: ClassName: Driver_ESTest, MethodName: test29
+* Finished: ClassName: Driver_ESTest, MethodName: test29
+* Started: ClassName: Driver_ESTest, MethodName: test04
+* Finished: ClassName: Driver_ESTest, MethodName: test04
+* Started: ClassName: Driver_ESTest, MethodName: test26
+* Finished: ClassName: Driver_ESTest, MethodName: test26
+* Started: ClassName: Driver_ESTest, MethodName: test05
+* Finished: ClassName: Driver_ESTest, MethodName: test05
+* Started: ClassName: Driver_ESTest, MethodName: test27
+* Finished: ClassName: Driver_ESTest, MethodName: test27
+* Started: ClassName: Driver_ESTest, MethodName: test02
+* Finished: ClassName: Driver_ESTest, MethodName: test02
+* Started: ClassName: Driver_ESTest, MethodName: test24
+* Finished: ClassName: Driver_ESTest, MethodName: test24
+* Started: ClassName: Driver_ESTest, MethodName: test03
+* Finished: ClassName: Driver_ESTest, MethodName: test03
+* Started: ClassName: Driver_ESTest, MethodName: test25
+* Finished: ClassName: Driver_ESTest, MethodName: test25
+* Started: ClassName: Driver_ESTest, MethodName: test00
+* Finished: ClassName: Driver_ESTest, MethodName: test00
+* Started: ClassName: Driver_ESTest, MethodName: test22
+* Finished: ClassName: Driver_ESTest, MethodName: test22
+* Started: ClassName: Driver_ESTest, MethodName: test44
+* Finished: ClassName: Driver_ESTest, MethodName: test44
+* Started: ClassName: Driver_ESTest, MethodName: test01
+* Finished: ClassName: Driver_ESTest, MethodName: test01
+* Started: ClassName: Driver_ESTest, MethodName: test23
+* Finished: ClassName: Driver_ESTest, MethodName: test23
+* Started: ClassName: Driver_ESTest, MethodName: test45
+* Finished: ClassName: Driver_ESTest, MethodName: test45
+* Started: ClassName: Driver_ESTest, MethodName: test20
+* Finished: ClassName: Driver_ESTest, MethodName: test20
+* Started: ClassName: Driver_ESTest, MethodName: test42
+* Finished: ClassName: Driver_ESTest, MethodName: test42
+* Started: ClassName: Driver_ESTest, MethodName: test21
+* Finished: ClassName: Driver_ESTest, MethodName: test21
+* Started: ClassName: Driver_ESTest, MethodName: test43
+* Finished: ClassName: Driver_ESTest, MethodName: test43
+* Started: ClassName: Driver_ESTest, MethodName: test40
+* Finished: ClassName: Driver_ESTest, MethodName: test40
+* Started: ClassName: Driver_ESTest, MethodName: test41
+[MASTER] 18:11:04.710 [logback-1] WARN  Sandbox - Sandbox can be initalized only once
+* Finished: ClassName: Driver_ESTest, MethodName: test41
+* Number of test cases executed: 46
+  Executing UMeR_ESTest
+* Number of test cases to execute: 74
+* Started: ClassName: UMeR_ESTest, MethodName: test41
+* Finished: ClassName: UMeR_ESTest, MethodName: test41
+* Started: ClassName: UMeR_ESTest, MethodName: test40
+* Finished: ClassName: UMeR_ESTest, MethodName: test40
+* Started: ClassName: UMeR_ESTest, MethodName: test01
+* Finished: ClassName: UMeR_ESTest, MethodName: test01
+* Started: ClassName: UMeR_ESTest, MethodName: test45
+* Finished: ClassName: UMeR_ESTest, MethodName: test45
+* Started: ClassName: UMeR_ESTest, MethodName: test00
+* Finished: ClassName: UMeR_ESTest, MethodName: test00
+* Started: ClassName: UMeR_ESTest, MethodName: test44
+* Finished: ClassName: UMeR_ESTest, MethodName: test44
+* Started: ClassName: UMeR_ESTest, MethodName: test43
+* Finished: ClassName: UMeR_ESTest, MethodName: test43
+* Started: ClassName: UMeR_ESTest, MethodName: test42
+* Finished: ClassName: UMeR_ESTest, MethodName: test42
+* Started: ClassName: UMeR_ESTest, MethodName: test05
+* Finished: ClassName: UMeR_ESTest, MethodName: test05
+* Started: ClassName: UMeR_ESTest, MethodName: test49
+* Finished: ClassName: UMeR_ESTest, MethodName: test49
+* Started: ClassName: UMeR_ESTest, MethodName: test04
+* Finished: ClassName: UMeR_ESTest, MethodName: test04
+* Started: ClassName: UMeR_ESTest, MethodName: test48
+* Finished: ClassName: UMeR_ESTest, MethodName: test48
+* Started: ClassName: UMeR_ESTest, MethodName: test03
+* Finished: ClassName: UMeR_ESTest, MethodName: test03
+* Started: ClassName: UMeR_ESTest, MethodName: test47
+* Finished: ClassName: UMeR_ESTest, MethodName: test47
+* Started: ClassName: UMeR_ESTest, MethodName: test02
+* Finished: ClassName: UMeR_ESTest, MethodName: test02
+* Started: ClassName: UMeR_ESTest, MethodName: test46
+* Finished: ClassName: UMeR_ESTest, MethodName: test46
+* Started: ClassName: UMeR_ESTest, MethodName: test09
+* Finished: ClassName: UMeR_ESTest, MethodName: test09
+* Started: ClassName: UMeR_ESTest, MethodName: test08
+* Finished: ClassName: UMeR_ESTest, MethodName: test08
+* Started: ClassName: UMeR_ESTest, MethodName: test07
+* Finished: ClassName: UMeR_ESTest, MethodName: test07
+* Started: ClassName: UMeR_ESTest, MethodName: test06
+* Finished: ClassName: UMeR_ESTest, MethodName: test06
+* Started: ClassName: UMeR_ESTest, MethodName: test52
+* Finished: ClassName: UMeR_ESTest, MethodName: test52
+* Started: ClassName: UMeR_ESTest, MethodName: test51
+* Finished: ClassName: UMeR_ESTest, MethodName: test51
+* Started: ClassName: UMeR_ESTest, MethodName: test50
+* Finished: ClassName: UMeR_ESTest, MethodName: test50
+* Started: ClassName: UMeR_ESTest, MethodName: test12
+* Finished: ClassName: UMeR_ESTest, MethodName: test12
+* Started: ClassName: UMeR_ESTest, MethodName: test56
+* Finished: ClassName: UMeR_ESTest, MethodName: test56
+* Started: ClassName: UMeR_ESTest, MethodName: test11
+* Finished: ClassName: UMeR_ESTest, MethodName: test11
+* Started: ClassName: UMeR_ESTest, MethodName: test55
+* Finished: ClassName: UMeR_ESTest, MethodName: test55
+* Started: ClassName: UMeR_ESTest, MethodName: test10
+* Finished: ClassName: UMeR_ESTest, MethodName: test10
+* Started: ClassName: UMeR_ESTest, MethodName: test54
+* Finished: ClassName: UMeR_ESTest, MethodName: test54
+* Started: ClassName: UMeR_ESTest, MethodName: test53
+* Finished: ClassName: UMeR_ESTest, MethodName: test53
+* Started: ClassName: UMeR_ESTest, MethodName: test16
+* Finished: ClassName: UMeR_ESTest, MethodName: test16
+* Started: ClassName: UMeR_ESTest, MethodName: test15
+* Finished: ClassName: UMeR_ESTest, MethodName: test15
+* Started: ClassName: UMeR_ESTest, MethodName: test59
+* Finished: ClassName: UMeR_ESTest, MethodName: test59
+* Started: ClassName: UMeR_ESTest, MethodName: test14
+* Finished: ClassName: UMeR_ESTest, MethodName: test14
+* Started: ClassName: UMeR_ESTest, MethodName: test58
+* Finished: ClassName: UMeR_ESTest, MethodName: test58
+* Started: ClassName: UMeR_ESTest, MethodName: test13
+* Finished: ClassName: UMeR_ESTest, MethodName: test13
+* Started: ClassName: UMeR_ESTest, MethodName: test57
+* Finished: ClassName: UMeR_ESTest, MethodName: test57
+* Started: ClassName: UMeR_ESTest, MethodName: test19
+* Finished: ClassName: UMeR_ESTest, MethodName: test19
+* Started: ClassName: UMeR_ESTest, MethodName: test18
+* Finished: ClassName: UMeR_ESTest, MethodName: test18
+* Started: ClassName: UMeR_ESTest, MethodName: test17
+* Finished: ClassName: UMeR_ESTest, MethodName: test17
+* Started: ClassName: UMeR_ESTest, MethodName: test63
+* Finished: ClassName: UMeR_ESTest, MethodName: test63
+* Started: ClassName: UMeR_ESTest, MethodName: test62
+* Finished: ClassName: UMeR_ESTest, MethodName: test62
+* Started: ClassName: UMeR_ESTest, MethodName: test61
+* Finished: ClassName: UMeR_ESTest, MethodName: test61
+* Started: ClassName: UMeR_ESTest, MethodName: test60
+* Finished: ClassName: UMeR_ESTest, MethodName: test60
+* Started: ClassName: UMeR_ESTest, MethodName: test23
+* Finished: ClassName: UMeR_ESTest, MethodName: test23
+* Started: ClassName: UMeR_ESTest, MethodName: test67
+* Finished: ClassName: UMeR_ESTest, MethodName: test67
+* Started: ClassName: UMeR_ESTest, MethodName: test22
+* Finished: ClassName: UMeR_ESTest, MethodName: test22
+* Started: ClassName: UMeR_ESTest, MethodName: test66
+* Finished: ClassName: UMeR_ESTest, MethodName: test66
+* Started: ClassName: UMeR_ESTest, MethodName: test21
+* Finished: ClassName: UMeR_ESTest, MethodName: test21
+* Started: ClassName: UMeR_ESTest, MethodName: test65
+* Finished: ClassName: UMeR_ESTest, MethodName: test65
+* Started: ClassName: UMeR_ESTest, MethodName: test20
+* Finished: ClassName: UMeR_ESTest, MethodName: test20
+* Started: ClassName: UMeR_ESTest, MethodName: test64
+* Finished: ClassName: UMeR_ESTest, MethodName: test64
+* Started: ClassName: UMeR_ESTest, MethodName: test27
+* Finished: ClassName: UMeR_ESTest, MethodName: test27
+* Started: ClassName: UMeR_ESTest, MethodName: test26
+* Finished: ClassName: UMeR_ESTest, MethodName: test26
+* Started: ClassName: UMeR_ESTest, MethodName: test25
+* Finished: ClassName: UMeR_ESTest, MethodName: test25
+* Started: ClassName: UMeR_ESTest, MethodName: test69
+* Finished: ClassName: UMeR_ESTest, MethodName: test69
+* Started: ClassName: UMeR_ESTest, MethodName: test24
+* Finished: ClassName: UMeR_ESTest, MethodName: test24
+* Started: ClassName: UMeR_ESTest, MethodName: test68
+* Finished: ClassName: UMeR_ESTest, MethodName: test68
+* Started: ClassName: UMeR_ESTest, MethodName: test29
+* Finished: ClassName: UMeR_ESTest, MethodName: test29
+* Started: ClassName: UMeR_ESTest, MethodName: test28
+* Finished: ClassName: UMeR_ESTest, MethodName: test28
+* Started: ClassName: UMeR_ESTest, MethodName: test70
+* Finished: ClassName: UMeR_ESTest, MethodName: test70
+* Started: ClassName: UMeR_ESTest, MethodName: test30
+* Finished: ClassName: UMeR_ESTest, MethodName: test30
+* Started: ClassName: UMeR_ESTest, MethodName: test73
+* Finished: ClassName: UMeR_ESTest, MethodName: test73
+* Started: ClassName: UMeR_ESTest, MethodName: test72
+* Finished: ClassName: UMeR_ESTest, MethodName: test72
+* Started: ClassName: UMeR_ESTest, MethodName: test71
+* Finished: ClassName: UMeR_ESTest, MethodName: test71
+* Started: ClassName: UMeR_ESTest, MethodName: test34
+* Finished: ClassName: UMeR_ESTest, MethodName: test34
+* Started: ClassName: UMeR_ESTest, MethodName: test33
+* Finished: ClassName: UMeR_ESTest, MethodName: test33
+* Started: ClassName: UMeR_ESTest, MethodName: test32
+* Finished: ClassName: UMeR_ESTest, MethodName: test32
+* Started: ClassName: UMeR_ESTest, MethodName: test31
+* Finished: ClassName: UMeR_ESTest, MethodName: test31
+* Started: ClassName: UMeR_ESTest, MethodName: test38
+* Finished: ClassName: UMeR_ESTest, MethodName: test38
+* Started: ClassName: UMeR_ESTest, MethodName: test37
+* Finished: ClassName: UMeR_ESTest, MethodName: test37
+* Started: ClassName: UMeR_ESTest, MethodName: test36
+* Finished: ClassName: UMeR_ESTest, MethodName: test36
+* Started: ClassName: UMeR_ESTest, MethodName: test35
+* Finished: ClassName: UMeR_ESTest, MethodName: test35
+* Started: ClassName: UMeR_ESTest, MethodName: test39
+* Finished: ClassName: UMeR_ESTest, MethodName: test39
+* Number of test cases executed: 74
+  Executing Trip_ESTest
+* Number of test cases to execute: 52
+[MASTER] 18:11:05.197 [logback-1] WARN  Sandbox - Sandbox can be initalized only once
+* Started: ClassName: Trip_ESTest, MethodName: test04
+* Finished: ClassName: Trip_ESTest, MethodName: test04
+* Started: ClassName: Trip_ESTest, MethodName: test48
+* Finished: ClassName: Trip_ESTest, MethodName: test48
+* Started: ClassName: Trip_ESTest, MethodName: test05
+* Finished: ClassName: Trip_ESTest, MethodName: test05
+* Started: ClassName: Trip_ESTest, MethodName: test49
+* Finished: ClassName: Trip_ESTest, MethodName: test49
+* Started: ClassName: Trip_ESTest, MethodName: test02
+* Finished: ClassName: Trip_ESTest, MethodName: test02
+* Started: ClassName: Trip_ESTest, MethodName: test46
+* Finished: ClassName: Trip_ESTest, MethodName: test46
+* Started: ClassName: Trip_ESTest, MethodName: test03
+* Finished: ClassName: Trip_ESTest, MethodName: test03
+* Started: ClassName: Trip_ESTest, MethodName: test47
+* Finished: ClassName: Trip_ESTest, MethodName: test47
+* Started: ClassName: Trip_ESTest, MethodName: test00
+* Finished: ClassName: Trip_ESTest, MethodName: test00
+* Started: ClassName: Trip_ESTest, MethodName: test44
+* Finished: ClassName: Trip_ESTest, MethodName: test44
+* Started: ClassName: Trip_ESTest, MethodName: test01
+* Finished: ClassName: Trip_ESTest, MethodName: test01
+* Started: ClassName: Trip_ESTest, MethodName: test45
+* Finished: ClassName: Trip_ESTest, MethodName: test45
+* Started: ClassName: Trip_ESTest, MethodName: test42
+* Finished: ClassName: Trip_ESTest, MethodName: test42
+* Started: ClassName: Trip_ESTest, MethodName: test43
+* Finished: ClassName: Trip_ESTest, MethodName: test43
+* Started: ClassName: Trip_ESTest, MethodName: test08
+* Finished: ClassName: Trip_ESTest, MethodName: test08
+* Started: ClassName: Trip_ESTest, MethodName: test09
+* Finished: ClassName: Trip_ESTest, MethodName: test09
+* Started: ClassName: Trip_ESTest, MethodName: test06
+* Finished: ClassName: Trip_ESTest, MethodName: test06
+* Started: ClassName: Trip_ESTest, MethodName: test07
+* Finished: ClassName: Trip_ESTest, MethodName: test07
+* Started: ClassName: Trip_ESTest, MethodName: test40
+* Finished: ClassName: Trip_ESTest, MethodName: test40
+* Started: ClassName: Trip_ESTest, MethodName: test41
+* Finished: ClassName: Trip_ESTest, MethodName: test41
+* Started: ClassName: Trip_ESTest, MethodName: test15
+* Finished: ClassName: Trip_ESTest, MethodName: test15
+* Started: ClassName: Trip_ESTest, MethodName: test16
+* Finished: ClassName: Trip_ESTest, MethodName: test16
+* Started: ClassName: Trip_ESTest, MethodName: test13
+* Finished: ClassName: Trip_ESTest, MethodName: test13
+* Started: ClassName: Trip_ESTest, MethodName: test14
+* Finished: ClassName: Trip_ESTest, MethodName: test14
+* Started: ClassName: Trip_ESTest, MethodName: test11
+* Finished: ClassName: Trip_ESTest, MethodName: test11
+* Started: ClassName: Trip_ESTest, MethodName: test12
+* Finished: ClassName: Trip_ESTest, MethodName: test12
+* Started: ClassName: Trip_ESTest, MethodName: test10
+* Finished: ClassName: Trip_ESTest, MethodName: test10
+* Started: ClassName: Trip_ESTest, MethodName: test19
+* Finished: ClassName: Trip_ESTest, MethodName: test19
+* Started: ClassName: Trip_ESTest, MethodName: test17
+* Finished: ClassName: Trip_ESTest, MethodName: test17
+* Started: ClassName: Trip_ESTest, MethodName: test18
+* Finished: ClassName: Trip_ESTest, MethodName: test18
+* Started: ClassName: Trip_ESTest, MethodName: test51
+* Finished: ClassName: Trip_ESTest, MethodName: test51
+* Started: ClassName: Trip_ESTest, MethodName: test50
+* Finished: ClassName: Trip_ESTest, MethodName: test50
+* Started: ClassName: Trip_ESTest, MethodName: test26
+* Finished: ClassName: Trip_ESTest, MethodName: test26
+* Started: ClassName: Trip_ESTest, MethodName: test27
+* Finished: ClassName: Trip_ESTest, MethodName: test27
+* Started: ClassName: Trip_ESTest, MethodName: test24
+* Finished: ClassName: Trip_ESTest, MethodName: test24
+* Started: ClassName: Trip_ESTest, MethodName: test25
+* Finished: ClassName: Trip_ESTest, MethodName: test25
+* Started: ClassName: Trip_ESTest, MethodName: test22
+* Finished: ClassName: Trip_ESTest, MethodName: test22
+* Started: ClassName: Trip_ESTest, MethodName: test23
+* Finished: ClassName: Trip_ESTest, MethodName: test23
+* Started: ClassName: Trip_ESTest, MethodName: test20
+* Finished: ClassName: Trip_ESTest, MethodName: test20
+* Started: ClassName: Trip_ESTest, MethodName: test21
+* Finished: ClassName: Trip_ESTest, MethodName: test21
+* Started: ClassName: Trip_ESTest, MethodName: test28
+* Finished: ClassName: Trip_ESTest, MethodName: test28
+* Started: ClassName: Trip_ESTest, MethodName: test29
+* Finished: ClassName: Trip_ESTest, MethodName: test29
+* Started: ClassName: Trip_ESTest, MethodName: test37
+* Finished: ClassName: Trip_ESTest, MethodName: test37
+* Started: ClassName: Trip_ESTest, MethodName: test38
+* Finished: ClassName: Trip_ESTest, MethodName: test38
+* Started: ClassName: Trip_ESTest, MethodName: test35
+* Finished: ClassName: Trip_ESTest, MethodName: test35
+* Started: ClassName: Trip_ESTest, MethodName: test36
+* Finished: ClassName: Trip_ESTest, MethodName: test36
+* Started: ClassName: Trip_ESTest, MethodName: test33
+* Finished: ClassName: Trip_ESTest, MethodName: test33
+* Started: ClassName: Trip_ESTest, MethodName: test34
+* Finished: ClassName: Trip_ESTest, MethodName: test34
+* Started: ClassName: Trip_ESTest, MethodName: test31
+* Finished: ClassName: Trip_ESTest, MethodName: test31
+* Started: ClassName: Trip_ESTest, MethodName: test32
+* Finished: ClassName: Trip_ESTest, MethodName: test32
+* Started: ClassName: Trip_ESTest, MethodName: test39
+* Finished: ClassName: Trip_ESTest, MethodName: test39
+* Started: ClassName: Trip_ESTest, MethodName: test30
+[MASTER] 18:11:05.331 [logback-1] WARN  Sandbox - Sandbox can be initalized only once
+* Finished: ClassName: Trip_ESTest, MethodName: test30
+* Number of test cases executed: 52
+  Executing User_ESTest
+* Number of test cases to execute: 42
+* Started: ClassName: User_ESTest, MethodName: test07
+* Finished: ClassName: User_ESTest, MethodName: test07
+* Started: ClassName: User_ESTest, MethodName: test29
+* Finished: ClassName: User_ESTest, MethodName: test29
+* Started: ClassName: User_ESTest, MethodName: test06
+* Finished: ClassName: User_ESTest, MethodName: test06
+* Started: ClassName: User_ESTest, MethodName: test28
+* Finished: ClassName: User_ESTest, MethodName: test28
+* Started: ClassName: User_ESTest, MethodName: test09
+* Finished: ClassName: User_ESTest, MethodName: test09
+* Started: ClassName: User_ESTest, MethodName: test08
+* Finished: ClassName: User_ESTest, MethodName: test08
+* Started: ClassName: User_ESTest, MethodName: test21
+* Finished: ClassName: User_ESTest, MethodName: test21
+* Started: ClassName: User_ESTest, MethodName: test20
+* Finished: ClassName: User_ESTest, MethodName: test20
+* Started: ClassName: User_ESTest, MethodName: test01
+* Finished: ClassName: User_ESTest, MethodName: test01
+* Started: ClassName: User_ESTest, MethodName: test23
+* Finished: ClassName: User_ESTest, MethodName: test23
+* Started: ClassName: User_ESTest, MethodName: test00
+* Finished: ClassName: User_ESTest, MethodName: test00
+* Started: ClassName: User_ESTest, MethodName: test22
+* Finished: ClassName: User_ESTest, MethodName: test22
+* Started: ClassName: User_ESTest, MethodName: test03
+* Finished: ClassName: User_ESTest, MethodName: test03
+* Started: ClassName: User_ESTest, MethodName: test25
+* Finished: ClassName: User_ESTest, MethodName: test25
+* Started: ClassName: User_ESTest, MethodName: test02
+* Finished: ClassName: User_ESTest, MethodName: test02
+* Started: ClassName: User_ESTest, MethodName: test24
+* Finished: ClassName: User_ESTest, MethodName: test24
+* Started: ClassName: User_ESTest, MethodName: test05
+* Finished: ClassName: User_ESTest, MethodName: test05
+* Started: ClassName: User_ESTest, MethodName: test27
+* Finished: ClassName: User_ESTest, MethodName: test27
+* Started: ClassName: User_ESTest, MethodName: test04
+* Finished: ClassName: User_ESTest, MethodName: test04
+* Started: ClassName: User_ESTest, MethodName: test26
+* Finished: ClassName: User_ESTest, MethodName: test26
+* Started: ClassName: User_ESTest, MethodName: test41
+* Finished: ClassName: User_ESTest, MethodName: test41
+* Started: ClassName: User_ESTest, MethodName: test40
+* Finished: ClassName: User_ESTest, MethodName: test40
+* Started: ClassName: User_ESTest, MethodName: test18
+* Finished: ClassName: User_ESTest, MethodName: test18
+* Started: ClassName: User_ESTest, MethodName: test17
+* Finished: ClassName: User_ESTest, MethodName: test17
+* Started: ClassName: User_ESTest, MethodName: test39
+* Finished: ClassName: User_ESTest, MethodName: test39
+* Started: ClassName: User_ESTest, MethodName: test19
+* Finished: ClassName: User_ESTest, MethodName: test19
+* Started: ClassName: User_ESTest, MethodName: test10
+* Finished: ClassName: User_ESTest, MethodName: test10
+* Started: ClassName: User_ESTest, MethodName: test32
+* Finished: ClassName: User_ESTest, MethodName: test32
+* Started: ClassName: User_ESTest, MethodName: test31
+* Finished: ClassName: User_ESTest, MethodName: test31
+* Started: ClassName: User_ESTest, MethodName: test12
+* Finished: ClassName: User_ESTest, MethodName: test12
+* Started: ClassName: User_ESTest, MethodName: test34
+* Finished: ClassName: User_ESTest, MethodName: test34
+* Started: ClassName: User_ESTest, MethodName: test11
+* Finished: ClassName: User_ESTest, MethodName: test11
+* Started: ClassName: User_ESTest, MethodName: test33
+* Finished: ClassName: User_ESTest, MethodName: test33
+* Started: ClassName: User_ESTest, MethodName: test14
+* Finished: ClassName: User_ESTest, MethodName: test14
+* Started: ClassName: User_ESTest, MethodName: test36
+* Finished: ClassName: User_ESTest, MethodName: test36
+* Started: ClassName: User_ESTest, MethodName: test13
+* Finished: ClassName: User_ESTest, MethodName: test13
+* Started: ClassName: User_ESTest, MethodName: test35
+* Finished: ClassName: User_ESTest, MethodName: test35
+* Started: ClassName: User_ESTest, MethodName: test16
+* Finished: ClassName: User_ESTest, MethodName: test16
+* Started: ClassName: User_ESTest, MethodName: test38
+* Finished: ClassName: User_ESTest, MethodName: test38
+* Started: ClassName: User_ESTest, MethodName: test15
+* Finished: ClassName: User_ESTest, MethodName: test15
+* Started: ClassName: User_ESTest, MethodName: test37
+* Finished: ClassName: User_ESTest, MethodName: test37
+* Started: ClassName: User_ESTest, MethodName: test30
+* Finished: ClassName: User_ESTest, MethodName: test30
+* Number of test cases executed: 42
+  Executing Bike_ESTest
+* Number of test cases to execute: 8
+[MASTER] 18:11:05.491 [logback-1] WARN  Sandbox - Sandbox can be initalized only once
+* Started: ClassName: Bike_ESTest, MethodName: test4
+* Finished: ClassName: Bike_ESTest, MethodName: test4
+* Started: ClassName: Bike_ESTest, MethodName: test5
+* Finished: ClassName: Bike_ESTest, MethodName: test5
+* Started: ClassName: Bike_ESTest, MethodName: test2
+* Finished: ClassName: Bike_ESTest, MethodName: test2
+* Started: ClassName: Bike_ESTest, MethodName: test3
+* Finished: ClassName: Bike_ESTest, MethodName: test3
+* Started: ClassName: Bike_ESTest, MethodName: test6
+* Finished: ClassName: Bike_ESTest, MethodName: test6
+* Started: ClassName: Bike_ESTest, MethodName: test7
+* Finished: ClassName: Bike_ESTest, MethodName: test7
+* Started: ClassName: Bike_ESTest, MethodName: test0
+* Failure: expected:<-75.0> but was:<75.0>
+   org.junit.Assert.fail(Assert.java:88)
+   org.junit.Assert.failNotEquals(Assert.java:834)
+   org.junit.Assert.assertEquals(Assert.java:553)
+   org.junit.Assert.assertEquals(Assert.java:683)
+   Bike_ESTest.test0(Bike_ESTest.java:28)
+   sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+   sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+   sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+   java.lang.reflect.Method.invoke(Method.java:498)
+   org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+   org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+   org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+   org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+   org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+   org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+   java.util.concurrent.FutureTask.run(FutureTask.java:266)
+   java.lang.Thread.run(Thread.java:748)
+* Finished: ClassName: Bike_ESTest, MethodName: test0
+* Started: ClassName: Bike_ESTest, MethodName: test1
+* Finished: ClassName: Bike_ESTest, MethodName: test1
+* Number of test cases executed: 8
+  Executing Car_ESTest
+[MASTER] 18:11:05.503 [logback-1] WARN  Sandbox - Sandbox can be initalized only once
+* Number of test cases to execute: 13
+* Started: ClassName: Car_ESTest, MethodName: test06
+* Finished: ClassName: Car_ESTest, MethodName: test06
+* Started: ClassName: Car_ESTest, MethodName: test07
+* Finished: ClassName: Car_ESTest, MethodName: test07
+* Started: ClassName: Car_ESTest, MethodName: test08
+* Finished: ClassName: Car_ESTest, MethodName: test08
+* Started: ClassName: Car_ESTest, MethodName: test09
+* Finished: ClassName: Car_ESTest, MethodName: test09
+* Started: ClassName: Car_ESTest, MethodName: test10
+* Finished: ClassName: Car_ESTest, MethodName: test10
+* Started: ClassName: Car_ESTest, MethodName: test00
+* Finished: ClassName: Car_ESTest, MethodName: test00
+* Started: ClassName: Car_ESTest, MethodName: test11
+* Finished: ClassName: Car_ESTest, MethodName: test11
+* Started: ClassName: Car_ESTest, MethodName: test01
+* Finished: ClassName: Car_ESTest, MethodName: test01
+* Started: ClassName: Car_ESTest, MethodName: test12
+* Finished: ClassName: Car_ESTest, MethodName: test12
+* Started: ClassName: Car_ESTest, MethodName: test02
+* Finished: ClassName: Car_ESTest, MethodName: test02
+* Started: ClassName: Car_ESTest, MethodName: test03
+* Finished: ClassName: Car_ESTest, MethodName: test03
+* Started: ClassName: Car_ESTest, MethodName: test04
+* Finished: ClassName: Car_ESTest, MethodName: test04
+* Started: ClassName: Car_ESTest, MethodName: test05
+* Finished: ClassName: Car_ESTest, MethodName: test05
+* Number of test cases executed: 13
+  Executing Van_ESTest
+* Number of test cases to execute: 8
+[MASTER] 18:11:05.532 [logback-1] WARN  Sandbox - Sandbox can be initalized only once
+* Started: ClassName: Van_ESTest, MethodName: test1
+* Finished: ClassName: Van_ESTest, MethodName: test1
+* Started: ClassName: Van_ESTest, MethodName: test0
+* Finished: ClassName: Van_ESTest, MethodName: test0
+* Started: ClassName: Van_ESTest, MethodName: test7
+* Finished: ClassName: Van_ESTest, MethodName: test7
+* Started: ClassName: Van_ESTest, MethodName: test6
+* Finished: ClassName: Van_ESTest, MethodName: test6
+* Started: ClassName: Van_ESTest, MethodName: test3
+* Finished: ClassName: Van_ESTest, MethodName: test3
+* Started: ClassName: Van_ESTest, MethodName: test2
+* Finished: ClassName: Van_ESTest, MethodName: test2
+* Started: ClassName: Van_ESTest, MethodName: test5
+* Finished: ClassName: Van_ESTest, MethodName: test5
+* Started: ClassName: Van_ESTest, MethodName: test4
+* Finished: ClassName: Van_ESTest, MethodName: test4
+* Number of test cases executed: 8
+* Executed 405 unit test(s)
+* Target class Bike
+* Coverage of criterion LINE: 69%
+* Number of covered goals: 11 / 16
+* Coverage of criterion BRANCH: 75%
+* Number of covered goals: 3 / 4
+* Coverage of criterion EXCEPTION: 100% (no goals)
+* Coverage of criterion WEAKMUTATION: 67%
+* Number of covered goals: 22 / 33
+* Coverage of criterion OUTPUT: 0%
+* Number of covered goals: 0 / 15
+* Coverage of criterion METHOD: 0%
+* Number of covered goals: 0 / 4
+* Coverage of criterion METHODNOEXCEPTION: 0%
+* Number of covered goals: 0 / 4
+* Coverage of criterion CBRANCH: 0%
+* Number of covered goals: 0 / 4
+* Total number of covered goals: 36 / 80
+* Total coverage: 45%
+* Computation finished
+* Writing statistics

@@ -1,0 +1,107 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+<title>
+MoneyComparatorC
+</title>
+<link href="files/prettify.css" type="text/css" rel="stylesheet" />
+<link href="files/style.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="files/prettify.js"></script>
+<script type="text/javascript" src="files/jquery.js"></script>
+<script type="text/javascript" src="files/foldButton.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('H2#tests').foldButton();
+    $('H2#source').foldButton();
+    $('H2#parameters').foldButton();
+  });</script>
+<link href="files/foldButton.css" rel="stylesheet" type="text/css">
+</head>
+<body onload="prettyPrint()">
+<div id="wrapper">
+<img src="files/evosuite.png" height="40"/>
+<br><br><h2 class=title>Summary</h2>
+<ul><li>Target class: MoneyComparatorC: 0.9875</ul>
+<ul>
+<li>1.0 fitness evaluations, 0 generations, null statements, 4 tests.
+<li>Covered null/null branches, <li>Covered null/null methods, <li>Covered 31/32 total goals
+</ul>
+<div id="page">
+<div id="page-bgtop">
+<div id="page-bgbtm">
+<div id="content">
+<div id="post">
+<h2 class=title id=tests>Test suite</h2>
+<div class=tests>
+<h3>Test case 1</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>MoneyComparatorC moneyComparatorC0 = new MoneyComparatorC();
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Client client0 = new Client(&quot;XG-1i;1Dv{s&quot;, &quot;XG-1i;1Dv{s&quot;, &quot;XG-1i;1Dv{s&quot;, &quot;XG-1i;1Dv{s&quot;, localDate0);
+<span class="nocode"><a name="4">  4: </a></span>int int0 = moneyComparatorC0.compare(client0, client0);
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(0, int0);
+</pre>
+<h3>Test case 2</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>MoneyComparatorC moneyComparatorC0 = new MoneyComparatorC();
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Client client0 = new Client(&quot;XG-1i;1Dv{s&quot;, &quot;XG-1i;1Dv{s&quot;, &quot;XG-1i;1Dv{s&quot;, &quot;XG-1i;1Dv{s&quot;, localDate0);
+<span class="nocode"><a name="4">  4: </a></span>Client client1 = new Client(&quot;XG-1i;1Dv{s&quot;, &quot;XG-1i;1Dv{s&quot;, &quot;XG-1i;1Dv{s&quot;, &quot;XG-1i;1Dv{s&quot;, localDate0);
+<span class="nocode"><a name="5">  5: </a></span>client1.setMoney(2122799954);
+<span class="nocode"><a name="6">  6: </a></span>int int0 = moneyComparatorC0.compare(client1, client0);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals((-1), int0);
+</pre>
+<h3>Test case 3</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>MoneyComparatorC moneyComparatorC0 = new MoneyComparatorC();
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Client client0 = new Client(&quot;XG-1i;1Dv{s&quot;, &quot;XG-1i;1Dv{s&quot;, &quot;XG-1i;1Dv{s&quot;, &quot;XG-1i;1Dv{s&quot;, localDate0);
+<span class="nocode"><a name="4">  4: </a></span>Client client1 = new Client(&quot;XG-1i;1Dv{s&quot;, &quot;XG-1i;1Dv{s&quot;, &quot;XG-1i;1Dv{s&quot;, &quot;XG-1i;1Dv{s&quot;, localDate0);
+<span class="nocode"><a name="5">  5: </a></span>client1.setMoney(2122799954);
+<span class="nocode"><a name="6">  6: </a></span>int int0 = moneyComparatorC0.compare(client0, client1);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(1, int0);
+</pre>
+<h3>Test case 4</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>MoneyComparatorC moneyComparatorC0 = new MoneyComparatorC();
+<span class="nocode"><a name="2">  2: </a></span>moneyComparatorC0.compare((Client) null, (Client) null);
+</pre>
+</div><div id="post">
+<h2 class=title id=source>Source Code</h2>
+<div class=source>
+<p><pre class="prettyprint" style="border: 1px solid #888;padding: 2px"><span class="nocode"><a name="1">  1: </a></span>
+<span class="nocode"><a name="2">  2: </a></span>import java.util.Comparator;
+<span class="nocode"><a name="3">  3: </a></span>
+<span class="nocode"><a name="4">  4: </a></span>/**
+<span class="nocode"><a name="5">  5: </a></span> * MoneyComparatorC
+<span class="nocode"><a name="6">  6: </a></span> */
+<span class="nocode"><a name="7">  7: </a></span>public class MoneyComparatorC implements Comparator&lt;Client&gt; {
+<span class="nocode"><a name="8">  8: </a></span>
+<span class="nocode"><a name="9">  9: </a></span>	/**
+<span class="nocode"><a name="10"> 10: </a></span>	* Compara o dinheiro entre dois cliente
+<span class="nocode"><a name="11"> 11: </a></span>	* @param c1 Cliente 1
+<span class="nocode"><a name="12"> 12: </a></span>	* @param c2 Cliente 2
+<span class="nocode"><a name="13"> 13: </a></span>	*/
+<span class="nocode"><a name="14"> 14: </a></span>    public int compare(Client c1, Client c2){
+<span class="nocode"><a name="15"> 15: </a></span>        if (c1.getMoney() &gt; c2.getMoney()) return -1;
+<span class="nocode"><a name="16"> 16: </a></span>        if (c1.getMoney() &lt; c2.getMoney()) return 1;
+<span class="nocode"><a name="17"> 17: </a></span>        return (c1.getEmail().compareTo(c2.getEmail()));
+<span class="nocode"><a name="18"> 18: </a></span>    }
+<span class="nocode"><a name="19"> 19: </a></span>}
+</pre>
+</p>
+</div>
+<div id="post">
+<h2 id=parameters>EvoSuite Parameters</h2>
+<div class=statistics><ul>
+<li>TARGET_CLASS: MoneyComparatorC
+<li>criterion: LINE;BRANCH;EXCEPTION;WEAKMUTATION;OUTPUT;METHOD;METHODNOEXCEPTION;CBRANCH
+<li>Coverage: 0.9875
+<li>Total_Goals: 32
+<li>Covered_Goals: 31
+</ul></div>
+</div>
+<p><br><a href="../report-generation.html">Back to Overview</a></p>
+</div>
+</body>
+</html>

@@ -1,0 +1,134 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+<title>
+CustomProbabilisticDistribution
+</title>
+<link href="files/prettify.css" type="text/css" rel="stylesheet" />
+<link href="files/style.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="files/prettify.js"></script>
+<script type="text/javascript" src="files/jquery.js"></script>
+<script type="text/javascript" src="files/foldButton.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('H2#tests').foldButton();
+    $('H2#source').foldButton();
+    $('H2#parameters').foldButton();
+  });</script>
+<link href="files/foldButton.css" rel="stylesheet" type="text/css">
+</head>
+<body onload="prettyPrint()">
+<div id="wrapper">
+<img src="files/evosuite.png" height="40"/>
+<br><br><h2 class=title>Summary</h2>
+<ul><li>Target class: CustomProbabilisticDistribution: 0.9972826086956521</ul>
+<ul>
+<li>1.5 fitness evaluations, 0 generations, null statements, 5 tests.
+<li>Covered null/null branches, <li>Covered null/null methods, <li>Covered 79/80 total goals
+</ul>
+<div id="page">
+<div id="page-bgtop">
+<div id="page-bgbtm">
+<div id="content">
+<div id="post">
+<h2 class=title id=tests>Test suite</h2>
+<div class=tests>
+<h3>Test case 1</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>CustomProbabilisticDistribution customProbabilisticDistribution0 = new CustomProbabilisticDistribution();
+<span class="nocode"><a name="2">  2: </a></span>int int0 = customProbabilisticDistribution0.pickNumber();
+<span class="nocode"><a name="3">  3: </a></span>assertEquals(0, int0);
+</pre>
+<h3>Test case 2</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>CustomProbabilisticDistribution customProbabilisticDistribution0 = new CustomProbabilisticDistribution();
+<span class="nocode"><a name="2">  2: </a></span>customProbabilisticDistribution0.addValues(127, 0);
+</pre>
+<h3>Test case 3</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>CustomProbabilisticDistribution customProbabilisticDistribution0 = new CustomProbabilisticDistribution();
+<span class="nocode"><a name="2">  2: </a></span>customProbabilisticDistribution0.addValues((-1), 3722.542);
+<span class="nocode"><a name="3">  3: </a></span>int int0 = customProbabilisticDistribution0.pickNumber();
+<span class="nocode"><a name="4">  4: </a></span>assertEquals((-1), int0);
+</pre>
+<h3>Test case 4</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>CustomProbabilisticDistribution customProbabilisticDistribution0 = new CustomProbabilisticDistribution();
+<span class="nocode"><a name="2">  2: </a></span>customProbabilisticDistribution0.addValues(240, 240);
+<span class="nocode"><a name="3">  3: </a></span>int int0 = customProbabilisticDistribution0.pickNumber();
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(240, int0);
+</pre>
+<h3>Test case 5</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>CustomProbabilisticDistribution customProbabilisticDistribution0 = new CustomProbabilisticDistribution();
+<span class="nocode"><a name="2">  2: </a></span>customProbabilisticDistribution0.addValues((-1), (-2073.973013));
+</pre>
+</div><div id="post">
+<h2 class=title id=source>Source Code</h2>
+<div class=source>
+<p><pre class="prettyprint" style="border: 1px solid #888;padding: 2px"><span class="nocode"><a name="1">  1: </a></span>
+<span class="nocode"><a name="2">  2: </a></span>import java.util.ArrayList;
+<span class="nocode"><a name="3">  3: </a></span>import java.util.Arrays;
+<span class="nocode"><a name="4">  4: </a></span>import java.util.concurrent.ThreadLocalRandom;
+<span class="nocode"><a name="5">  5: </a></span>
+<span class="nocode"><a name="6">  6: </a></span>/**
+<span class="nocode"><a name="7">  7: </a></span> * Uma distribui&ccedil;&atilde;o de probabilidades
+<span class="nocode"><a name="8">  8: </a></span> */
+<span class="nocode"><a name="9">  9: </a></span>public class CustomProbabilisticDistribution {
+<span class="nocode"><a name="10"> 10: </a></span>
+<span class="nocode"><a name="11"> 11: </a></span>    /** Vari&aacute;veis de inst&acirc;ncia */
+<span class="nocode"><a name="12"> 12: </a></span>    private int size; ///&lt; Tamanho do array
+<span class="nocode"><a name="13"> 13: </a></span>    private int values[]; ///&lt; Array com valores
+<span class="nocode"><a name="14"> 14: </a></span>    private int currentPos; ///&lt; Posi&ccedil;&atilde;o atual
+<span class="nocode"><a name="15"> 15: </a></span>
+<span class="nocode"><a name="16"> 16: </a></span>    /** Contrutores */
+<span class="nocode"><a name="17"> 17: </a></span>
+<span class="nocode"><a name="18"> 18: </a></span>    /**
+<span class="nocode"><a name="19"> 19: </a></span>     * Constroi um nova distribui&ccedil;&atilde;o de probabilidades
+<span class="nocode"><a name="20"> 20: </a></span>     */
+<span class="nocode"><a name="21"> 21: </a></span>    public CustomProbabilisticDistribution(){
+<span class="nocode"><a name="22"> 22: </a></span>        this.size = 100;
+<span class="nocode"><a name="23"> 23: </a></span>        this.values = new int[this.size];
+<span class="nocode"><a name="24"> 24: </a></span>        this.currentPos = 0;
+<span class="nocode"><a name="25"> 25: </a></span>    }
+<span class="nocode"><a name="26"> 26: </a></span>
+<span class="nocode"><a name="27"> 27: </a></span>    /**
+<span class="nocode"><a name="28"> 28: </a></span>     * Adiciona valores inteiros de acordo com a probabilidade fornecida
+<span class="nocode"><a name="29"> 29: </a></span>     * @param value         Valor a adicionar
+<span class="nocode"><a name="30"> 30: </a></span>     * @param probability   Probabilidade desse valor
+<span class="nocode"><a name="31"> 31: </a></span>     */
+<span class="nocode"><a name="32"> 32: </a></span>    public void addValues(int value, double probability){
+<span class="nocode"><a name="33"> 33: </a></span>        int n = (int) (probability * 100);
+<span class="nocode"><a name="34"> 34: </a></span>        while (n &gt; 0 &amp;&amp;  this.currentPos &lt; this.size){
+<span class="nocode"><a name="35"> 35: </a></span>            this.values[this.currentPos] = value;
+<span class="nocode"><a name="36"> 36: </a></span>            this.currentPos++;
+<span class="nocode"><a name="37"> 37: </a></span>            n--;
+<span class="nocode"><a name="38"> 38: </a></span>        }
+<span class="nocode"><a name="39"> 39: </a></span>    }
+<span class="nocode"><a name="40"> 40: </a></span>
+<span class="nocode"><a name="41"> 41: </a></span>    /**
+<span class="nocode"><a name="42"> 42: </a></span>     * Retorna um n&uacute;mero de acordo com a probabilidade fornecida
+<span class="nocode"><a name="43"> 43: </a></span>     * @return N&uacute;mero escolhido
+<span class="nocode"><a name="44"> 44: </a></span>     */
+<span class="nocode"><a name="45"> 45: </a></span>    public int pickNumber(){
+<span class="nocode"><a name="46"> 46: </a></span>        int random = ThreadLocalRandom.current().nextInt(0, this.size);
+<span class="nocode"><a name="47"> 47: </a></span>        return this.values[random];
+<span class="nocode"><a name="48"> 48: </a></span>    }
+<span class="nocode"><a name="49"> 49: </a></span>}
+</pre>
+</p>
+</div>
+<div id="post">
+<h2 id=parameters>EvoSuite Parameters</h2>
+<div class=statistics><ul>
+<li>TARGET_CLASS: CustomProbabilisticDistribution
+<li>criterion: LINE;BRANCH;EXCEPTION;WEAKMUTATION;OUTPUT;METHOD;METHODNOEXCEPTION;CBRANCH
+<li>Coverage: 0.9972826086956521
+<li>Total_Goals: 80
+<li>Covered_Goals: 79
+</ul></div>
+</div>
+<p><br><a href="../report-generation.html">Back to Overview</a></p>
+</div>
+</body>
+</html>

@@ -1,0 +1,182 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+<title>
+Van
+</title>
+<link href="files/prettify.css" type="text/css" rel="stylesheet" />
+<link href="files/style.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="files/prettify.js"></script>
+<script type="text/javascript" src="files/jquery.js"></script>
+<script type="text/javascript" src="files/foldButton.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('H2#tests').foldButton();
+    $('H2#source').foldButton();
+    $('H2#parameters').foldButton();
+  });</script>
+<link href="files/foldButton.css" rel="stylesheet" type="text/css">
+</head>
+<body onload="prettyPrint()">
+<div id="wrapper">
+<img src="files/evosuite.png" height="40"/>
+<br><br><h2 class=title>Summary</h2>
+<ul><li>Target class: Van: 0.8317708333333333</ul>
+<ul>
+<li>11.033333333333333 fitness evaluations, 0 generations, null statements, 8 tests.
+<li>Covered null/null branches, <li>Covered null/null methods, <li>Covered 36/51 total goals
+</ul>
+<div id="page">
+<div id="page-bgtop">
+<div id="page-bgbtm">
+<div id="content">
+<div id="post">
+<h2 class=title id=tests>Test suite</h2>
+<div class=tests>
+<h3>Test case 1</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Van van0 = new Van();
+</pre>
+<h3>Test case 2</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double(60.0, 853.2737984727125);
+<span class="nocode"><a name="2">  2: </a></span>Van van0 = new Van(&quot;PXJ$o&quot;, 1.9, point2D_Double0, &quot;Van&quot;);
+<span class="nocode"><a name="3">  3: </a></span>Van van1 = new Van(van0);
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(9, van1.getSeats());
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(55.0, van1.getSpeed(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(1.9, van1.getPrice(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(1.9, van0.getPrice(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(9, van0.getSeats());
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(55.0, van0.getSpeed(), 0.01);
+</pre>
+<h3>Test case 3</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double(60.0, 853.2737984727125);
+<span class="nocode"><a name="2">  2: </a></span>Van van0 = new Van(&quot;PXJ$o&quot;, 1.9, point2D_Double0, &quot;Van&quot;);
+<span class="nocode"><a name="3">  3: </a></span>Van van1 = van0.clone();
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(1.9, van1.getPrice(), 0.01);
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(9, van0.getSeats());
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(1.9, van0.getPrice(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(55.0, van1.getSpeed(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(9, van1.getSeats());
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(55.0, van0.getSpeed(), 0.01);
+</pre>
+<h3>Test case 4</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Van van0 = new Van((Van) null);
+</pre>
+<h3>Test case 5</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Van van0 = new Van(&quot;&quot;, (-2808.0), (Point2D.Double) null, &quot;&quot;);
+</pre>
+<h3>Test case 6</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double(60.0, 853.2737984727125);
+<span class="nocode"><a name="2">  2: </a></span>Van van0 = new Van(&quot;PXJ$o&quot;, 1.9, point2D_Double0, &quot;Van&quot;);
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip();
+<span class="nocode"><a name="4">  4: </a></span>van0.addTrip(trip0);
+<span class="nocode"><a name="5">  5: </a></span>van0.clone();
+</pre>
+<h3>Test case 7</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>Van van0 = new Van(&quot;U&gt;@{0R&quot;, (-371.474277185), point2D_Double0, &quot;U&gt;@{0R&quot;);
+<span class="nocode"><a name="3">  3: </a></span>Van van1 = van0.clone();
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(1.9, van1.getPrice(), 0.01);
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(9, van0.getSeats());
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(55.0, van0.getSpeed(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(55.0, van1.getSpeed(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(1.9, van0.getPrice(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(9, van1.getSeats());
+</pre>
+<h3>Test case 8</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double(0.0, 2.0);
+<span class="nocode"><a name="2">  2: </a></span>Van van0 = new Van(&quot;&quot;, 0.0, point2D_Double0, &quot;&quot;);
+<span class="nocode"><a name="3">  3: </a></span>Van van1 = van0.clone();
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(55.0, van1.getSpeed(), 0.01);
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(9, van1.getSeats());
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(9, van0.getSeats());
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(1.9, van1.getPrice(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(1.9, van0.getPrice(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(55.0, van0.getSpeed(), 0.01);
+</pre>
+</div><div id="post">
+<h2 class=title id=source>Source Code</h2>
+<div class=source>
+<p><pre class="prettyprint" style="border: 1px solid #888;padding: 2px"><span class="nocode"><a name="1">  1: </a></span>
+<span class="nocode"><a name="2">  2: </a></span>import java.awt.geom.Point2D;
+<span class="nocode"><a name="3">  3: </a></span>import java.io.Serializable;
+<span class="nocode"><a name="4">  4: </a></span>import java.util.LinkedList;
+<span class="nocode"><a name="5">  5: </a></span>import java.util.*;
+<span class="nocode"><a name="6">  6: </a></span>
+<span class="nocode"><a name="7">  7: </a></span>/**
+<span class="nocode"><a name="8">  8: </a></span> * Van for UMeR.
+<span class="nocode"><a name="9">  9: </a></span> */
+<span class="nocode"><a name="10"> 10: </a></span>
+<span class="nocode"><a name="11"> 11: </a></span>public class Van extends Vehicle implements Serializable {
+<span class="nocode"><a name="12"> 12: </a></span>
+<span class="nocode"><a name="13"> 13: </a></span>    /** CONSTRUTORES */
+<span class="nocode"><a name="14"> 14: </a></span>
+<span class="nocode"><a name="15"> 15: </a></span>    /**
+<span class="nocode"><a name="16"> 16: </a></span>     * Cria uma Carrinha sem par&acirc;metros
+<span class="nocode"><a name="17"> 17: </a></span>     */
+<span class="nocode"><a name="18"> 18: </a></span>    public Van() {
+<span class="nocode"><a name="19"> 19: </a></span>        super();
+<span class="nocode"><a name="20"> 20: </a></span>        this.setSpeed(55);
+<span class="nocode"><a name="21"> 21: </a></span>        this.setPrice(1.90);
+<span class="nocode"><a name="22"> 22: </a></span>        this.setSeats(9);
+<span class="nocode"><a name="23"> 23: </a></span>    }
+<span class="nocode"><a name="24"> 24: </a></span>
+<span class="nocode"><a name="25"> 25: </a></span>    /**
+<span class="nocode"><a name="26"> 26: </a></span>     * Constroi uma Carrinha passado os par&acirc;metros
+<span class="nocode"><a name="27"> 27: </a></span>     * @param licencePlate Matr&iacute;cula
+<span class="nocode"><a name="28"> 28: </a></span>     * @param reliable     Fator de fiabilidade
+<span class="nocode"><a name="29"> 29: </a></span>     * @param position     Posi&ccedil;&atilde;o atual
+<span class="nocode"><a name="30"> 30: </a></span>     * @param owner        Dono da carrinha
+<span class="nocode"><a name="31"> 31: </a></span>     */
+<span class="nocode"><a name="32"> 32: </a></span>    public Van(String licencePlate, double reliable, Point2D.Double position, String owner) {
+<span class="nocode"><a name="33"> 33: </a></span>        super(licencePlate, reliable, position, true, null, null, null, owner);
+<span class="nocode"><a name="34"> 34: </a></span>        this.setSpeed(55);
+<span class="nocode"><a name="35"> 35: </a></span>        this.setPrice(1.90);
+<span class="nocode"><a name="36"> 36: </a></span>        this.setSeats(9);
+<span class="nocode"><a name="37"> 37: </a></span>    }
+<span class="nocode"><a name="38"> 38: </a></span>
+<span class="nocode"><a name="39"> 39: </a></span>    /**
+<span class="nocode"><a name="40"> 40: </a></span>     * Constroi uma Carrinha a partir de uma j&aacute; existente
+<span class="nocode"><a name="41"> 41: </a></span>     * @param v Carrinha
+<span class="nocode"><a name="42"> 42: </a></span>     */
+<span class="nocode"><a name="43"> 43: </a></span>    public Van(Van v) {
+<span class="nocode"><a name="44"> 44: </a></span>        super(v.getLicencePlate(), v.getReliable(), v.getPosition(), v.isAvailable(), v.getQueue(), v.getQueueInfo(), v.getTrips(), v.getOwner());
+<span class="nocode"><a name="45"> 45: </a></span>        this.setSpeed(55);
+<span class="nocode"><a name="46"> 46: </a></span>        this.setPrice(1.90);
+<span class="nocode"><a name="47"> 47: </a></span>        this.setSeats(9);
+<span class="nocode"><a name="48"> 48: </a></span>    }
+<span class="nocode"><a name="49"> 49: </a></span>
+<span class="nocode"><a name="50"> 50: </a></span>    /** M&eacute;todos de Inst&acirc;ncia */
+<span class="nocode"><a name="51"> 51: </a></span>
+<span class="nocode"><a name="52"> 52: </a></span>    /**
+<span class="nocode"><a name="53"> 53: </a></span>     * Faz a c&oacute;pia de uma carrinha
+<span class="nocode"><a name="54"> 54: </a></span>     * @return C&oacute;pia de Carrinha
+<span class="nocode"><a name="55"> 55: </a></span>     */
+<span class="nocode"><a name="56"> 56: </a></span>    public Van clone(){
+<span class="nocode"><a name="57"> 57: </a></span>        return new Van(this);
+<span class="nocode"><a name="58"> 58: </a></span>    }
+<span class="nocode"><a name="59"> 59: </a></span>}
+</pre>
+</p>
+</div>
+<div id="post">
+<h2 id=parameters>EvoSuite Parameters</h2>
+<div class=statistics><ul>
+<li>TARGET_CLASS: Van
+<li>criterion: LINE;BRANCH;EXCEPTION;WEAKMUTATION;OUTPUT;METHOD;METHODNOEXCEPTION;CBRANCH
+<li>Coverage: 0.8317708333333333
+<li>Total_Goals: 51
+<li>Covered_Goals: 36
+</ul></div>
+</div>
+<p><br><a href="../report-generation.html">Back to Overview</a></p>
+</div>
+</body>
+</html>

@@ -1,0 +1,1014 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+<title>
+Trip
+</title>
+<link href="files/prettify.css" type="text/css" rel="stylesheet" />
+<link href="files/style.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="files/prettify.js"></script>
+<script type="text/javascript" src="files/jquery.js"></script>
+<script type="text/javascript" src="files/foldButton.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('H2#tests').foldButton();
+    $('H2#source').foldButton();
+    $('H2#parameters').foldButton();
+  });</script>
+<link href="files/foldButton.css" rel="stylesheet" type="text/css">
+</head>
+<body onload="prettyPrint()">
+<div id="wrapper">
+<img src="files/evosuite.png" height="40"/>
+<br><br><h2 class=title>Summary</h2>
+<ul><li>Target class: Trip: 0.9834905660377359</ul>
+<ul>
+<li>14.166666666666666 fitness evaluations, 0 generations, null statements, 51 tests.
+<li>Covered null/null branches, <li>Covered null/null methods, <li>Covered 355/380 total goals
+</ul>
+<div id="page">
+<div id="page-bgtop">
+<div id="page-bgbtm">
+<div id="content">
+<div id="post">
+<h2 class=title id=tests>Test suite</h2>
+<div class=tests>
+<h3>Test case 1</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(0, point2D_Double0, point2D_Double0, (Double) 0.0, (Double) 0.0, localDate0, &quot;&quot;, &quot;&quot;, &quot;&quot;, 0, 0.0, point2D_Double0, 0.0, 0.0, 0.0);
+<span class="nocode"><a name="4">  4: </a></span>Trip trip1 = trip0.clone();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(0.0, trip0.getTime(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0, trip1.getRating());
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0, trip1.getID());
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0.0, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0.0, trip0.getPrice(), 0.01);
+<span class="nocode"><a name="11"> 11: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="12"> 12: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+</pre>
+<h3>Test case 2</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Trip trip0 = new Trip();
+<span class="nocode"><a name="2">  2: </a></span>trip0.setRating((-1));
+<span class="nocode"><a name="3">  3: </a></span>trip0.toString();
+</pre>
+<h3>Test case 3</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(0, point2D_Double0, point2D_Double0, (Double) 0.0, (Double) 0.0, localDate0, &quot;&quot;, &quot;&quot;, &quot;&quot;, 0, 0.0, point2D_Double0, 0.0, 0.0, 0.0);
+<span class="nocode"><a name="4">  4: </a></span>String string0 = trip0.toString();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(&quot;Viagem de (0.0,0.0) ---&gt; (0.0,0.0)\nData : 2014-02-14\nDist\u00E2ncia : 0km\nDura\u00E7\u00E3o prevista : 0h:0m:0s\nDura\u00E7\u00E3o real : 0h:0m:0s\nPre\u00E7o : 0\u20AC\nEmail condutor : \nEmail cliente : \nMatr\u00EDcula ve\u00EDculo : \nClassifica\u00E7\u00E3o : 0**\nPosi\u00E7\u00E3o inicial do taxi : [0.0,0.0]\nTempo previsto at\u00E9 ao cliente : 0h:0m:0s\nTempo real at\u00E9 ao cliente : 0h:0m:0s\nPre\u00E7o estimado : 0\u20AC\nTrip id : 0&quot;, string0);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+</pre>
+<h3>Test case 4</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Trip trip0 = new Trip();
+<span class="nocode"><a name="2">  2: </a></span>int int0 = trip0.getID();
+<span class="nocode"><a name="3">  3: </a></span>assertEquals(0, int0);
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(0.0, trip0.getTime(), 0.01);
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0.0, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0.0, trip0.getPrice(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0, trip0.getRating());
+</pre>
+<h3>Test case 5</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double(1, 1);
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.ofEpochDay(2496L);
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(1, point2D_Double0, point2D_Double0, (Double) 0.0, (Double) point2D_Double0.y, localDate0, &quot;7W2_dQwF:5`QXB&quot;, &quot;&quot;, (String) null, 1, 1, point2D_Double0, 0.0, 60.0, 3600.0);
+<span class="nocode"><a name="4">  4: </a></span>double double0 = trip0.getRealTimeToClient();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(1.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(60.0, double0, 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(1, trip0.getRating());
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(1, trip0.getID());
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(3600.0, trip0.getEstimatedPrice(), 0.01);
+</pre>
+<h3>Test case 6</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>Period period0 = Period.of((-2144), (-2144), (-2144));
+<span class="nocode"><a name="3">  3: </a></span>IsoChronology isoChronology0 = period0.getChronology();
+<span class="nocode"><a name="4">  4: </a></span>LocalDate localDate0 = MockIsoChronology.dateNow(isoChronology0);
+<span class="nocode"><a name="5">  5: </a></span>Trip trip0 = new Trip((-2144), point2D_Double0, point2D_Double0, (Double) 0.0, (Double) point2D_Double0.x, localDate0, &quot;H&quot;, &quot;Viagem de (&quot;, &quot;&quot;, (-2144), 0.0, point2D_Double0, 0.0, (-3251.0395), 0.0);
+<span class="nocode"><a name="6">  6: </a></span>trip0.distance();
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals((-2144), trip0.getID());
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals((-2144), trip0.getRating());
+<span class="nocode"><a name="11"> 11: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="12"> 12: </a></span>assertEquals((-3251.0395), trip0.getRealTimeToClient(), 0.01);
+</pre>
+<h3>Test case 7</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double(1, 1);
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.ofEpochDay(2496L);
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(1, point2D_Double0, point2D_Double0, (Double) 0.0, (Double) point2D_Double0.x, localDate0, &quot;7W2_dQwF:5`QXB&quot;, &quot;&quot;, (String) null, 1, 1, point2D_Double0, 0.0, 60.0, 3600.0);
+<span class="nocode"><a name="4">  4: </a></span>trip0.getDate();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(60.0, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(1.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(1, trip0.getID());
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(1, trip0.getRating());
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(3600.0, trip0.getEstimatedPrice(), 0.01);
+</pre>
+<h3>Test case 8</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double((-86), 1745.5360787081);
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay((-86), 1);
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip((-86), point2D_Double0, point2D_Double0, (Double) point2D_Double0.x, (Double) point2D_Double0.x, localDate0, &quot;&quot;, &quot;&quot;, &quot;&quot;, 0, 3600.0, point2D_Double0, 1134.3, 1134.3, 0.0);
+<span class="nocode"><a name="4">  4: </a></span>trip0.getLicencePlate();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(1134.3, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0, trip0.getRating());
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(3600.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(1134.3, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals((-86), trip0.getID());
+</pre>
+<h3>Test case 9</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double((-86), 1745.5360787081);
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay((-86), 1);
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip((-86), point2D_Double0, point2D_Double0, (Double) point2D_Double0.x, (Double) point2D_Double0.y, localDate0, &quot;&quot;, &quot;&quot;, &quot;&quot;, 0, 3600.0, point2D_Double0, 1134.3, 1134.3, 0.0);
+<span class="nocode"><a name="4">  4: </a></span>double double0 = trip0.getEstimatedPrice();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(3600.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(1134.3, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(1134.3, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0.0, double0, 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals((-86), trip0.getID());
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0, trip0.getRating());
+</pre>
+<h3>Test case 10</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double((-1109.05), 312);
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(312, point2D_Double0, point2D_Double0, (Double) point2D_Double0.y, (Double) 312.0, localDate0, &quot;&quot;, &quot;&quot;, &quot;\nPre\u00E7o estimado : &quot;, 312, (-57.2854552706424), point2D_Double0, 0.0, 312.0, 0.0);
+<span class="nocode"><a name="4">  4: </a></span>double double0 = trip0.getEstimatedTimeToClient();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(312, trip0.getID());
+<span class="nocode"><a name="6">  6: </a></span>assertEquals((-57.2854552706424), trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(312, trip0.getRating());
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0.0, double0, 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(312.0, trip0.getRealTimeToClient(), 0.01);
+</pre>
+<h3>Test case 11</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double((-1109.05), 312);
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(312, point2D_Double0, point2D_Double0, (Double) point2D_Double0.x, (Double) 312.0, localDate0, &quot;&quot;, &quot;&quot;, &quot;\nPre\u00E7o estimado : &quot;, 312, (-57.2854552706424), point2D_Double0, 0.0, 312.0, 0.0);
+<span class="nocode"><a name="4">  4: </a></span>trip0.getEnd();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(312.0, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(312, trip0.getRating());
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(312, trip0.getID());
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals((-57.2854552706424), trip0.getEstimatedTimeToDest(), 0.01);
+</pre>
+<h3>Test case 12</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(1, point2D_Double0, point2D_Double0, (Double) point2D_Double0.x, (Double) point2D_Double0.x, localDate0, &quot;\nPosi\u00E7\u00E3o inicial do taxi : [&quot;, &quot;&quot;, &quot;&quot;, 2898, 0.0, point2D_Double0, 0.0, 0.0, 1.0);
+<span class="nocode"><a name="4">  4: </a></span>trip0.getTaxiPos();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(1.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(1, trip0.getID());
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0.0, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(2898, trip0.getRating());
+</pre>
+<h3>Test case 13</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double((-1109.05), 312);
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(312, point2D_Double0, point2D_Double0, (Double) point2D_Double0.x, (Double) 312.0, localDate0, &quot;&quot;, &quot;&quot;, &quot;\nPre\u00E7o estimado : &quot;, 312, (-57.2854552706424), point2D_Double0, 0.0, 312.0, 0.0);
+<span class="nocode"><a name="4">  4: </a></span>double double0 = trip0.getEstimatedTimeToDest();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(312, trip0.getID());
+<span class="nocode"><a name="6">  6: </a></span>assertEquals((-57.2854552706424), double0, 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(312, trip0.getRating());
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(312.0, trip0.getRealTimeToClient(), 0.01);
+</pre>
+<h3>Test case 14</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(0, point2D_Double0, point2D_Double0, (Double) 0.0, (Double) point2D_Double0.x, localDate0, &quot;\nPre\u00E7o estimado : &quot;, &quot;\nPre\u00E7o estimado : &quot;, &quot;\nPre\u00E7o estimado : &quot;, 0, 0.0, point2D_Double0, 0.0, 0, 0.0);
+<span class="nocode"><a name="4">  4: </a></span>trip0.getStart();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0, trip0.getRating());
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0, trip0.getID());
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0.0, trip0.getRealTimeToClient(), 0.01);
+</pre>
+<h3>Test case 15</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double((-1109.05), 312);
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(312, point2D_Double0, point2D_Double0, (Double) point2D_Double0.x, (Double) 312.0, localDate0, &quot;&quot;, &quot;&quot;, &quot;\nPre\u00E7o estimado : &quot;, 312, (-57.2854552706424), point2D_Double0, 0.0, 312.0, 0.0);
+<span class="nocode"><a name="4">  4: </a></span>Double double0 = trip0.getTime();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(312, trip0.getID());
+<span class="nocode"><a name="6">  6: </a></span>assertEquals((-1109.05), (double)double0, 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(312.0, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(312, trip0.getRating());
+<span class="nocode"><a name="11"> 11: </a></span>assertEquals((-57.2854552706424), trip0.getEstimatedTimeToDest(), 0.01);
+</pre>
+<h3>Test case 16</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double((-86), 1745.5360787081);
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay((-86), 1);
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip((-86), point2D_Double0, point2D_Double0, (Double) point2D_Double0.x, (Double) point2D_Double0.y, localDate0, &quot;&quot;, &quot;&quot;, &quot;&quot;, 0, 3600.0, point2D_Double0, 1134.3, 1134.3, 0.0);
+<span class="nocode"><a name="4">  4: </a></span>trip0.getDriver();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(3600.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(1134.3, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0, trip0.getRating());
+<span class="nocode"><a name="8">  8: </a></span>assertEquals((-86), trip0.getID());
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(1134.3, trip0.getRealTimeToClient(), 0.01);
+</pre>
+<h3>Test case 17</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double((-1109.05), 312);
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(312, point2D_Double0, point2D_Double0, (Double) point2D_Double0.y, (Double) 312.0, localDate0, &quot;&quot;, &quot;&quot;, &quot;\nPre\u00E7o estimado : &quot;, 312, (-57.2854552706424), point2D_Double0, 0.0, 312.0, 0.0);
+<span class="nocode"><a name="4">  4: </a></span>trip0.getClient();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(312.0, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(312, trip0.getID());
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(312, trip0.getRating());
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals((-57.2854552706424), trip0.getEstimatedTimeToDest(), 0.01);
+</pre>
+<h3>Test case 18</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double((-1109.05), 312);
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(312, point2D_Double0, point2D_Double0, (Double) point2D_Double0.y, (Double) 312.0, localDate0, &quot;&quot;, &quot;&quot;, &quot;\nPre\u00E7o estimado : &quot;, 312, (-57.2854552706424), point2D_Double0, 0.0, 312.0, 0.0);
+<span class="nocode"><a name="4">  4: </a></span>Double double0 = trip0.getPrice();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(312.0, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(312, trip0.getRating());
+<span class="nocode"><a name="8">  8: </a></span>assertEquals((-57.2854552706424), trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(312, trip0.getID());
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="11"> 11: </a></span>assertEquals(312.0, (double)double0, 0.01);
+</pre>
+<h3>Test case 19</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double((-86), 1745.5360787081);
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay((-86), 1);
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip((-86), point2D_Double0, point2D_Double0, (Double) point2D_Double0.x, (Double) point2D_Double0.x, localDate0, &quot;&quot;, &quot;&quot;, &quot;&quot;, 0, 3600.0, point2D_Double0, 1134.3, 1134.3, 0.0);
+<span class="nocode"><a name="4">  4: </a></span>Trip trip1 = new Trip(trip0);
+<span class="nocode"><a name="5">  5: </a></span>assertEquals((-86), trip0.getID());
+<span class="nocode"><a name="6">  6: </a></span>assertEquals((-86.0), trip0.getTime(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(3600.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(1134.3, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(1134.3, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="11"> 11: </a></span>assertEquals((-86.0), trip0.getPrice(), 0.01);
+<span class="nocode"><a name="12"> 12: </a></span>assertEquals(0, trip1.getRating());
+</pre>
+<h3>Test case 20</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>Period period0 = Period.of((-2144), (-2144), (-2144));
+<span class="nocode"><a name="3">  3: </a></span>IsoChronology isoChronology0 = period0.getChronology();
+<span class="nocode"><a name="4">  4: </a></span>LocalDate localDate0 = MockIsoChronology.dateNow(isoChronology0);
+<span class="nocode"><a name="5">  5: </a></span>Trip trip0 = new Trip((-2144), point2D_Double0, point2D_Double0, (Double) 0.0, (Double) point2D_Double0.x, localDate0, &quot;H&quot;, &quot;Viagem de (&quot;, &quot;&quot;, (-2144), 0.0, point2D_Double0, 0.0, (-3251.0395), 0.0);
+<span class="nocode"><a name="6">  6: </a></span>int int0 = trip0.getRating();
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals((-3251.0395), trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals((-2144), int0);
+<span class="nocode"><a name="11"> 11: </a></span>assertEquals((-2144), trip0.getID());
+<span class="nocode"><a name="12"> 12: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+</pre>
+<h3>Test case 21</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double((-111), (-111));
+<span class="nocode"><a name="2">  2: </a></span>Trip trip0 = new Trip((-111), point2D_Double0, point2D_Double0, (Double) 1.0, (Double) 1.0, (LocalDate) null, &quot;&quot;, &quot;&quot;, (String) null, 0, 0.0, point2D_Double0, 0, (-111), 1.0);
+</pre>
+<h3>Test case 22</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Trip trip0 = new Trip();
+<span class="nocode"><a name="2">  2: </a></span>Trip trip1 = new Trip(trip0);
+</pre>
+<h3>Test case 23</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Trip trip0 = new Trip();
+<span class="nocode"><a name="2">  2: </a></span>trip0.clone();
+</pre>
+<h3>Test case 24</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Trip trip0 = new Trip();
+<span class="nocode"><a name="2">  2: </a></span>trip0.getTaxiPos();
+</pre>
+<h3>Test case 25</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay(0, 312);
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(0, point2D_Double0, point2D_Double0, (Double) point2D_Double0.y, (Double) point2D_Double0.x, localDate0, &quot;&quot;, &quot;&quot;, &quot;&quot;, 1, 659.42136139095, point2D_Double0, 0.0, 1, (-2509.951504));
+<span class="nocode"><a name="4">  4: </a></span>Trip trip1 = trip0.clone();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(0.0, trip0.getTime(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0, trip1.getID());
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(1.0, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals((-2509.951504), trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(659.42136139095, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="11"> 11: </a></span>assertEquals(1, trip0.getRating());
+<span class="nocode"><a name="12"> 12: </a></span>assertEquals(0.0, trip0.getPrice(), 0.01);
+</pre>
+<h3>Test case 26</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>ZoneOffset zoneOffset0 = ZoneOffset.UTC;
+<span class="nocode"><a name="3">  3: </a></span>Clock clock0 = MockClock.system(zoneOffset0);
+<span class="nocode"><a name="4">  4: </a></span>LocalDate localDate0 = MockLocalDate.now(clock0);
+<span class="nocode"><a name="5">  5: </a></span>Trip trip0 = new Trip(1357, point2D_Double0, point2D_Double0, (Double) point2D_Double0.x, (Double) 0.0, localDate0, &quot;&lt;HGoM&quot;, &quot;&quot;, (String) null, 1357, (-1.0), point2D_Double0, (-1.0), (-1.0), 3600.0);
+<span class="nocode"><a name="6">  6: </a></span>trip0.clone();
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(1357, trip0.getID());
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(3600.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(1357, trip0.getRating());
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals((-1.0), trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="11"> 11: </a></span>assertEquals((-1.0), trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="12"> 12: </a></span>assertEquals(0.0, trip0.getPrice(), 0.01);
+<span class="nocode"><a name="13"> 13: </a></span>assertEquals((-1.0), trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="14"> 14: </a></span>assertEquals(0.0, trip0.getTime(), 0.01);
+</pre>
+<h3>Test case 27</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double((-86), 1745.5360787081);
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay((-86), 1);
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip((-86), point2D_Double0, point2D_Double0, (Double) point2D_Double0.y, (Double) point2D_Double0.y, localDate0, &quot;&quot;, &quot;&quot;, &quot;&quot;, 0, 3600.0, point2D_Double0, 1134.3, 1134.3, 0.0);
+<span class="nocode"><a name="4">  4: </a></span>Trip trip1 = trip0.clone();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(1745.5360787081, trip0.getPrice(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(1134.3, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0, trip1.getRating());
+<span class="nocode"><a name="9">  9: </a></span>assertEquals((-86), trip0.getID());
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(1745.5360787081, trip0.getTime(), 0.01);
+<span class="nocode"><a name="11"> 11: </a></span>assertEquals(3600.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="12"> 12: </a></span>assertEquals(1134.3, trip0.getRealTimeToClient(), 0.01);
+</pre>
+<h3>Test case 28</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>Period period0 = Period.of((-2144), (-2144), (-2144));
+<span class="nocode"><a name="3">  3: </a></span>IsoChronology isoChronology0 = period0.getChronology();
+<span class="nocode"><a name="4">  4: </a></span>LocalDate localDate0 = MockIsoChronology.dateNow(isoChronology0);
+<span class="nocode"><a name="5">  5: </a></span>Trip trip0 = new Trip((-2144), point2D_Double0, point2D_Double0, (Double) 0.0, (Double) point2D_Double0.x, localDate0, &quot;H&quot;, &quot;Viagem de (&quot;, &quot;&quot;, (-2144), 0.0, point2D_Double0, 0.0, (-3251.0395), 0.0);
+<span class="nocode"><a name="6">  6: </a></span>trip0.clone();
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals((-2144), trip0.getRating());
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals((-2144), trip0.getID());
+<span class="nocode"><a name="11"> 11: </a></span>assertEquals(0.0, trip0.getPrice(), 0.01);
+<span class="nocode"><a name="12"> 12: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="13"> 13: </a></span>assertEquals((-3251.0395), trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="14"> 14: </a></span>assertEquals(0.0, trip0.getTime(), 0.01);
+</pre>
+<h3>Test case 29</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>Point2D.Double point2D_Double1 = new Point2D.Double(235.2991989, (-1528.918734313789));
+<span class="nocode"><a name="3">  3: </a></span>Period period0 = Period.of((-2126), 2043, (-2144));
+<span class="nocode"><a name="4">  4: </a></span>IsoChronology isoChronology0 = period0.getChronology();
+<span class="nocode"><a name="5">  5: </a></span>LocalDate localDate0 = MockIsoChronology.dateNow(isoChronology0);
+<span class="nocode"><a name="6">  6: </a></span>Trip trip0 = new Trip((-2126), point2D_Double0, point2D_Double1, (Double) (-1528.918734313789), (Double) (-1528.918734313789), localDate0, &quot;&quot;, &quot;&quot;, &quot;\nDura\u00E7\u00E3o real : &quot;, 1744, (-2876.0255), point2D_Double0, (-2498.458286), (-2876.0255), 384.1);
+<span class="nocode"><a name="7">  7: </a></span>trip0.distance();
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(1744, trip0.getRating());
+<span class="nocode"><a name="9">  9: </a></span>assertEquals((-2498.458286), trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(384.1, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="11"> 11: </a></span>assertEquals((-2126), trip0.getID());
+<span class="nocode"><a name="12"> 12: </a></span>assertEquals((-2876.0255), trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="13"> 13: </a></span>assertEquals((-2876.0255), trip0.getEstimatedTimeToDest(), 0.01);
+</pre>
+<h3>Test case 30</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(1, point2D_Double0, point2D_Double0, (Double) point2D_Double0.y, (Double) point2D_Double0.x, localDate0, &quot;\nPosi\u00E7\u00E3o inicial do taxi : [&quot;, &quot;&quot;, &quot;&quot;, 2898, 0.0, point2D_Double0, 0.0, 0.0, 1.0);
+<span class="nocode"><a name="4">  4: </a></span>trip0.getClient();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(2898, trip0.getRating());
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(1, trip0.getID());
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(1.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+</pre>
+<h3>Test case 31</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Trip trip0 = new Trip();
+<span class="nocode"><a name="2">  2: </a></span>trip0.getClient();
+<span class="nocode"><a name="3">  3: </a></span>assertEquals(0.0, trip0.getPrice(), 0.01);
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(0, trip0.getRating());
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, trip0.getTime(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0.0, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0, trip0.getID());
+</pre>
+<h3>Test case 32</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(0, point2D_Double0, point2D_Double0, (Double) 0.0, (Double) point2D_Double0.x, localDate0, &quot;\nPre\u00E7o estimado : &quot;, &quot;\nPre\u00E7o estimado : &quot;, &quot;\nPre\u00E7o estimado : &quot;, 0, 0.0, point2D_Double0, 0.0, 0, 0.0);
+<span class="nocode"><a name="4">  4: </a></span>trip0.getDriver();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0, trip0.getRating());
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0, trip0.getID());
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0.0, trip0.getRealTimeToClient(), 0.01);
+</pre>
+<h3>Test case 33</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Trip trip0 = new Trip();
+<span class="nocode"><a name="2">  2: </a></span>trip0.getDriver();
+<span class="nocode"><a name="3">  3: </a></span>assertEquals(0.0, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(0.0, trip0.getTime(), 0.01);
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(0, trip0.getID());
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0, trip0.getRating());
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0.0, trip0.getPrice(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+</pre>
+<h3>Test case 34</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double(1, (-1.0));
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.ofEpochDay(1133L);
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(1, point2D_Double0, point2D_Double0, (Double) point2D_Double0.x, (Double) 0.0, localDate0, &quot;@E|X&amp;iJP0Tc9gn%u &quot;, &quot;&quot;, &quot;y9I#_nS@`[M#d[]&quot;, 1, (-1.0), point2D_Double0, 1.0, 1133L, (-1.0));
+<span class="nocode"><a name="4">  4: </a></span>double double0 = trip0.getEstimatedPrice();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(1133.0, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals((-1.0), trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(1, trip0.getRating());
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(1, trip0.getID());
+<span class="nocode"><a name="9">  9: </a></span>assertEquals((-1.0), double0, 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(1.0, trip0.getEstimatedTimeToClient(), 0.01);
+</pre>
+<h3>Test case 35</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(1, point2D_Double0, point2D_Double0, (Double) point2D_Double0.x, (Double) point2D_Double0.x, localDate0, &quot;\nPosi\u00E7\u00E3o inicial do taxi : [&quot;, &quot;&quot;, &quot;&quot;, 2898, 0.0, point2D_Double0, 0.0, 0.0, 1.0);
+<span class="nocode"><a name="4">  4: </a></span>double double0 = trip0.getEstimatedPrice();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(1.0, double0, 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(1, trip0.getID());
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(2898, trip0.getRating());
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0.0, trip0.getRealTimeToClient(), 0.01);
+</pre>
+<h3>Test case 36</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(168, point2D_Double0, point2D_Double0, (Double) 0.0, (Double) point2D_Double0.x, localDate0, &quot;m:&quot;, &quot;,&quot;, &quot;,&quot;, 0, 1.0, point2D_Double0, (-1.0), 0.0, 2446.7933638066);
+<span class="nocode"><a name="4">  4: </a></span>double double0 = trip0.getEstimatedTimeToClient();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(168, trip0.getID());
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(1.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals((-1.0), double0, 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(2446.7933638066, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0, trip0.getRating());
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0.0, trip0.getRealTimeToClient(), 0.01);
+</pre>
+<h3>Test case 37</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.ofEpochDay((-1414L));
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip((-2804), point2D_Double0, point2D_Double0, (Double) 802.36625, (Double) 0.0, localDate0, &quot;m?]k`n0u5&quot;, &quot;m?]k`n0u5&quot;, &quot;m?]k`n0u5&quot;, (-2804), (-1414L), point2D_Double0, 802.36625, (-2590.82), 0.0);
+<span class="nocode"><a name="4">  4: </a></span>double double0 = trip0.getEstimatedTimeToClient();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals((-1414.0), trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals((-2804), trip0.getID());
+<span class="nocode"><a name="8">  8: </a></span>assertEquals((-2590.82), trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals((-2804), trip0.getRating());
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(802.36625, double0, 0.01);
+</pre>
+<h3>Test case 38</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(168, point2D_Double0, point2D_Double0, (Double) 0.0, (Double) point2D_Double0.x, localDate0, &quot;m:&quot;, &quot;,&quot;, &quot;,&quot;, 0, 1.0, point2D_Double0, (-1.0), 0.0, 2446.7933638066);
+<span class="nocode"><a name="4">  4: </a></span>double double0 = trip0.getEstimatedTimeToDest();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(168, trip0.getID());
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0, trip0.getRating());
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(1.0, double0, 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals((-1.0), trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(2446.7933638066, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0.0, trip0.getRealTimeToClient(), 0.01);
+</pre>
+<h3>Test case 39</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Trip trip0 = new Trip();
+<span class="nocode"><a name="2">  2: </a></span>double double0 = trip0.getEstimatedTimeToDest();
+<span class="nocode"><a name="3">  3: </a></span>assertEquals(0.0, trip0.getPrice(), 0.01);
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(0, trip0.getRating());
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(0, trip0.getID());
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, double0, 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0.0, trip0.getTime(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0.0, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+</pre>
+<h3>Test case 40</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>Period period0 = Period.of((-2144), (-2144), (-2144));
+<span class="nocode"><a name="3">  3: </a></span>IsoChronology isoChronology0 = period0.getChronology();
+<span class="nocode"><a name="4">  4: </a></span>LocalDate localDate0 = MockIsoChronology.dateNow(isoChronology0);
+<span class="nocode"><a name="5">  5: </a></span>Trip trip0 = new Trip((-2144), point2D_Double0, point2D_Double0, (Double) 0.0, (Double) point2D_Double0.x, localDate0, &quot;H&quot;, &quot;Viagem de (&quot;, &quot;&quot;, (-2144), 0.0, point2D_Double0, 0.0, (-3251.0395), 0.0);
+<span class="nocode"><a name="6">  6: </a></span>int int0 = trip0.getID();
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals((-3251.0395), trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="11"> 11: </a></span>assertEquals((-2144), int0);
+<span class="nocode"><a name="12"> 12: </a></span>assertEquals((-2144), trip0.getRating());
+</pre>
+<h3>Test case 41</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(168, point2D_Double0, point2D_Double0, (Double) 0.0, (Double) point2D_Double0.x, localDate0, &quot;m:&quot;, &quot;,&quot;, &quot;,&quot;, 0, 1.0, point2D_Double0, (-1.0), 0.0, 2446.7933638066);
+<span class="nocode"><a name="4">  4: </a></span>int int0 = trip0.getID();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals((-1.0), trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(168, int0);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0, trip0.getRating());
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0.0, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(1.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(2446.7933638066, trip0.getEstimatedPrice(), 0.01);
+</pre>
+<h3>Test case 42</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>Period period0 = Period.of((-2144), (-2144), (-2144));
+<span class="nocode"><a name="3">  3: </a></span>IsoChronology isoChronology0 = period0.getChronology();
+<span class="nocode"><a name="4">  4: </a></span>LocalDate localDate0 = MockIsoChronology.dateNow(isoChronology0);
+<span class="nocode"><a name="5">  5: </a></span>Trip trip0 = new Trip((-2144), point2D_Double0, point2D_Double0, (Double) 0.0, (Double) point2D_Double0.x, localDate0, &quot;H&quot;, &quot;Viagem de (&quot;, &quot;&quot;, (-2144), 0.0, point2D_Double0, 0.0, (-3251.0395), 0.0);
+<span class="nocode"><a name="6">  6: </a></span>trip0.getLicencePlate();
+<span class="nocode"><a name="7">  7: </a></span>assertEquals((-2144), trip0.getID());
+<span class="nocode"><a name="8">  8: </a></span>assertEquals((-2144), trip0.getRating());
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals((-3251.0395), trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="11"> 11: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="12"> 12: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+</pre>
+<h3>Test case 43</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Trip trip0 = new Trip();
+<span class="nocode"><a name="2">  2: </a></span>trip0.getLicencePlate();
+<span class="nocode"><a name="3">  3: </a></span>assertEquals(0.0, trip0.getPrice(), 0.01);
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(0, trip0.getRating());
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0.0, trip0.getTime(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0, trip0.getID());
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+</pre>
+<h3>Test case 44</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double((-86), 1745.5360787081);
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay((-86), 1);
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip((-86), point2D_Double0, point2D_Double0, (Double) point2D_Double0.y, (Double) point2D_Double0.y, localDate0, &quot;&quot;, &quot;&quot;, &quot;&quot;, 0, 3600.0, point2D_Double0, 1134.3, 1134.3, 0.0);
+<span class="nocode"><a name="4">  4: </a></span>Double double0 = trip0.getPrice();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(1134.3, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(3600.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0, trip0.getRating());
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(1134.3, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(1745.5360787081, (double)double0, 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="11"> 11: </a></span>assertEquals((-86), trip0.getID());
+</pre>
+<h3>Test case 45</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Trip trip0 = new Trip();
+<span class="nocode"><a name="2">  2: </a></span>Double double0 = trip0.getPrice();
+<span class="nocode"><a name="3">  3: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(0.0, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(0.0, trip0.getTime(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, (double)double0, 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0, trip0.getRating());
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0, trip0.getID());
+</pre>
+<h3>Test case 46</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay(0, 312);
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip((-1), point2D_Double0, point2D_Double0, (Double) point2D_Double0.y, (Double) (-2509.951504), localDate0, &quot;L,E?O\&quot;oZ{&quot;, &quot;#)?M$qsYbaEk|hT&quot;, &quot;L,E?O\&quot;oZ{&quot;, 312, 0.0, point2D_Double0, 0.0, (-867.69), 1.0);
+<span class="nocode"><a name="4">  4: </a></span>int int0 = trip0.getRating();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals((-1), trip0.getID());
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(312, int0);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals((-867.69), trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(1.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+</pre>
+<h3>Test case 47</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.now();
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip(168, point2D_Double0, point2D_Double0, (Double) 0.0, (Double) point2D_Double0.y, localDate0, &quot;m:&quot;, &quot;,&quot;, &quot;,&quot;, 0, 1.0, point2D_Double0, (-1.0), 0.0, 2446.7933638066);
+<span class="nocode"><a name="4">  4: </a></span>int int0 = trip0.getRating();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(0, int0);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals((-1.0), trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(168, trip0.getID());
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(1.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(2446.7933638066, trip0.getEstimatedPrice(), 0.01);
+</pre>
+<h3>Test case 48</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>LocalDate localDate0 = MockLocalDate.ofEpochDay((-1414L));
+<span class="nocode"><a name="3">  3: </a></span>Trip trip0 = new Trip((-2804), point2D_Double0, point2D_Double0, (Double) 802.36625, (Double) 0.0, localDate0, &quot;m?]k`n0u5&quot;, &quot;m?]k`n0u5&quot;, &quot;m?]k`n0u5&quot;, (-2804), (-1414L), point2D_Double0, 802.36625, (-2590.82), 0.0);
+<span class="nocode"><a name="4">  4: </a></span>double double0 = trip0.getRealTimeToClient();
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals((-2804), trip0.getRating());
+<span class="nocode"><a name="7">  7: </a></span>assertEquals((-2804), trip0.getID());
+<span class="nocode"><a name="8">  8: </a></span>assertEquals((-2590.82), double0, 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals((-1414.0), trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(802.36625, trip0.getEstimatedTimeToClient(), 0.01);
+</pre>
+<h3>Test case 49</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Trip trip0 = new Trip();
+<span class="nocode"><a name="2">  2: </a></span>double double0 = trip0.getRealTimeToClient();
+<span class="nocode"><a name="3">  3: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="4">  4: </a></span>assertEquals(0.0, trip0.getTime(), 0.01);
+<span class="nocode"><a name="5">  5: </a></span>assertEquals(0.0, trip0.getPrice(), 0.01);
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0.0, double0, 0.01);
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0, trip0.getRating());
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0, trip0.getID());
+</pre>
+<h3>Test case 50</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double((-86), 1745.5360787081);
+<span class="nocode"><a name="2">  2: </a></span>Double double0 = new Double(0.0);
+<span class="nocode"><a name="3">  3: </a></span>LocalDate localDate0 = MockLocalDate.ofYearDay((-86), 1);
+<span class="nocode"><a name="4">  4: </a></span>Trip trip0 = new Trip((-86), point2D_Double0, point2D_Double0, double0, (Double) point2D_Double0.x, localDate0, &quot;&quot;, &quot;&quot;, &quot;&quot;, 0, 3600.0, point2D_Double0, 1134.3, 1134.3, 0.0);
+<span class="nocode"><a name="5">  5: </a></span>Double double1 = trip0.getTime();
+<span class="nocode"><a name="6">  6: </a></span>assertEquals(0, trip0.getRating());
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(1134.3, trip0.getRealTimeToClient(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(1134.3, trip0.getEstimatedTimeToClient(), 0.01);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals((-86), trip0.getID());
+<span class="nocode"><a name="11"> 11: </a></span>assertEquals(3600.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="12"> 12: </a></span>assertEquals(0.0, (double)double1, 0.01);
+</pre>
+<h3>Test case 51</h3>
+<pre class="prettyprint" style="border: 1px solid #888;padding: 2px">
+<span class="nocode"><a name="1">  1: </a></span>Point2D.Double point2D_Double0 = new Point2D.Double();
+<span class="nocode"><a name="2">  2: </a></span>Period period0 = Period.of((-2144), (-2144), (-2144));
+<span class="nocode"><a name="3">  3: </a></span>IsoChronology isoChronology0 = period0.getChronology();
+<span class="nocode"><a name="4">  4: </a></span>LocalDate localDate0 = MockIsoChronology.dateNow(isoChronology0);
+<span class="nocode"><a name="5">  5: </a></span>Trip trip0 = new Trip((-2144), point2D_Double0, point2D_Double0, (Double) 0.0, (Double) point2D_Double0.y, localDate0, &quot;H&quot;, &quot;Viagem de (&quot;, &quot;&quot;, (-2144), 0.0, point2D_Double0, 0.0, (-3251.0395), 0.0);
+<span class="nocode"><a name="6">  6: </a></span>String string0 = trip0.toString();
+<span class="nocode"><a name="7">  7: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToDest(), 0.01);
+<span class="nocode"><a name="8">  8: </a></span>assertEquals(0.0, trip0.getEstimatedPrice(), 0.01);
+<span class="nocode"><a name="9">  9: </a></span>assertEquals(&quot;Viagem de (0.0,0.0) ---&gt; (0.0,0.0)\nData : 2014-02-14\nDist\u00E2ncia : 0km\nDura\u00E7\u00E3o prevista : 0h:0m:0s\nDura\u00E7\u00E3o real : 0h:0m:0s\nPre\u00E7o : 0\u20AC\nEmail condutor : Viagem de (\nEmail cliente : \nMatr\u00EDcula ve\u00EDculo : H\nClassifica\u00E7\u00E3o : -2144**\nPosi\u00E7\u00E3o inicial do taxi : [0.0,0.0]\nTempo previsto at\u00E9 ao cliente : 0h:0m:0s\nTempo real at\u00E9 ao cliente : -3251h:-2m:-22s\nPre\u00E7o estimado : 0\u20AC\nTrip id : -2144&quot;, string0);
+<span class="nocode"><a name="10"> 10: </a></span>assertEquals(0.0, trip0.getEstimatedTimeToClient(), 0.01);
+</pre>
+</div><div id="post">
+<h2 class=title id=source>Source Code</h2>
+<div class=source>
+<p><pre class="prettyprint" style="border: 1px solid #888;padding: 2px"><span class="nocode"><a name="1">  1: </a></span>package teste;
+<span class="nocode"><a name="2">  2: </a></span>import java.awt.geom.Point2D;
+<span class="nocode"><a name="3">  3: </a></span>import java.io.Serializable;
+<span class="nocode"><a name="4">  4: </a></span>import java.time.*;
+<span class="nocode"><a name="5">  5: </a></span>import java.util.Date;
+<span class="nocode"><a name="6">  6: </a></span>import java.util.concurrent.TimeUnit;
+<span class="nocode"><a name="7">  7: </a></span>
+<span class="nocode"><a name="8">  8: </a></span>/**
+<span class="nocode"><a name="9">  9: </a></span> * Trip.
+<span class="nocode"><a name="10"> 10: </a></span> */
+<span class="nocode"><a name="11"> 11: </a></span>public class Trip implements Serializable {
+<span class="nocode"><a name="12"> 12: </a></span>
+<span class="nocode"><a name="13"> 13: </a></span>    /** Vari&aacute;veis de Inst&acirc;ncia */
+<span class="nocode"><a name="14"> 14: </a></span>
+<span class="nocode"><a name="15"> 15: </a></span>    private int id; ///&lt; ID da Viagem
+<span class="nocode"><a name="16"> 16: </a></span>    private Point2D.Double start; ///&lt; Ponto de inicio
+<span class="nocode"><a name="17"> 17: </a></span>    private Point2D.Double end; ///&lt; Ponto de destino
+<span class="nocode"><a name="18"> 18: </a></span>    private double time; ///&lt; Dura&ccedil;&atilde;o da viagem
+<span class="nocode"><a name="19"> 19: </a></span>    private double price; ///&lt; Pre&ccedil;o da viagem
+<span class="nocode"><a name="20"> 20: </a></span>    private LocalDate date; ///&lt; Data
+<span class="nocode"><a name="21"> 21: </a></span>    private String licencePlate; ///&lt; Matricula do veiculo que efetuou a viagem
+<span class="nocode"><a name="22"> 22: </a></span>    private String driver, client; ///&lt; Condutor e Client
+<span class="nocode"><a name="23"> 23: </a></span>    private int rating; ///&lt; Classifica&ccedil;&atilde;o dada ao condutor pelo cliente
+<span class="nocode"><a name="24"> 24: </a></span>    private double estimatedTimeToDest; ///&lt; Dura&ccedil;&atilde;o estimada da viagem
+<span class="nocode"><a name="25"> 25: </a></span>    private Point2D.Double taxiPos; ///&lt; Posi&ccedil;ao do veiculo
+<span class="nocode"><a name="26"> 26: </a></span>    private double estimatedTimeToClient; ///&lt; Tempo esimado a chegar ao cliente
+<span class="nocode"><a name="27"> 27: </a></span>    private double realTimeToClient; ///&lt; Tempo real de chegada ao cliente
+<span class="nocode"><a name="28"> 28: </a></span>    private double estimatedPrice; ///&lt; Pre&ccedil;o estimado da viagem
+<span class="nocode"><a name="29"> 29: </a></span>
+<span class="nocode"><a name="30"> 30: </a></span>
+<span class="nocode"><a name="31"> 31: </a></span>    /** Constructores */
+<span class="nocode"><a name="32"> 32: </a></span>    /**
+<span class="nocode"><a name="33"> 33: </a></span>     * Constroi uma viagem sem parametros
+<span class="nocode"><a name="34"> 34: </a></span>     */
+<span class="nocode"><a name="35"> 35: </a></span>    public Trip () {
+<span class="nocode"><a name="36"> 36: </a></span>        this.id = 0;
+<span class="nocode"><a name="37"> 37: </a></span>        this.start = new Point2D.Double(0, 0);
+<span class="nocode"><a name="38"> 38: </a></span>        this.end = new Point2D.Double(0, 0);
+<span class="nocode"><a name="39"> 39: </a></span>        this.time = 0.0;
+<span class="nocode"><a name="40"> 40: </a></span>        this.price = 0.0;
+<span class="nocode"><a name="41"> 41: </a></span>        this.licencePlate = null;
+<span class="nocode"><a name="42"> 42: </a></span>        this.date =  LocalDate.MIN;
+<span class="nocode"><a name="43"> 43: </a></span>        this.driver = null;
+<span class="nocode"><a name="44"> 44: </a></span>        this.client = null;
+<span class="nocode"><a name="45"> 45: </a></span>        this.rating = 0;
+<span class="nocode"><a name="46"> 46: </a></span>        this.estimatedTimeToClient = 0;
+<span class="nocode"><a name="47"> 47: </a></span>        this.estimatedTimeToDest = 0;
+<span class="nocode"><a name="48"> 48: </a></span>        this.realTimeToClient = 0;
+<span class="nocode"><a name="49"> 49: </a></span>        this.estimatedPrice = 0;
+<span class="nocode"><a name="50"> 50: </a></span>    }
+<span class="nocode"><a name="51"> 51: </a></span>
+<span class="nocode"><a name="52"> 52: </a></span>    /**
+<span class="nocode"><a name="53"> 53: </a></span>     * Constroi uma viagem a partir de v&aacute;rios parametros
+<span class="nocode"><a name="54"> 54: </a></span>     * @param id                    ID da viagem
+<span class="nocode"><a name="55"> 55: </a></span>     * @param start                 Posi&ccedil;&atilde;o do in&iacute;cio da viagem
+<span class="nocode"><a name="56"> 56: </a></span>     * @param end                   Posi&ccedil;&atilde;o do fim da viagem
+<span class="nocode"><a name="57"> 57: </a></span>     * @param time                  Tempo da viagem
+<span class="nocode"><a name="58"> 58: </a></span>     * @param price                 Pre&ccedil;o da viagem
+<span class="nocode"><a name="59"> 59: </a></span>     * @param licencePlate          Matr&iacute;cula do carro
+<span class="nocode"><a name="60"> 60: </a></span>     * @param driver                Condutor
+<span class="nocode"><a name="61"> 61: </a></span>     * @param client                Cliente
+<span class="nocode"><a name="62"> 62: </a></span>     * @param rating                Classifica&ccedil;&atilde;o dada ao condutor pelo cliente
+<span class="nocode"><a name="63"> 63: </a></span>     * @param estimatedTimeToDest   Tempo estimado at&eacute; ao destino
+<span class="nocode"><a name="64"> 64: </a></span>     * @param taxiPos               Posi&ccedil;&atilde;o incial do taxi
+<span class="nocode"><a name="65"> 65: </a></span>     * @param estimatedTimeToClient Tempo estimado at&eacute; ao cliente
+<span class="nocode"><a name="66"> 66: </a></span>     * @param realTimeToClient      Tempo real at&eacute; ao cliente
+<span class="nocode"><a name="67"> 67: </a></span>     * @param estimatedPrice        Pre&ccedil;o da estimado da viagem
+<span class="nocode"><a name="68"> 68: </a></span>     */
+<span class="nocode"><a name="69"> 69: </a></span>    public Trip (int id, Point2D.Double start, Point2D.Double end, Double time, Double price, LocalDate date, String licencePlate, String driver, String client, int rating, double estimatedTimeToDest, Point2D.Double taxiPos, double estimatedTimeToClient, double realTimeToClient, double estimatedPrice) {
+<span class="nocode"><a name="70"> 70: </a></span>        this.id = id;
+<span class="nocode"><a name="71"> 71: </a></span>        this.start = new Point2D.Double(start.getX(), start.getY());
+<span class="nocode"><a name="72"> 72: </a></span>        this.end = new Point2D.Double(end.getX(), end.getY());
+<span class="nocode"><a name="73"> 73: </a></span>        this.time = time;
+<span class="nocode"><a name="74"> 74: </a></span>        this.price = price;
+<span class="nocode"><a name="75"> 75: </a></span>        this.licencePlate = licencePlate;
+<span class="nocode"><a name="76"> 76: </a></span>        this.date = LocalDate.of(date.getYear(), date.getMonth(), date.getDayOfMonth());
+<span class="nocode"><a name="77"> 77: </a></span>        this.driver = driver;
+<span class="nocode"><a name="78"> 78: </a></span>        this.client = client;
+<span class="nocode"><a name="79"> 79: </a></span>        this.rating = rating;
+<span class="nocode"><a name="80"> 80: </a></span>        this.estimatedTimeToDest = estimatedTimeToDest;
+<span class="nocode"><a name="81"> 81: </a></span>        this.taxiPos = new Point2D.Double(taxiPos.getX(), taxiPos.getY());
+<span class="nocode"><a name="82"> 82: </a></span>        this.estimatedTimeToClient = estimatedTimeToClient;
+<span class="nocode"><a name="83"> 83: </a></span>        this.realTimeToClient = realTimeToClient;
+<span class="nocode"><a name="84"> 84: </a></span>        this.estimatedPrice = estimatedPrice;
+<span class="nocode"><a name="85"> 85: </a></span>    }
+<span class="nocode"><a name="86"> 86: </a></span>
+<span class="nocode"><a name="87"> 87: </a></span>    /**
+<span class="nocode"><a name="88"> 88: </a></span>     * Constro&iacute; uma viagem a partir de uma j&aacute; definida
+<span class="nocode"><a name="89"> 89: </a></span>     * @param t Viagem
+<span class="nocode"><a name="90"> 90: </a></span>     */
+<span class="nocode"><a name="91"> 91: </a></span>    public Trip (Trip t) {
+<span class="nocode"><a name="92"> 92: </a></span>        this(t.getID(), t.getStart(), t.getEnd(), t.getTime(),
+<span class="nocode"><a name="93"> 93: </a></span>                t.getPrice(), t.getDate(), t.getLicencePlate(),
+<span class="nocode"><a name="94"> 94: </a></span>                t.getDriver(), t.getClient(), t.getRating(),
+<span class="nocode"><a name="95"> 95: </a></span>                t.getEstimatedTimeToDest(), t.getTaxiPos(),
+<span class="nocode"><a name="96"> 96: </a></span>                t.getEstimatedTimeToClient(), t.getRealTimeToClient(),
+<span class="nocode"><a name="97"> 97: </a></span>                t.getEstimatedPrice());
+<span class="nocode"><a name="98"> 98: </a></span>    }
+<span class="nocode"><a name="99"> 99: </a></span>
+<span class="nocode"><a name="100">100: </a></span>    /** Metodos de Inst&acirc;ncia */
+<span class="nocode"><a name="101">101: </a></span>
+<span class="nocode"><a name="102">102: </a></span>    /**
+<span class="nocode"><a name="103">103: </a></span>     * Retorna o ID da viagem
+<span class="nocode"><a name="104">104: </a></span>     * @return ID
+<span class="nocode"><a name="105">105: </a></span>     */
+<span class="nocode"><a name="106">106: </a></span>    public int getID(){
+<span class="nocode"><a name="107">107: </a></span>        return this.id;
+<span class="nocode"><a name="108">108: </a></span>    }
+<span class="nocode"><a name="109">109: </a></span>
+<span class="nocode"><a name="110">110: </a></span>    /**
+<span class="nocode"><a name="111">111: </a></span>     * Retorna o in&iacute;cio da viagem
+<span class="nocode"><a name="112">112: </a></span>     * @return In&iacute;cio
+<span class="nocode"><a name="113">113: </a></span>     */
+<span class="nocode"><a name="114">114: </a></span>    public Point2D.Double getStart() {
+<span class="nocode"><a name="115">115: </a></span>        return new Point2D.Double(this.start.getX(), this.start.getY());
+<span class="nocode"><a name="116">116: </a></span>    }
+<span class="nocode"><a name="117">117: </a></span>
+<span class="nocode"><a name="118">118: </a></span>    /**
+<span class="nocode"><a name="119">119: </a></span>     * Retorna o fim de uma viagem
+<span class="nocode"><a name="120">120: </a></span>     * @return Fim
+<span class="nocode"><a name="121">121: </a></span>     */
+<span class="nocode"><a name="122">122: </a></span>    public Point2D.Double getEnd() {
+<span class="nocode"><a name="123">123: </a></span>        return new Point2D.Double(this.end.getX(), this.end.getY());
+<span class="nocode"><a name="124">124: </a></span>    }
+<span class="nocode"><a name="125">125: </a></span>
+<span class="nocode"><a name="126">126: </a></span>    /**
+<span class="nocode"><a name="127">127: </a></span>     * Retorna a dura&ccedil;&atilde;o de uma viagem
+<span class="nocode"><a name="128">128: </a></span>     * @return Tempo
+<span class="nocode"><a name="129">129: </a></span>     */
+<span class="nocode"><a name="130">130: </a></span>    public Double getTime() {
+<span class="nocode"><a name="131">131: </a></span>        return this.time;
+<span class="nocode"><a name="132">132: </a></span>    }
+<span class="nocode"><a name="133">133: </a></span>
+<span class="nocode"><a name="134">134: </a></span>    /**
+<span class="nocode"><a name="135">135: </a></span>     * Retorna o pre&ccedil;o de uma viagem
+<span class="nocode"><a name="136">136: </a></span>     * @return Pre&ccedil;o
+<span class="nocode"><a name="137">137: </a></span>     */
+<span class="nocode"><a name="138">138: </a></span>    public Double getPrice() {
+<span class="nocode"><a name="139">139: </a></span>        return this.price;
+<span class="nocode"><a name="140">140: </a></span>    }
+<span class="nocode"><a name="141">141: </a></span>
+<span class="nocode"><a name="142">142: </a></span>    /**
+<span class="nocode"><a name="143">143: </a></span>     * Retorna a data da viagem
+<span class="nocode"><a name="144">144: </a></span>     * @return Data da viagem
+<span class="nocode"><a name="145">145: </a></span>     */
+<span class="nocode"><a name="146">146: </a></span>    public LocalDate getDate(){
+<span class="nocode"><a name="147">147: </a></span>        return LocalDate.of(this.date.getYear(), this.date.getMonth(), this.date.getDayOfMonth());
+<span class="nocode"><a name="148">148: </a></span>    }
+<span class="nocode"><a name="149">149: </a></span>
+<span class="nocode"><a name="150">150: </a></span>    /**
+<span class="nocode"><a name="151">151: </a></span>     * Retorna a matricula do carro onde a viagem foi realizada
+<span class="nocode"><a name="152">152: </a></span>     * @return Matr&iacute;cula
+<span class="nocode"><a name="153">153: </a></span>     */
+<span class="nocode"><a name="154">154: </a></span>    public String getLicencePlate() {
+<span class="nocode"><a name="155">155: </a></span>        return this.licencePlate;
+<span class="nocode"><a name="156">156: </a></span>    }
+<span class="nocode"><a name="157">157: </a></span>
+<span class="nocode"><a name="158">158: </a></span>    /**
+<span class="nocode"><a name="159">159: </a></span>     * Retorna o condutor da viagem
+<span class="nocode"><a name="160">160: </a></span>     * @return Condutor
+<span class="nocode"><a name="161">161: </a></span>     */
+<span class="nocode"><a name="162">162: </a></span>    public String getDriver() {
+<span class="nocode"><a name="163">163: </a></span>        return this.driver;
+<span class="nocode"><a name="164">164: </a></span>    }
+<span class="nocode"><a name="165">165: </a></span>
+<span class="nocode"><a name="166">166: </a></span>    /**
+<span class="nocode"><a name="167">167: </a></span>     * Retorna o cliente da viagem
+<span class="nocode"><a name="168">168: </a></span>     * @return Cliente
+<span class="nocode"><a name="169">169: </a></span>     */
+<span class="nocode"><a name="170">170: </a></span>    public String getClient(){
+<span class="nocode"><a name="171">171: </a></span>        return this.client;
+<span class="nocode"><a name="172">172: </a></span>    }
+<span class="nocode"><a name="173">173: </a></span>
+<span class="nocode"><a name="174">174: </a></span>    /**
+<span class="nocode"><a name="175">175: </a></span>     * Retorna a classifica&ccedil;&atilde;o dada ao condutor pelo cliente
+<span class="nocode"><a name="176">176: </a></span>     * @return Classifica&ccedil;&atilde;o
+<span class="nocode"><a name="177">177: </a></span>     */
+<span class="nocode"><a name="178">178: </a></span>    public int getRating(){
+<span class="nocode"><a name="179">179: </a></span>        return this.rating;
+<span class="nocode"><a name="180">180: </a></span>    }
+<span class="nocode"><a name="181">181: </a></span>
+<span class="nocode"><a name="182">182: </a></span>    /**
+<span class="nocode"><a name="183">183: </a></span>     * Retorna o tempo incialmente previsto
+<span class="nocode"><a name="184">184: </a></span>     * @return Tempo previsto
+<span class="nocode"><a name="185">185: </a></span>     */
+<span class="nocode"><a name="186">186: </a></span>    public double getEstimatedTimeToDest(){
+<span class="nocode"><a name="187">187: </a></span>        return this.estimatedTimeToDest;
+<span class="nocode"><a name="188">188: </a></span>    }
+<span class="nocode"><a name="189">189: </a></span>
+<span class="nocode"><a name="190">190: </a></span>    /**
+<span class="nocode"><a name="191">191: </a></span>     * Retorna a posi&ccedil;&atilde;o inicial do taxi
+<span class="nocode"><a name="192">192: </a></span>     * @return Posi&ccedil;&atilde;o inicial do taxi
+<span class="nocode"><a name="193">193: </a></span>     */
+<span class="nocode"><a name="194">194: </a></span>    public Point2D.Double getTaxiPos(){
+<span class="nocode"><a name="195">195: </a></span>        return new Point2D.Double(this.taxiPos.getX(), this.taxiPos.getY());
+<span class="nocode"><a name="196">196: </a></span>    }
+<span class="nocode"><a name="197">197: </a></span>
+<span class="nocode"><a name="198">198: </a></span>    /**
+<span class="nocode"><a name="199">199: </a></span>     * Retorna o tempo estimado do taxi ao cliente
+<span class="nocode"><a name="200">200: </a></span>     * @return Tempo estimado at&eacute; ao cliente
+<span class="nocode"><a name="201">201: </a></span>     */
+<span class="nocode"><a name="202">202: </a></span>    public double getEstimatedTimeToClient(){
+<span class="nocode"><a name="203">203: </a></span>        return this.estimatedTimeToClient;
+<span class="nocode"><a name="204">204: </a></span>    }
+<span class="nocode"><a name="205">205: </a></span>
+<span class="nocode"><a name="206">206: </a></span>    /**
+<span class="nocode"><a name="207">207: </a></span>     * Retorna o tempo que o taxi demorou a chegar ao cliente
+<span class="nocode"><a name="208">208: </a></span>     * @return Tempo at&eacute; ao cliente
+<span class="nocode"><a name="209">209: </a></span>     */
+<span class="nocode"><a name="210">210: </a></span>    public double getRealTimeToClient(){
+<span class="nocode"><a name="211">211: </a></span>        return this.realTimeToClient;
+<span class="nocode"><a name="212">212: </a></span>    }
+<span class="nocode"><a name="213">213: </a></span>
+<span class="nocode"><a name="214">214: </a></span>    /**
+<span class="nocode"><a name="215">215: </a></span>     * Retorna o tempo estimado da viagem
+<span class="nocode"><a name="216">216: </a></span>     * @return
+<span class="nocode"><a name="217">217: </a></span>     */
+<span class="nocode"><a name="218">218: </a></span>    public double getEstimatedPrice(){
+<span class="nocode"><a name="219">219: </a></span>        return this.estimatedPrice;
+<span class="nocode"><a name="220">220: </a></span>    }
+<span class="nocode"><a name="221">221: </a></span>
+<span class="nocode"><a name="222">222: </a></span>    /**
+<span class="nocode"><a name="223">223: </a></span>     * Altera a classifica&ccedil;&atilde;o de uma viagem
+<span class="nocode"><a name="224">224: </a></span>     * @param rating
+<span class="nocode"><a name="225">225: </a></span>     */
+<span class="nocode"><a name="226">226: </a></span>    public void setRating(int rating){
+<span class="nocode"><a name="227">227: </a></span>        this.rating = rating;
+<span class="nocode"><a name="228">228: </a></span>    }
+<span class="nocode"><a name="229">229: </a></span>
+<span class="nocode"><a name="230">230: </a></span>    /**
+<span class="nocode"><a name="231">231: </a></span>     * Faz uma c&oacute;pia da viagem
+<span class="nocode"><a name="232">232: </a></span>     * @return C&oacute;pia da viagem
+<span class="nocode"><a name="233">233: </a></span>     */
+<span class="nocode"><a name="234">234: </a></span>    public Trip clone () {
+<span class="nocode"><a name="235">235: </a></span>        return new Trip (this);
+<span class="nocode"><a name="236">236: </a></span>    }
+<span class="nocode"><a name="237">237: </a></span>
+<span class="nocode"><a name="238">238: </a></span>    /**
+<span class="nocode"><a name="239">239: </a></span>     * Imprime uma classifica&ccedil;&atilde;o
+<span class="nocode"><a name="240">240: </a></span>     * @return String com a classifica&ccedil;&atilde;o
+<span class="nocode"><a name="241">241: </a></span>     */
+<span class="nocode"><a name="242">242: </a></span>    private String printRating(){
+<span class="nocode"><a name="243">243: </a></span>        if (this.rating == -1)
+<span class="nocode"><a name="244">244: </a></span>            return &quot;N&atilde;o classificado&quot;;
+<span class="nocode"><a name="245">245: </a></span>        else return Integer.toString(this.rating) + &quot;**&quot;;
+<span class="nocode"><a name="246">246: </a></span>    }
+<span class="nocode"><a name="247">247: </a></span>
+<span class="nocode"><a name="248">248: </a></span>    /**
+<span class="nocode"><a name="249">249: </a></span>     * Imprime o tempo em h:m:s
+<span class="nocode"><a name="250">250: </a></span>     * @param time  Tempo
+<span class="nocode"><a name="251">251: </a></span>     * @return  String com o tempo em h:m:s
+<span class="nocode"><a name="252">252: </a></span>     */
+<span class="nocode"><a name="253">253: </a></span>    private String printTime(double time){
+<span class="nocode"><a name="254">254: </a></span>        return (int) time + &quot;h:&quot; + Math.round(time * 60)%60 + &quot;m:&quot; + Math.round(time * 3600)%60 + &quot;s&quot;;
+<span class="nocode"><a name="255">255: </a></span>    }
+<span class="nocode"><a name="256">256: </a></span>
+<span class="nocode"><a name="257">257: </a></span>    /**
+<span class="nocode"><a name="258">258: </a></span>     * Imprime o dinehiro em &euro;
+<span class="nocode"><a name="259">259: </a></span>     * @param money Dinheiro
+<span class="nocode"><a name="260">260: </a></span>     * @return String com o dinheiro em &euro;
+<span class="nocode"><a name="261">261: </a></span>     */
+<span class="nocode"><a name="262">262: </a></span>    private String printMoney(double money){
+<span class="nocode"><a name="263">263: </a></span>        return (int) money + &quot;&euro;&quot;;
+<span class="nocode"><a name="264">264: </a></span>    }
+<span class="nocode"><a name="265">265: </a></span>
+<span class="nocode"><a name="266">266: </a></span>    /**
+<span class="nocode"><a name="267">267: </a></span>     * Imprime a dist&acirc;ncia em km
+<span class="nocode"><a name="268">268: </a></span>     * @param distance Dist&acirc;ncia
+<span class="nocode"><a name="269">269: </a></span>     * @return String com a dist&acirc;ncia em km
+<span class="nocode"><a name="270">270: </a></span>     */
+<span class="nocode"><a name="271">271: </a></span>    private String printDistance(double distance){
+<span class="nocode"><a name="272">272: </a></span>        return (int) distance + &quot;km&quot;;
+<span class="nocode"><a name="273">273: </a></span>    }
+<span class="nocode"><a name="274">274: </a></span>
+<span class="nocode"><a name="275">275: </a></span>    /**
+<span class="nocode"><a name="276">276: </a></span>     * Imprime a informa&ccedil;&atilde;o sobre uma viagem
+<span class="nocode"><a name="277">277: </a></span>     * @return String com a informa&ccedil;&atilde;o
+<span class="nocode"><a name="278">278: </a></span>     */
+<span class="nocode"><a name="279">279: </a></span>    public String toString(){
+<span class="nocode"><a name="280">280: </a></span>        return &quot;Viagem de &quot; + &quot;(&quot;+ this.start.getX() + &quot;,&quot; + this.start.getY() + &quot;) ---&gt; (&quot; + this.end.getX() + &quot;,&quot; + this.end.getY() + &quot;)&quot; +
+<span class="nocode"><a name="281">281: </a></span>                &quot;\nData : &quot; + this.date +
+<span class="nocode"><a name="282">282: </a></span>                &quot;\nDist&acirc;ncia : &quot; + printDistance(this.distance()) +
+<span class="nocode"><a name="283">283: </a></span>                &quot;\nDura&ccedil;&atilde;o prevista : &quot; + printTime(this.estimatedTimeToDest) +
+<span class="nocode"><a name="284">284: </a></span>                &quot;\nDura&ccedil;&atilde;o real : &quot; + printTime(this.time) +
+<span class="nocode"><a name="285">285: </a></span>                &quot;\nPre&ccedil;o : &quot; + printMoney(this.price) +
+<span class="nocode"><a name="286">286: </a></span>                &quot;\nEmail condutor : &quot; + this.driver +
+<span class="nocode"><a name="287">287: </a></span>                &quot;\nEmail cliente : &quot; + this.client +
+<span class="nocode"><a name="288">288: </a></span>                &quot;\nMatr&iacute;cula ve&iacute;culo : &quot; + this.licencePlate +
+<span class="nocode"><a name="289">289: </a></span>                &quot;\nClassifica&ccedil;&atilde;o : &quot; + printRating() +
+<span class="nocode"><a name="290">290: </a></span>                &quot;\nPosi&ccedil;&atilde;o inicial do taxi : [&quot; + this.taxiPos.getX() + &quot;,&quot; + this.taxiPos.getY() + &quot;]&quot; +
+<span class="nocode"><a name="291">291: </a></span>                &quot;\nTempo previsto at&eacute; ao cliente : &quot; + printTime(this.estimatedTimeToClient) +
+<span class="nocode"><a name="292">292: </a></span>                &quot;\nTempo real at&eacute; ao cliente : &quot; + printTime(this.realTimeToClient) +
+<span class="nocode"><a name="293">293: </a></span>                &quot;\nPre&ccedil;o estimado : &quot; + printMoney(this.estimatedPrice) +
+<span class="nocode"><a name="294">294: </a></span>                &quot;\nTrip id : &quot; + this.id;
+<span class="nocode"><a name="295">295: </a></span>    }
+<span class="nocode"><a name="296">296: </a></span>
+<span class="nocode"><a name="297">297: </a></span>    /**
+<span class="nocode"><a name="298">298: </a></span>     * Calcula a dist&acirc;ncia de uma viagem
+<span class="nocode"><a name="299">299: </a></span>     * @return Dist&acirc;ncia
+<span class="nocode"><a name="300">300: </a></span>     */
+<span class="nocode"><a name="301">301: </a></span>    public double distance(){
+<span class="nocode"><a name="302">302: </a></span>        return start.distance(end);
+<span class="nocode"><a name="303">303: </a></span>    }
+<span class="nocode"><a name="304">304: </a></span>}
+</pre>
+</p>
+</div>
+<div id="post">
+<h2 id=parameters>EvoSuite Parameters</h2>
+<div class=statistics><ul>
+<li>TARGET_CLASS: Trip
+<li>criterion: LINE;BRANCH;EXCEPTION;WEAKMUTATION;OUTPUT;METHOD;METHODNOEXCEPTION;CBRANCH
+<li>Coverage: 0.9834905660377359
+<li>Total_Goals: 380
+<li>Covered_Goals: 355
+</ul></div>
+</div>
+<p><br><a href="../report-generation.html">Back to Overview</a></p>
+</div>
+</body>
+</html>
