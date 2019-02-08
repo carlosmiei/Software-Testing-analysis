@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecc25244-b7f3-4a06-a10f-2ff06f3d0366" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/log2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/log2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/src/antlr4/ATS.g4" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/src/antlr4/ATS.g4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/src/java/ATS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/src/java/ATS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/src/java/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/src/java/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/src/java/UMeR.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/src/java/UMeR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSLexer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSLexer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$ActionContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$ActionContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$ActionsContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$ActionsContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$EndContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$LoginContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$LoginContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$LogoutContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$LogoutContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$PosicaoContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$PosicaoContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$RecusarContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$RecusarContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$RegistarClienteContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$RegistarClienteContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$RegistarCondutorContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$RegistarCondutorContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$RegistarEmpresaContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$RegistarEmpresaContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$RegistarVeiculoContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$RegistarVeiculoContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$RegistarVeiculoEmpresaContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$RegistarVeiculoEmpresaContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$RegistoContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$RegistoContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$SolicitarContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$SolicitarContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$ViajarContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser$ViajarContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/ATSParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/GUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/GUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/UMeR.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/classes/UMeR.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/generated-sources/ATS.interp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/generated-sources/ATS.interp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/generated-sources/ATS.tokens" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/generated-sources/ATS.tokens" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/generated-sources/ATSLexer.interp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/generated-sources/ATSLexer.interp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/generated-sources/ATSLexer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/generated-sources/ATSLexer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/generated-sources/ATSLexer.tokens" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/generated-sources/ATSLexer.tokens" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/generated-sources/ATSParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/target/generated-sources/ATSParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/umerData-tests" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../projeto-f1/2versao/ats-master/ats1819-projecto/umerData-tests" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/umerTest$All_in_umerTest__5_.ic" NAME="All in umerTest (5) Coverage Results" MODIFIED="1542140103561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/umerTest$BikeTest.ic" NAME="BikeTest Coverage Results" MODIFIED="1542193156506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ats.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/umerTest$user.ic" NAME="user Coverage Results" MODIFIED="1541546123576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/umerTest$VanTest_and_15_more.ic" NAME="VanTest and 15 more Coverage Results" MODIFIED="1542289377453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/umerTest$bike.ic" NAME="bike Coverage Results" MODIFIED="1542062589291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/umerTest$teste_in_umerTest.ic" NAME="teste in umerTest Coverage Results" MODIFIED="1541543689193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>teste.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/umerTest$All_in_umerTest__2_.ic" NAME="All in umerTest (2) Coverage Results" MODIFIED="1542139561697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/umerTest$All_in_umerTest__4_.ic" NAME="All in umerTest (4) Coverage Results" MODIFIED="1542144474325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/umerTest$TripTest.ic" NAME="TripTest Coverage Results" MODIFIED="1542146159973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ats.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/umerTest$CompanyTest.ic" NAME="CompanyTest Coverage Results" MODIFIED="1542404720096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ats.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/umerTest$User_ESTest_test41.ic" NAME="User_ESTest.test41 Coverage Results" MODIFIED="1541546069469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>teste.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/umerTest$UMeR_ESTest.ic" NAME="UMeR_ESTest Coverage Results" MODIFIED="1542116413289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>teste.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/umerTest$UserTest.ic" NAME="UserTest Coverage Results" MODIFIED="1542233010713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ats.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/umerTest$All_in_umerTest.ic" NAME="All in umerTest Coverage Results" MODIFIED="1542404530894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/umerTest$All_in_umerTest__1_.ic" NAME="All in umerTest (1) Coverage Results" MODIFIED="1542135949352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/umerTest$UMeRTest.ic" NAME="UMeRTest Coverage Results" MODIFIED="1542276447911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ats.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/umerTest$van.exec" NAME="van Coverage Results" MODIFIED="1541543160441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/umerTest$All_in_umerTest__3_.ic" NAME="All in umerTest (3) Coverage Results" MODIFIED="1542125294413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myAutoScrollToSource" value="true" />
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="282411407">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="245" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="245" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="4" />
+          <entry key="java" value="6859" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6859" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ats/UMeR.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="276" column="32" selection-start-line="276" selection-start-column="16" selection-end-line="276" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#12367#12368#0" expanded="true" />
+                <element signature="e#12409#12410#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ats/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="230" selection-start-line="230" selection-end-line="230" />
+              <folding>
+                <element signature="e#5284#5285#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ats/MoneyComparatorC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ats/Driver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1044">
+              <caret line="249" selection-start-line="249" selection-end-line="249" />
+              <folding>
+                <element signature="e#7714#7715#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ats/Company.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="140" selection-start-line="140" selection-end-line="140" />
+              <folding>
+                <element signature="e#3949#3950#0" expanded="true" />
+                <element signature="e#4055#4056#0" expanded="true" />
+                <element signature="e#4095#4096#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/ats/ClientTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ats/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/ats/VehicleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="665" selection-start-line="665" selection-end-line="665" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ats/Trip.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
+              <folding>
+                <element signature="e#6957#6958#0" expanded="true" />
+                <element signature="e#6995#6996#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ats/Auxiliar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
+              <folding>
+                <element signature="e#963#964#0" expanded="true" />
+                <element signature="e#992#993#0" expanded="true" />
+                <element signature="e#1025#1026#0" expanded="true" />
+                <element signature="e#1054#1055#0" expanded="true" />
+                <element signature="e#1088#1089#0" expanded="true" />
+                <element signature="e#1118#1119#0" expanded="true" />
+                <element signature="e#1152#1153#0" expanded="true" />
+                <element signature="e#1182#1183#0" expanded="true" />
+                <element signature="e#1216#1217#0" expanded="true" />
+                <element signature="e#1246#1247#0" expanded="true" />
+                <element signature="e#1273#1274#0" expanded="true" />
+                <element signature="e#1304#1305#0" expanded="true" />
+                <element signature="e#1332#1333#0" expanded="true" />
+                <element signature="e#1364#1365#0" expanded="true" />
+                <element signature="e#1399#1400#0" expanded="true" />
+                <element signature="e#1431#1432#0" expanded="true" />
+                <element signature="e#1467#1468#0" expanded="true" />
+                <element signature="e#1500#1501#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>newtrip</find>
+      <find>newTrip</find>
+      <find>addVehicle</find>
+      <find>company</find>
+      <find>getQ</find>
+      <find>addC</find>
+      <find>changeDriverAv</find>
+      <find>newTripS</find>
+      <find>ordDri</find>
+      <find>load</find>
+      <find>newTripClo</find>
+      <find>doTripQueue</find>
+      <find>changeDriverAvailability</find>
+      <find>estimatedTime</find>
+      <find>distance</find>
+      <find>nossos</find>
+      <find>verify</find>
+      <find>closestAvailableTaxi</find>
+      <find>addRating</find>
+      <find>addTr</find>
+      <find>calculateTraffic</find>
+      <find>register</find>
+      <find>getTrips</find>
+      <find>Trip</find>
+      <find>companyV</find>
+      <find>registerUser</find>
+      <find>money</find>
+      <find>change</find>
+      <find>changeDriverVe</find>
+      <find>changeDriverAvai</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ats/Van.java" />
+        <option value="$PROJECT_DIR$/src/ats/Vehicle.java" />
+        <option value="$PROJECT_DIR$/test/ats/Bike_ESTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/Bike_ESTest_scaffolding.java" />
+        <option value="$PROJECT_DIR$/test/ats/Car_ESTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/Car_ESTest_scaffolding.java" />
+        <option value="$PROJECT_DIR$/test/ats/Client_ESTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/Client_ESTest_scaffolding.java" />
+        <option value="$PROJECT_DIR$/test/ats/Company_ESTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/Company_ESTest_scaffolding.java" />
+        <option value="$PROJECT_DIR$/test/ats/CustomProbabilisticDistribution_ESTest_scaffolding.java" />
+        <option value="$PROJECT_DIR$/test/ats/DeviationComparator_ESTest_scaffolding.java" />
+        <option value="$PROJECT_DIR$/test/ats/Driver_ESTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/Driver_ESTest_scaffolding.java" />
+        <option value="$PROJECT_DIR$/test/ats/Helicopter_ESTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/Helicopter_ESTest_scaffolding.java" />
+        <option value="$PROJECT_DIR$/test/ats/MoneyComparatorC_ESTest_scaffolding.java" />
+        <option value="$PROJECT_DIR$/test/ats/MoneyComparatorD_ESTest_scaffolding.java" />
+        <option value="$PROJECT_DIR$/test/ats/RatingComparator_ESTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/RatingComparator_ESTest_scaffolding.java" />
+        <option value="$PROJECT_DIR$/test/ats/Trip_ESTest_scaffolding.java" />
+        <option value="$PROJECT_DIR$/test/ats/UMeR_ESTest_scaffolding.java" />
+        <option value="$PROJECT_DIR$/test/ats/User_ESTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/User_ESTest_scaffolding.java" />
+        <option value="$PROJECT_DIR$/test/ats/Van_ESTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/Van_ESTest_scaffolding.java" />
+        <option value="$PROJECT_DIR$/test/ats/Vehicle_ESTest_scaffolding.java" />
+        <option value="$PROJECT_DIR$/src/ats/Company.java" />
+        <option value="$PROJECT_DIR$/test/ats/HelicopterTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/ClientTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/CustomProbabilisticDistribution_ESTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/DriverTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/MoneyComparatorC_ESTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/MoneyComparatorCTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/MoneyComparatorD_ESTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/RatingComparatorTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/Trip_ESTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/UMeR_ESTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/VanTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/Vehicle_ESTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/DeviationComparator_ESTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/DeviationComparatorTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/CarTest.java" />
+        <option value="$PROJECT_DIR$/src/ats/Auxiliar.java" />
+        <option value="$PROJECT_DIR$/test/ats/BikeTest.java" />
+        <option value="$PROJECT_DIR$/test/ats/UserTest.java" />
+        <option value="$PROJECT_DIR$/src/ats/User.java" />
+        <option value="$PROJECT_DIR$/src/ats/Car.java" />
+        <option value="$PROJECT_DIR$/test/ats/UMeRTest.java" />
+        <option value="$PROJECT_DIR$/src/ats/UMeR.java" />
+        <option value="$PROJECT_DIR$/test/ats/CompanyTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-2" />
+    <option name="width" value="1920" />
+    <option name="height" value="1082" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="umerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="umerTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="umerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="umerTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="umerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="umerTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ats" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="umerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="umerTest" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="umerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="umerTest" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="ats" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="umerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542447925950" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dependency/junit-platform-commons-1.3.1.jar!/" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.findbugs.project" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ats" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CompanyTest.test52">
+    <configuration name="All in umerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="umerTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="umerTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ats" />
+      <option name="MAIN_CLASS_NAME" value="ats.CompanyTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyTest.test52" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="umerTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ats" />
+      <option name="MAIN_CLASS_NAME" value="ats.CompanyTest" />
+      <option name="METHOD_NAME" value="test52" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UMeRTest.test98" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="umerTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ats" />
+      <option name="MAIN_CLASS_NAME" value="ats.UMeRTest" />
+      <option name="METHOD_NAME" value="test98" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VanTest and 15 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="umerTest" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="ats.VanTest" />
+        <pattern testClass="ats.UserTest" />
+        <pattern testClass="ats.UMeRTest" />
+        <pattern testClass="ats.VehicleTest" />
+        <pattern testClass="ats.RatingComparatorTest" />
+        <pattern testClass="ats.MoneyComparatorCTest" />
+        <pattern testClass="ats.MoneyComparatorDTest" />
+        <pattern testClass="ats.TripTest" />
+        <pattern testClass="ats.DriverTest" />
+        <pattern testClass="ats.HelicopterTest" />
+        <pattern testClass="ats.DeviationComparatorTest" />
+        <pattern testClass="ats.CustomProbabilisticDistributionTest" />
+        <pattern testClass="ats.CompanyTest" />
+        <pattern testClass="ats.ClientTest" />
+        <pattern testClass="ats.CarTest" />
+        <pattern testClass="ats.BikeTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bike" type="JUnit" factoryName="JUnit">
+      <module name="umerTest" />
+      <option name="PACKAGE_NAME" value="teste" />
+      <option name="MAIN_CLASS_NAME" value="teste.Bike_ESTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="car" type="JUnit" factoryName="JUnit">
+      <module name="umerTest" />
+      <extension name="coverage" runner="jacoco" />
+      <option name="PACKAGE_NAME" value="teste" />
+      <option name="MAIN_CLASS_NAME" value="teste.Car_ESTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="company" type="JUnit" factoryName="JUnit">
+      <module name="umerTest" />
+      <extension name="coverage" runner="jacoco" />
+      <option name="PACKAGE_NAME" value="teste" />
+      <option name="MAIN_CLASS_NAME" value="teste.Company_ESTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="user" type="JUnit" factoryName="JUnit">
+      <module name="umerTest" />
+      <option name="PACKAGE_NAME" value="teste" />
+      <option name="MAIN_CLASS_NAME" value="teste.User_ESTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="van" type="JUnit" factoryName="JUnit">
+      <module name="umerTest" />
+      <extension name="coverage" runner="jacoco" />
+      <option name="PACKAGE_NAME" value="teste" />
+      <option name="MAIN_CLASS_NAME" value="teste.Van_ESTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed (1)" type="PIT" factoryName="PIT Runner" REPORT_DIR="$PROJECT_DIR$/report" SOURCE_DIRS="$PROJECT_DIR$/src" TARGET_CLASSES="teste.*" otherParams="--outputFormats XML,HTML">
+      <module name="umerTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="PIT" factoryName="PIT Runner" REPORT_DIR="$PROJECT_DIR$/report" SOURCE_DIRS="$PROJECT_DIR$/src" TARGET_CLASSES="/src/teste.*" otherParams="--outputFormats XML,HTML">
+      <module name="umerTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="novoPit" type="PIT" factoryName="PIT Runner" REPORT_DIR="$PROJECT_DIR$/report" SOURCE_DIRS="$PROJECT_DIR$/src" TARGET_CLASSES="ats.*" otherParams="--outputFormats XML,HTML">
+      <module name="umerTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.car" />
+      <item itemvalue="JUnit.company" />
+      <item itemvalue="JUnit.van" />
+      <item itemvalue="JUnit.bike" />
+      <item itemvalue="JUnit.user" />
+      <item itemvalue="PIT Runner.Unnamed" />
+      <item itemvalue="PIT Runner.Unnamed (1)" />
+      <item itemvalue="PIT Runner.novoPit" />
+      <item itemvalue="JUnit.All in umerTest" />
+      <item itemvalue="JUnit.VanTest and 15 more" />
+      <item itemvalue="JUnit.UMeRTest.test98" />
+      <item itemvalue="JUnit.CompanyTest.test52" />
+      <item itemvalue="JUnit.CompanyTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CompanyTest.test52" />
+        <item itemvalue="JUnit.CompanyTest" />
+        <item itemvalue="JUnit.All in umerTest" />
+        <item itemvalue="JUnit.UMeRTest.test98" />
+        <item itemvalue="JUnit.VanTest and 15 more" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecc25244-b7f3-4a06-a10f-2ff06f3d0366" name="Default Changelist" comment="" />
+      <created>1541540447830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541540447830</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CompanyTest_test52 - 2018.11.16 at 21h 42m 02s.xml">
+      <configuration name="CompanyTest.test52" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_umerTest - 2018.11.16 at 21h 42m 19s.xml">
+      <configuration name="All in umerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompanyTest_test52 - 2018.11.16 at 21h 43m 09s.xml">
+      <configuration name="CompanyTest.test52" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompanyTest_test52 - 2018.11.16 at 21h 43m 28s.xml">
+      <configuration name="CompanyTest.test52" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompanyTest_test52 - 2018.11.16 at 21h 44m 30s.xml">
+      <configuration name="CompanyTest.test52" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompanyTest_test52 - 2018.11.16 at 21h 44m 43s.xml">
+      <configuration name="CompanyTest.test52" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompanyTest_test52 - 2018.11.16 at 21h 45m 01s.xml">
+      <configuration name="CompanyTest.test52" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompanyTest - 2018.11.16 at 21h 45m 22s.xml">
+      <configuration name="CompanyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompanyTest_test52 - 2018.11.16 at 21h 46m 53s.xml">
+      <configuration name="CompanyTest.test52" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompanyTest_test52 - 2018.11.16 at 21h 47m 31s.xml">
+      <configuration name="CompanyTest.test52" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3119266" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49973017" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5601727" weight="0.0" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4824609" weight="0.3386076" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="EvoSuite" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.4398273" side_tool="true" weight="0.56540084" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49973017" weight="0.32911393" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" visible="true" weight="0.09704641" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" sideWeight="0.4978903" visible="true" weight="0.13383701" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5021097" side_tool="true" visible="true" weight="5.396654E-4" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/ats/HelicopterTest.java</url>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/ats/Client_ESTest.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/Client_ESTest_scaffolding.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/Company_ESTest_scaffolding.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/CustomProbabilisticDistribution_ESTest_scaffolding.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/DeviationComparator_ESTest_scaffolding.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/Driver_ESTest.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/Helicopter_ESTest.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/Helicopter_ESTest_scaffolding.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/MoneyComparatorC_ESTest_scaffolding.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/MoneyComparatorD_ESTest_scaffolding.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/RatingComparator_ESTest_scaffolding.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/Trip_ESTest_scaffolding.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/UMeR_ESTest_scaffolding.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/User_ESTest_scaffolding.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/Van_ESTest_scaffolding.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/Vehicle_ESTest_scaffolding.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/Bike_ESTest.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/Company_ESTest.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/Car_ESTest_scaffolding.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/Driver_ESTest_scaffolding.java" />
+    <entry file="file://$PROJECT_DIR$/test/ats/CustomProbabilisticDistributionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ats/DriverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ats/HelicopterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ats/MoneyComparatorDTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ats/VanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ats/TripTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="78" column="30" selection-start-line="78" selection-start-column="30" selection-end-line="78" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ats/DeviationComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ats/DeviationComparatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ats/MoneyComparatorD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ats/MoneyComparatorCTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ats/UserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="505" column="38" selection-start-line="505" selection-start-column="38" selection-end-line="505" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ats/GUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/ats/Bike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ats/Van.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#1448#1449#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ats/RatingComparatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ats/BikeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2055">
+          <caret line="146" selection-start-line="146" selection-end-line="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ats/CarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="200" selection-start-line="200" selection-end-line="200" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ats/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1266">
+          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ats/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="409" column="36" selection-start-line="409" selection-start-column="14" selection-end-line="409" selection-end-column="36" />
+          <folding>
+            <element signature="e#7745#7746#0" expanded="true" />
+            <element signature="e#7813#7814#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ats/UMeRTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="1301" column="44" lean-forward="true" selection-start-line="1301" selection-end-line="1302" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ats/CompanyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="630" column="41" selection-start-line="630" selection-start-column="41" selection-end-line="630" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ats/ClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ats/VehicleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="665" selection-start-line="665" selection-end-line="665" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ats/Auxiliar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="e#963#964#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+            <element signature="e#1054#1055#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
+            <element signature="e#1118#1119#0" expanded="true" />
+            <element signature="e#1152#1153#0" expanded="true" />
+            <element signature="e#1182#1183#0" expanded="true" />
+            <element signature="e#1216#1217#0" expanded="true" />
+            <element signature="e#1246#1247#0" expanded="true" />
+            <element signature="e#1273#1274#0" expanded="true" />
+            <element signature="e#1304#1305#0" expanded="true" />
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1364#1365#0" expanded="true" />
+            <element signature="e#1399#1400#0" expanded="true" />
+            <element signature="e#1431#1432#0" expanded="true" />
+            <element signature="e#1467#1468#0" expanded="true" />
+            <element signature="e#1500#1501#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ats/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ats/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="230" selection-start-line="230" selection-end-line="230" />
+          <folding>
+            <element signature="e#5284#5285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ats/MoneyComparatorC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ats/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="249" selection-start-line="249" selection-end-line="249" />
+          <folding>
+            <element signature="e#7714#7715#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ats/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+          <folding>
+            <element signature="e#3949#3950#0" expanded="true" />
+            <element signature="e#4055#4056#0" expanded="true" />
+            <element signature="e#4095#4096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ats/Trip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
+          <folding>
+            <element signature="e#6957#6958#0" expanded="true" />
+            <element signature="e#6995#6996#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ats/UMeR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="276" column="32" selection-start-line="276" selection-start-column="16" selection-end-line="276" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#12367#12368#0" expanded="true" />
+            <element signature="e#12409#12410#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>umerTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>evosuite-shaded-1.0.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
