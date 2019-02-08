@@ -1,0 +1,70 @@
+grammar ATS;
+
+@header
+{
+  import java.awt.geom.Point2D;
+  import java.time.LocalDate;
+}
+
+@members
+{
+ // UMeR umer = null;
+  
+  private String unquote(String str) {
+    return str.substring(1,str.length()-1);
+  }
+}
+
+/**
+ *
+ * REGRAS
+ *
+ */
+
+/* início */
+actions: actions ';' action
+       | action
+       ;
+
+action: registar 
+      | login 
+      | logout
+      | recusar
+      ;
+
+registar: 'registar condutor' STRING STRING STRING DATA
+        ;
+
+login: 'login' STRING STRING
+     ;
+
+logout: 'logout'
+      ;
+
+
+recusar: 'recusar viagem'
+       ;
+
+
+log : EOF 
+    ;
+
+
+/*
+ *
+ * TOKENS
+ *
+ */
+
+/*uma string entre aspas */
+STRING : '"' (~[\\"] | '\\' [\\"])* '"' ;
+
+/** data no formato YYYY-MM-DD */
+DATA : DIGIT DIGIT DIGIT DIGIT '-' DIGIT? DIGIT '-' DIGIT? DIGIT ;
+
+/** dígito */
+DIGIT : [0-9] ;
+
+/** espaço em branco (que é ignorado) */
+WS : [ \t\r\n]+ -> skip ;
+

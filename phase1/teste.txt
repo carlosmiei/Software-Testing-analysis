@@ -1,0 +1,3010 @@
+java -cp './target/classes:./lib/antlr-runtime-4.7.1.jar:./target/classes/' ATS
+registou:trueutilizadores:1
+Matricula : 1 reliable: 82.0521499690034 condutor_ "g_figueiredo@sapo.pt"
+Numero de vehiculos : 1
+registou: true
+Sucesso no login!
+registou emp:trueutilizadores:2
+Matricula : 2 reliable: 68.1337250520622 condutor_ "Honorinabrito@mail.google.com"
+Numero de vehiculos : 2
+Sucesso no login!
+Sucesso no login!
+Sucesso no login!
+registou cliente:trueutilizadores:1
+registou:trueutilizadores:3
+Matricula : 3 reliable: 51.30682103036833 condutor_ "G.F@sapo.pt"
+Numero de vehiculos : 3
+registou emp:trueutilizadores:4
+Matricula : 4 reliable: 98.0591568487802 condutor_ "Alaideassuncao@gmail.com"
+Numero de vehiculos : 4
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou: true
+registou cliente:trueutilizadores:2
+registou:trueutilizadores:5
+Matricula : 5 reliable: 84.72254535298683 condutor_ "fidelior@mail.google.com"
+Numero de vehiculos : 5
+registou: true
+registou emp:trueutilizadores:6
+Matricula : 6 reliable: 24.319572731578255 condutor_ "J-c@outlook.com"
+Numero de vehiculos : 6
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:3
+registou cliente:trueutilizadores:4
+Sucesso no login!
+Cliente: "EvelioTorres@mail.google.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou: true
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou: true
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:5
+registou emp:trueutilizadores:7
+Matricula : 7 reliable: 60.31823266992274 condutor_ "A.C_scb@hotmail.com"
+Numero de vehiculos : 7
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:6
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:7
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 16tam depois15
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:8
+Matricula : 8 reliable: 98.12786144791717 condutor_ "Eurica_d_531@mail.google.com"
+Numero de vehiculos : 8
+registou emp:trueutilizadores:9
+Matricula : 9 reliable: 10.999152125767452 condutor_ "odilia_moura@gmail.com"
+Numero de vehiculos : 9
+registou emp:trueutilizadores:10
+Matricula : 10 reliable: 44.03744903815061 condutor_ "TFerreira@gmail.com"
+Numero de vehiculos : 10
+registou emp:trueutilizadores:11
+Matricula : 11 reliable: 10.194524849373032 condutor_ "i_abreu.150@hotmail.com"
+Numero de vehiculos : 11
+registou cliente:trueutilizadores:8
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:9
+Sucesso no login!
+registou cliente:trueutilizadores:10
+registou emp:trueutilizadores:12
+Matricula : 12 reliable: 17.717722456902496 condutor_ "jadir_carvalho@mail.google.com"
+Numero de vehiculos : 12
+registou:trueutilizadores:13
+Matricula : 13 reliable: 19.634849490683195 condutor_ "g-cardoso@hotmail.com"
+Numero de vehiculos : 13
+registou emp:trueutilizadores:14
+Matricula : 14 reliable: 5.533987008710206 condutor_ "Dalva.V@mail.google.com"
+Numero de vehiculos : 14
+registou cliente:trueutilizadores:11
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 23tam depois22
+Viagem removida com sucesso; numero de viagens 
+tam antes: 22tam depois21
+Viagem removida com sucesso; numero de viagens 
+tam antes: 21tam depois20
+registou cliente:trueutilizadores:12
+registou cliente:trueutilizadores:13
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+registou emp:trueutilizadores:15
+Matricula : 15 reliable: 22.781013980366527 condutor_ "galiana.Oliveira@mail.google.com"
+Numero de vehiculos : 15
+registou cliente:trueutilizadores:14
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:15
+registou cliente:trueutilizadores:16
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:17
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+registou cliente:trueutilizadores:18
+registou emp:trueutilizadores:16
+Matricula : 16 reliable: 8.31732332994365 condutor_ "Silas-Pacheco_623@gmail.com"
+Numero de vehiculos : 16
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:17
+Matricula : 17 reliable: 42.990737639281164 condutor_ "a.Morais@outlook.com"
+Numero de vehiculos : 17
+registou cliente:trueutilizadores:19
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:20
+registou emp:trueutilizadores:18
+Matricula : 18 reliable: 93.24006415919689 condutor_ "a.Carvalho@sapo.pt"
+Numero de vehiculos : 18
+registou cliente:trueutilizadores:21
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:19
+Matricula : 19 reliable: 31.106181498728457 condutor_ "Laurina.barbosa@mail.google.com"
+Numero de vehiculos : 19
+registou emp:trueutilizadores:20
+Matricula : 20 reliable: 77.76661835401055 condutor_ "feba.P@sapo.pt"
+Numero de vehiculos : 20
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 44tam depois43
+Cliente: "bC@gmail.com"DRIVER: "odilia_moura@gmail.com"matricula :"odilia_moura@gmail.com"
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:22
+registou emp:trueutilizadores:21
+Matricula : 21 reliable: 9.320464147570195 condutor_ "leomenia_Paiva.669@mail.google.com"
+Numero de vehiculos : 21
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:23
+Sucesso no login!
+registou cliente:trueutilizadores:24
+registou cliente:trueutilizadores:25
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:26
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:27
+registou:trueutilizadores:22
+Matricula : 22 reliable: 62.32739312673745 condutor_ "uldrico-Nogueira@sapo.pt"
+Numero de vehiculos : 22
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:23
+Matricula : 23 reliable: 4.856075653370839 condutor_ "saulo-m-192@gmail.com"
+Numero de vehiculos : 23
+Sucesso no login!
+registou cliente:trueutilizadores:28
+Sucesso no login!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Sucesso no login!
+registou cliente:trueutilizadores:29
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:30
+Sucesso no login!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:31
+registou cliente:trueutilizadores:32
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:24
+Matricula : 24 reliable: 83.82451359146972 condutor_ "l.f@outlook.com"
+Numero de vehiculos : 24
+Sucesso no login!
+Cliente: "EvelioTorres@mail.google.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:25
+Matricula : 25 reliable: 71.36620307424172 condutor_ "dhruvag@gmail.com"
+Numero de vehiculos : 25
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:33
+registou cliente:trueutilizadores:34
+registou emp:trueutilizadores:26
+Matricula : 26 reliable: 45.05163635547802 condutor_ "ramiroS-857@hotmail.com"
+Numero de vehiculos : 26
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:35
+registou cliente:trueutilizadores:36
+registou cliente:trueutilizadores:37
+Sucesso no login!
+Cliente: "EvelioTorres@mail.google.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 63tam depois62
+Cliente: "EvelioTorres@mail.google.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Cliente: "EvelioTorres@mail.google.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 60tam depois59
+Cliente: "EvelioTorres@mail.google.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+registou cliente:trueutilizadores:38
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 58tam depois57
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:39
+registou emp:trueutilizadores:27
+Matricula : 27 reliable: 19.358758650370255 condutor_ "L_l.231@hotmail.com"
+Numero de vehiculos : 27
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Cliente: "D-V@outlook.com"DRIVER: "TFerreira@gmail.com"matricula :"TFerreira@gmail.com"
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:40
+registou:trueutilizadores:28
+Matricula : 28 reliable: 12.726392398075937 condutor_ "aarao-A@mail.google.com"
+Numero de vehiculos : 28
+Sucesso no login!
+registou:trueutilizadores:29
+Matricula : 29 reliable: 72.45331548572082 condutor_ "alvarina_Moura.301@mail.google.com"
+Numero de vehiculos : 29
+Sucesso no login!
+registou cliente:trueutilizadores:41
+registou:trueutilizadores:30
+Matricula : 30 reliable: 92.74506994178002 condutor_ "S_Brito@sapo.pt"
+Numero de vehiculos : 30
+registou emp:trueutilizadores:31
+Matricula : 31 reliable: 70.16645556671742 condutor_ "a-A@mail.google.com"
+Numero de vehiculos : 31
+registou emp:trueutilizadores:32
+Matricula : 32 reliable: 24.600866492579033 condutor_ "d.S_slb@sapo.pt"
+Numero de vehiculos : 32
+registou cliente:trueutilizadores:42
+registou emp:trueutilizadores:33
+Matricula : 33 reliable: 77.4571452452683 condutor_ "A.Domingues@mail.google.com"
+Numero de vehiculos : 33
+Sucesso no login!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:43
+registou cliente:trueutilizadores:44
+registou cliente:trueutilizadores:45
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou:trueutilizadores:34
+Matricula : 34 reliable: 69.94305776821645 condutor_ "s_Cunha.804@gmail.com"
+Numero de vehiculos : 34
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:35
+Matricula : 35 reliable: 33.39700192511099 condutor_ "secundinonogueira.140@outlook.com"
+Numero de vehiculos : 35
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:36
+Matricula : 36 reliable: 78.42221293274517 condutor_ "Caia.m226@sapo.pt"
+Numero de vehiculos : 36
+registou cliente:trueutilizadores:46
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:47
+registou emp:trueutilizadores:37
+Matricula : 37 reliable: 72.29350912853795 condutor_ "josefina-Cruz@outlook.com"
+Numero de vehiculos : 37
+registou cliente:trueutilizadores:48
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:49
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Cliente: "Antonia_G@hotmail.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Cliente: "Antonia_G@hotmail.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Cliente: "ADomingues@mail.google.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Cliente: "ADomingues@mail.google.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Cliente: "Antonia_G@hotmail.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Cliente: "arabela.Paiva.785@gmail.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 61tam depois60
+Sucesso no login!
+Cliente: "angelica_m@hotmail.com"DRIVER: "feba.P@sapo.pt"matricula :"feba.P@sapo.pt"
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:38
+Matricula : 38 reliable: 1.5152816835870775 condutor_ "jaime_a746@outlook.com"
+Numero de vehiculos : 38
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:50
+registou emp:trueutilizadores:39
+Matricula : 39 reliable: 49.189889491956826 condutor_ "cristela-Gomes@hotmail.com"
+Numero de vehiculos : 39
+registou cliente:trueutilizadores:51
+registou emp:trueutilizadores:40
+Matricula : 40 reliable: 89.89339922619169 condutor_ "boris_Marques-680@mail.google.com"
+Numero de vehiculos : 40
+registou cliente:trueutilizadores:52
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:41
+Matricula : 41 reliable: 58.421090518825444 condutor_ "Acilioa@mail.google.com"
+Numero de vehiculos : 41
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Sucesso no login!
+Cliente: "bernadetec_565@hotmail.com"DRIVER: "a.Carvalho@sapo.pt"matricula :"a.Carvalho@sapo.pt"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 67tam depois66
+Viagem removida com sucesso; numero de viagens 
+tam antes: 66tam depois65
+Cliente: "bernadetec_565@hotmail.com"DRIVER: "a.Carvalho@sapo.pt"matricula :"a.Carvalho@sapo.pt"
+Cliente: "bernadetec_565@hotmail.com"DRIVER: "a.Carvalho@sapo.pt"matricula :"a.Carvalho@sapo.pt"
+Cliente: "bernadetec_565@hotmail.com"DRIVER: "a.Carvalho@sapo.pt"matricula :"a.Carvalho@sapo.pt"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 62tam depois61
+Viagem removida com sucesso; numero de viagens 
+tam antes: 61tam depois60
+registou cliente:trueutilizadores:53
+registou emp:trueutilizadores:42
+Matricula : 42 reliable: 85.54874336642514 condutor_ "alder.Pires@mail.google.com"
+Numero de vehiculos : 42
+registou:trueutilizadores:43
+Matricula : 43 reliable: 21.803475921139338 condutor_ "J_M.74@mail.google.com"
+Numero de vehiculos : 43
+Sucesso no login!
+registou cliente:trueutilizadores:54
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:44
+Matricula : 44 reliable: 99.35211717029658 condutor_ "hadassa_Araujo867@sapo.pt"
+Numero de vehiculos : 44
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:45
+Matricula : 45 reliable: 13.22952767826948 condutor_ "Sm333@outlook.com"
+Numero de vehiculos : 45
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:55
+Sucesso no login!
+Cliente: "bC@gmail.com"DRIVER: "odilia_moura@gmail.com"matricula :"odilia_moura@gmail.com"
+Cliente: "heladio-almeida_175@gmail.com"DRIVER: "odilia_moura@gmail.com"matricula :"odilia_moura@gmail.com"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 62tam depois61
+Viagem removida com sucesso; numero de viagens 
+tam antes: 61tam depois60
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:56
+registou emp:trueutilizadores:46
+Matricula : 46 reliable: 80.06649028187053 condutor_ "J.domingues@sapo.pt"
+Numero de vehiculos : 46
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:57
+registou emp:trueutilizadores:47
+Matricula : 47 reliable: 79.9985774564997 condutor_ "e_moura@outlook.com"
+Numero de vehiculos : 47
+registou cliente:trueutilizadores:58
+registou cliente:trueutilizadores:59
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Cliente: "I-g@gmail.com"DRIVER: "Silas-Pacheco_623@gmail.com"matricula :"Silas-Pacheco_623@gmail.com"
+registou cliente:trueutilizadores:60
+registou emp:trueutilizadores:48
+Matricula : 48 reliable: 18.16300634368927 condutor_ "C_Barros@outlook.com"
+Numero de vehiculos : 48
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Cliente: "arabela.Paiva.785@gmail.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Cliente: "arabela.Paiva.785@gmail.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 58tam depois57
+Cliente: "Antonia_G@hotmail.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Cliente: "Antonia_G@hotmail.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 55tam depois54
+Cliente: "H.f@mail.google.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Cliente: "H.f@mail.google.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:49
+Matricula : 49 reliable: 79.67324809278848 condutor_ "graciaf.839@hotmail.com"
+Numero de vehiculos : 49
+Sucesso no login!
+registou cliente:trueutilizadores:61
+registou emp:trueutilizadores:50
+Matricula : 50 reliable: 50.551181420848344 condutor_ "d-C@outlook.com"
+Numero de vehiculos : 50
+registou cliente:trueutilizadores:62
+registou cliente:trueutilizadores:63
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:64
+registou emp:trueutilizadores:51
+Matricula : 51 reliable: 39.40413089436831 condutor_ "M.Assuncao-902@outlook.com"
+Numero de vehiculos : 51
+registou cliente:trueutilizadores:65
+registou cliente:trueutilizadores:66
+registou cliente:trueutilizadores:67
+Sucesso no login!
+Cliente: "Antonia_G@hotmail.com"DRIVER: "Caia.m226@sapo.pt"matricula :"Caia.m226@sapo.pt"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 62tam depois61
+Viagem removida com sucesso; numero de viagens 
+tam antes: 61tam depois60
+Viagem removida com sucesso; numero de viagens 
+tam antes: 60tam depois59
+Viagem removida com sucesso; numero de viagens 
+tam antes: 59tam depois58
+Viagem removida com sucesso; numero de viagens 
+tam antes: 58tam depois57
+Viagem removida com sucesso; numero de viagens 
+tam antes: 57tam depois56
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:52
+Matricula : 52 reliable: 24.00335257280799 condutor_ "L-Macedoslb@sapo.pt"
+Numero de vehiculos : 52
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:53
+Matricula : 53 reliable: 47.74794070152898 condutor_ "iagpinho@hotmail.com"
+Numero de vehiculos : 53
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Cliente: "G-fonseca79@mail.google.com"DRIVER: "galiana.Oliveira@mail.google.com"matricula :"galiana.Oliveira@mail.google.com"
+Cliente: "G-fonseca79@mail.google.com"DRIVER: "galiana.Oliveira@mail.google.com"matricula :"galiana.Oliveira@mail.google.com"
+Cliente: "G-fonseca79@mail.google.com"DRIVER: "galiana.Oliveira@mail.google.com"matricula :"galiana.Oliveira@mail.google.com"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 60tam depois59
+Viagem removida com sucesso; numero de viagens 
+tam antes: 59tam depois58
+Viagem removida com sucesso; numero de viagens 
+tam antes: 58tam depois57
+Sucesso no login!
+registou cliente:trueutilizadores:68
+registou cliente:trueutilizadores:69
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+registou emp:trueutilizadores:54
+Matricula : 54 reliable: 53.924451749111824 condutor_ "JosefaSousa@hotmail.com"
+Numero de vehiculos : 54
+registou emp:trueutilizadores:55
+Matricula : 55 reliable: 38.24151959191641 condutor_ "Matilda-M@gmail.com"
+Numero de vehiculos : 55
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:70
+registou emp:trueutilizadores:56
+Matricula : 56 reliable: 98.6114267742987 condutor_ "e-n@outlook.com"
+Numero de vehiculos : 56
+registou emp:trueutilizadores:57
+Matricula : 57 reliable: 56.329677419178616 condutor_ "G-f@gmail.com"
+Numero de vehiculos : 57
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:71
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:72
+Sucesso no login!
+registou:trueutilizadores:58
+Matricula : 58 reliable: 51.93627487959949 condutor_ "ZelindaO_Almeida.587@sapo.pt"
+Numero de vehiculos : 58
+registou:trueutilizadores:59
+Matricula : 59 reliable: 22.639509684950344 condutor_ "Seomara-simoesfcp@mail.google.com"
+Numero de vehiculos : 59
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Cliente: "Srodrigues@mail.google.com"DRIVER: "josefina-Cruz@outlook.com"matricula :"josefina-Cruz@outlook.com"
+Cliente: "Srodrigues@mail.google.com"DRIVER: "josefina-Cruz@outlook.com"matricula :"josefina-Cruz@outlook.com"
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 71tam depois70
+Cliente: "junoaraujo@mail.google.com"DRIVER: "C_Barros@outlook.com"matricula :"C_Barros@outlook.com"
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:73
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:60
+Matricula : 60 reliable: 87.18234823377293 condutor_ "azuil-Marques@hotmail.com"
+Numero de vehiculos : 60
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou:trueutilizadores:61
+Matricula : 61 reliable: 6.967594021598078 condutor_ "silvanoN_983@sapo.pt"
+Numero de vehiculos : 61
+Sucesso no login!
+Cliente: "H.f@mail.google.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 72tam depois71
+Viagem removida com sucesso; numero de viagens 
+tam antes: 71tam depois70
+Cliente: "ADomingues@mail.google.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:74
+registou cliente:trueutilizadores:75
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:62
+Matricula : 62 reliable: 36.4238480732205 condutor_ "r-F.759@hotmail.com"
+Numero de vehiculos : 62
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:63
+Matricula : 63 reliable: 12.722593898836953 condutor_ "Sancia-Costa_216@sapo.pt"
+Numero de vehiculos : 63
+registou:trueutilizadores:64
+Matricula : 64 reliable: 22.869678066932675 condutor_ "clarinhamendes@mail.google.com"
+Numero de vehiculos : 64
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Cliente: "assuncao_Guerreiro-862@hotmail.com"DRIVER: "dhruvag@gmail.com"matricula :"dhruvag@gmail.com"
+Cliente: "assuncao_Guerreiro-862@hotmail.com"DRIVER: "dhruvag@gmail.com"matricula :"dhruvag@gmail.com"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 75tam depois74
+Viagem removida com sucesso; numero de viagens 
+tam antes: 74tam depois73
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:65
+Matricula : 65 reliable: 3.4479574789129552 condutor_ "Emaus-campos@outlook.com"
+Numero de vehiculos : 65
+registou emp:trueutilizadores:66
+Matricula : 66 reliable: 34.39772147727732 condutor_ "Expedito-campos568@outlook.com"
+Numero de vehiculos : 66
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:67
+Matricula : 67 reliable: 44.61790893428697 condutor_ "Seomara-Rodrigues@gmail.com"
+Numero de vehiculos : 67
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:76
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:77
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:78
+registou cliente:trueutilizadores:79
+registou emp:trueutilizadores:68
+Matricula : 68 reliable: 11.053484558353144 condutor_ "aM@gmail.com"
+Numero de vehiculos : 68
+registou cliente:trueutilizadores:80
+Sucesso no login!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:69
+Matricula : 69 reliable: 75.58916118966272 condutor_ "FloriaTeixeira.795@hotmail.com"
+Numero de vehiculos : 69
+registou emp:trueutilizadores:70
+Matricula : 70 reliable: 12.82388741701206 condutor_ "c-correia-slb@hotmail.com"
+Numero de vehiculos : 70
+registou cliente:trueutilizadores:81
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 88tam depois87
+Viagem removida com sucesso; numero de viagens 
+tam antes: 87tam depois86
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou:trueutilizadores:71
+Matricula : 71 reliable: 42.72288895169915 condutor_ "D-c@sapo.pt"
+Numero de vehiculos : 71
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:82
+Sucesso no login!
+Cliente: "ADomingues@mail.google.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 85tam depois84
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:83
+registou emp:trueutilizadores:72
+Matricula : 72 reliable: 52.09198767463893 condutor_ "U-costa-982@mail.google.com"
+Numero de vehiculos : 72
+registou cliente:trueutilizadores:84
+registou:trueutilizadores:73
+Matricula : 73 reliable: 18.177927771476032 condutor_ "d.m@mail.google.com"
+Numero de vehiculos : 73
+registou emp:trueutilizadores:74
+Matricula : 74 reliable: 29.145007941859635 condutor_ "Dejanira.Araujo_scp@mail.google.com"
+Numero de vehiculos : 74
+Sucesso no login!
+registou emp:trueutilizadores:75
+Matricula : 75 reliable: 72.5543182730895 condutor_ "V-Amorim-467@gmail.com"
+Numero de vehiculos : 75
+Sucesso no login!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:76
+Matricula : 76 reliable: 48.39373836733116 condutor_ "d_A@hotmail.com"
+Numero de vehiculos : 76
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+registou emp:trueutilizadores:77
+Matricula : 77 reliable: 6.37746605626247 condutor_ "Ermeria-Simoes@sapo.pt"
+Numero de vehiculos : 77
+registou emp:trueutilizadores:78
+Matricula : 78 reliable: 40.75269697863394 condutor_ "Luana.sousa465@sapo.pt"
+Numero de vehiculos : 78
+registou emp:trueutilizadores:79
+Matricula : 79 reliable: 79.03072153757603 condutor_ "s_m_892@hotmail.com"
+Numero de vehiculos : 79
+registou cliente:trueutilizadores:85
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:86
+Sucesso no login!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:87
+registou emp:trueutilizadores:80
+Matricula : 80 reliable: 38.51310036798941 condutor_ "BG@hotmail.com"
+Numero de vehiculos : 80
+registou emp:trueutilizadores:81
+Matricula : 81 reliable: 86.24317991649485 condutor_ "C_Alves@gmail.com"
+Numero de vehiculos : 81
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:82
+Matricula : 82 reliable: 50.14213770666361 condutor_ "SR@sapo.pt"
+Numero de vehiculos : 82
+registou cliente:trueutilizadores:88
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+registou:trueutilizadores:83
+Matricula : 83 reliable: 34.03891193995352 condutor_ "s.Costa@sapo.pt"
+Numero de vehiculos : 83
+registou:trueutilizadores:84
+Matricula : 84 reliable: 60.33049629183953 condutor_ "a.Branco408@gmail.com"
+Numero de vehiculos : 84
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+registou cliente:trueutilizadores:89
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou:trueutilizadores:85
+Matricula : 85 reliable: 14.991681435615389 condutor_ "e.lourenco@gmail.com"
+Numero de vehiculos : 85
+registou emp:trueutilizadores:86
+Matricula : 86 reliable: 98.22706124176072 condutor_ "liana.ribeiro@hotmail.com"
+Numero de vehiculos : 86
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:87
+Matricula : 87 reliable: 95.30466440393366 condutor_ "HG@sapo.pt"
+Numero de vehiculos : 87
+registou:trueutilizadores:88
+Matricula : 88 reliable: 9.934796368049136 condutor_ "EH870@hotmail.com"
+Numero de vehiculos : 88
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:90
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:89
+Matricula : 89 reliable: 9.473408546905294 condutor_ "d_mota@mail.google.com"
+Numero de vehiculos : 89
+registou emp:trueutilizadores:90
+Matricula : 90 reliable: 41.561063202468276 condutor_ "Jair-Cfcp@outlook.com"
+Numero de vehiculos : 90
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 114tam depois113
+Viagem removida com sucesso; numero de viagens 
+tam antes: 113tam depois112
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:91
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:91
+Matricula : 91 reliable: 3.909632332034263 condutor_ "Verissimo-neto932@sapo.pt"
+Numero de vehiculos : 91
+registou:trueutilizadores:92
+Matricula : 92 reliable: 34.79225998715608 condutor_ "j_b@mail.google.com"
+Numero de vehiculos : 92
+registou cliente:trueutilizadores:92
+Sucesso no login!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 116tam depois115
+registou emp:trueutilizadores:93
+Matricula : 93 reliable: 47.99824216552663 condutor_ "Aniria-v977@hotmail.com"
+Numero de vehiculos : 93
+Sucesso no login!
+registou cliente:trueutilizadores:93
+registou emp:trueutilizadores:94
+Matricula : 94 reliable: 85.46650970285084 condutor_ "edmeroMorais@outlook.com"
+Numero de vehiculos : 94
+registou emp:trueutilizadores:95
+Matricula : 95 reliable: 76.18509550105355 condutor_ "AlanaLourenco-scp@outlook.com"
+Numero de vehiculos : 95
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:96
+Matricula : 96 reliable: 47.70851304953131 condutor_ "Hn@gmail.com"
+Numero de vehiculos : 96
+registou emp:trueutilizadores:97
+Matricula : 97 reliable: 39.196855747990654 condutor_ "a-T@mail.google.com"
+Numero de vehiculos : 97
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:94
+registou cliente:trueutilizadores:95
+registou cliente:trueutilizadores:96
+Sucesso no login!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:97
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:98
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:99
+registou cliente:trueutilizadores:100
+Sucesso no login!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou:trueutilizadores:98
+Matricula : 98 reliable: 72.12922528783285 condutor_ "d_reis@gmail.com"
+Numero de vehiculos : 98
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:101
+Sucesso no login!
+Sucesso no login!
+registou cliente:trueutilizadores:102
+registou cliente:trueutilizadores:103
+registou:trueutilizadores:99
+Matricula : 99 reliable: 93.95520922997083 condutor_ "hugo-nogueira.fcp@mail.google.com"
+Numero de vehiculos : 99
+registou emp:trueutilizadores:100
+Matricula : 100 reliable: 42.907568675439265 condutor_ "leo_anjos@sapo.pt"
+Numero de vehiculos : 100
+registou cliente:trueutilizadores:104
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:105
+registou emp:trueutilizadores:101
+Matricula : 101 reliable: 97.78704380787651 condutor_ "b.Correia_615@hotmail.com"
+Numero de vehiculos : 101
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou:trueutilizadores:102
+Matricula : 102 reliable: 52.68534216543943 condutor_ "a.T@gmail.com"
+Numero de vehiculos : 102
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:103
+Matricula : 103 reliable: 50.813676007119504 condutor_ "s.L.313@sapo.pt"
+Numero de vehiculos : 103
+registou:trueutilizadores:104
+Matricula : 104 reliable: 32.441478302763095 condutor_ "q_F@sapo.pt"
+Numero de vehiculos : 104
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:106
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+registou cliente:trueutilizadores:107
+registou cliente:trueutilizadores:108
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:105
+Matricula : 105 reliable: 36.64914595647188 condutor_ "gabriel_M@sapo.pt"
+Numero de vehiculos : 105
+registou cliente:trueutilizadores:109
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 145tam depois144
+Cliente: "bernadetec_565@hotmail.com"DRIVER: "a.Carvalho@sapo.pt"matricula :"a.Carvalho@sapo.pt"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 143tam depois142
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Cliente: "Srodrigues@mail.google.com"DRIVER: "josefina-Cruz@outlook.com"matricula :"josefina-Cruz@outlook.com"
+Cliente: "Srodrigues@mail.google.com"DRIVER: "josefina-Cruz@outlook.com"matricula :"josefina-Cruz@outlook.com"
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:106
+Matricula : 106 reliable: 34.27949013448266 condutor_ "Ulpiano.henriques.390@gmail.com"
+Numero de vehiculos : 106
+registou cliente:trueutilizadores:110
+Sucesso no login!
+registou emp:trueutilizadores:107
+Matricula : 107 reliable: 73.30875287612552 condutor_ "i_t@sapo.pt"
+Numero de vehiculos : 107
+Sucesso no login!
+Cliente: "ADomingues@mail.google.com"DRIVER: "g_figueiredo@sapo.pt"matricula :"g_figueiredo@sapo.pt"
+registou cliente:trueutilizadores:111
+registou emp:trueutilizadores:108
+Matricula : 108 reliable: 93.76825982516219 condutor_ "Ercilio_Mendes_764@mail.google.com"
+Numero de vehiculos : 108
+registou:trueutilizadores:109
+Matricula : 109 reliable: 34.450258811374255 condutor_ "rosalinda-C@mail.google.com"
+Numero de vehiculos : 109
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:112
+registou cliente:trueutilizadores:113
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:110
+Matricula : 110 reliable: 77.6957435426567 condutor_ "angelico.araujo@gmail.com"
+Numero de vehiculos : 110
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Sucesso no login!
+Cliente: "I-g@gmail.com"DRIVER: "Silas-Pacheco_623@gmail.com"matricula :"Silas-Pacheco_623@gmail.com"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 142tam depois141
+Viagem removida com sucesso; numero de viagens 
+tam antes: 141tam depois140
+Cliente: "I-g@gmail.com"DRIVER: "Silas-Pacheco_623@gmail.com"matricula :"Silas-Pacheco_623@gmail.com"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 139tam depois138
+registou cliente:trueutilizadores:114
+registou cliente:trueutilizadores:115
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 149tam depois148
+Viagem removida com sucesso; numero de viagens 
+tam antes: 148tam depois147
+Viagem removida com sucesso; numero de viagens 
+tam antes: 147tam depois146
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:116
+Sucesso no login!
+registou emp:trueutilizadores:111
+Matricula : 111 reliable: 22.39804303314964 condutor_ "A_Leal_793@outlook.com"
+Numero de vehiculos : 111
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:117
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Cliente: "Alegria.C@mail.google.com"DRIVER: "Seomara-Rodrigues@gmail.com"matricula :"Seomara-Rodrigues@gmail.com"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 149tam depois148
+Viagem removida com sucesso; numero de viagens 
+tam antes: 148tam depois147
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:112
+Matricula : 112 reliable: 20.04815544994436 condutor_ "bernardino_moura@sapo.pt"
+Numero de vehiculos : 112
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:113
+Matricula : 113 reliable: 20.61817422729514 condutor_ "Azizalmeida@outlook.com"
+Numero de vehiculos : 113
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:118
+registou:trueutilizadores:114
+Matricula : 114 reliable: 69.4223116807799 condutor_ "Enunes-fcp@gmail.com"
+Numero de vehiculos : 114
+Sucesso no login!
+registou cliente:trueutilizadores:119
+registou cliente:trueutilizadores:120
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou:trueutilizadores:115
+Matricula : 115 reliable: 85.35386882756717 condutor_ "Gildasio_B@gmail.com"
+Numero de vehiculos : 115
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+registou emp:trueutilizadores:116
+Matricula : 116 reliable: 48.08216389708323 condutor_ "lg@mail.google.com"
+Numero de vehiculos : 116
+registou cliente:trueutilizadores:121
+Sucesso no login!
+Sucesso no login!
+registou emp:trueutilizadores:117
+Matricula : 117 reliable: 71.53685183981088 condutor_ "j_m891@hotmail.com"
+Numero de vehiculos : 117
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:118
+Matricula : 118 reliable: 99.89641944141863 condutor_ "c-T.807@hotmail.com"
+Numero de vehiculos : 118
+registou cliente:trueutilizadores:122
+registou cliente:trueutilizadores:123
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:124
+registou emp:trueutilizadores:119
+Matricula : 119 reliable: 91.14933910778834 condutor_ "esmeraldacscp@mail.google.com"
+Numero de vehiculos : 119
+registou emp:trueutilizadores:120
+Matricula : 120 reliable: 23.321773980671235 condutor_ "arquiminioa_slb@outlook.com"
+Numero de vehiculos : 120
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:125
+registou emp:trueutilizadores:121
+Matricula : 121 reliable: 16.163732553257915 condutor_ "p_Faria@gmail.com"
+Numero de vehiculos : 121
+Sucesso no login!
+registou cliente:trueutilizadores:126
+registou emp:trueutilizadores:122
+Matricula : 122 reliable: 21.15382920573601 condutor_ "Hemexi_neves.280@outlook.com"
+Numero de vehiculos : 122
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:123
+Matricula : 123 reliable: 13.625838989341732 condutor_ "cristoforo.Gaspar.23@mail.google.com"
+Numero de vehiculos : 123
+registou emp:trueutilizadores:124
+Matricula : 124 reliable: 27.727301942682214 condutor_ "magali.Marques@mail.google.com"
+Numero de vehiculos : 124
+Sucesso no login!
+Cliente: "Constancas@sapo.pt"DRIVER: "s_m_892@hotmail.com"matricula :"s_m_892@hotmail.com"
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:127
+registou emp:trueutilizadores:125
+Matricula : 125 reliable: 71.26788412387329 condutor_ "I.G_scp@outlook.com"
+Numero de vehiculos : 125
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:126
+Matricula : 126 reliable: 44.51229227670965 condutor_ "tomas.Pereira@gmail.com"
+Numero de vehiculos : 126
+registou emp:trueutilizadores:127
+Matricula : 127 reliable: 61.18175713038902 condutor_ "i-l@outlook.com"
+Numero de vehiculos : 127
+registou cliente:trueutilizadores:128
+registou cliente:trueutilizadores:129
+Sucesso no login!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:128
+Matricula : 128 reliable: 48.82433317617109 condutor_ "C-m_686@hotmail.com"
+Numero de vehiculos : 128
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:129
+Matricula : 129 reliable: 45.58532527041439 condutor_ "ida_B134@gmail.com"
+Numero de vehiculos : 129
+registou emp:trueutilizadores:130
+Matricula : 130 reliable: 31.62843534720504 condutor_ "C_campos@hotmail.com"
+Numero de vehiculos : 130
+registou emp:trueutilizadores:131
+Matricula : 131 reliable: 29.41599147095655 condutor_ "vicente.C@hotmail.com"
+Numero de vehiculos : 131
+registou cliente:trueutilizadores:130
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 163tam depois162
+Cliente: "Altinofigueiredo@hotmail.com"DRIVER: "d-C@outlook.com"matricula :"d-C@outlook.com"
+Cliente: "Altinofigueiredo@hotmail.com"DRIVER: "d-C@outlook.com"matricula :"d-C@outlook.com"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 160tam depois159
+Sucesso no login!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:132
+Matricula : 132 reliable: 51.00917570812021 condutor_ "k.ribeiro@gmail.com"
+Numero de vehiculos : 132
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:133
+Matricula : 133 reliable: 16.630689073735795 condutor_ "t_Assuncao_29@hotmail.com"
+Numero de vehiculos : 133
+registou cliente:trueutilizadores:131
+registou cliente:trueutilizadores:132
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:134
+Matricula : 134 reliable: 22.44286207703283 condutor_ "N_miranda_slb@sapo.pt"
+Numero de vehiculos : 134
+registou cliente:trueutilizadores:133
+Sucesso no login!
+registou emp:trueutilizadores:135
+Matricula : 135 reliable: 70.15073091431958 condutor_ "safia_G.scp@outlook.com"
+Numero de vehiculos : 135
+registou cliente:trueutilizadores:134
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou:trueutilizadores:136
+Matricula : 136 reliable: 53.070557235427216 condutor_ "cH@gmail.com"
+Numero de vehiculos : 136
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 174tam depois173
+Cliente: "G-fonseca79@mail.google.com"DRIVER: "fidelior@mail.google.com"matricula :"fidelior@mail.google.com"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 172tam depois171
+Viagem removida com sucesso; numero de viagens 
+tam antes: 171tam depois170
+Viagem removida com sucesso; numero de viagens 
+tam antes: 170tam depois169
+Cliente: "palmira-barros@mail.google.com"DRIVER: "fidelior@mail.google.com"matricula :"fidelior@mail.google.com"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 168tam depois167
+registou emp:trueutilizadores:137
+Matricula : 137 reliable: 44.71180446617361 condutor_ "Vidal_Vicente@outlook.com"
+Numero de vehiculos : 137
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:138
+Matricula : 138 reliable: 96.27990232798713 condutor_ "vSimoes@hotmail.com"
+Numero de vehiculos : 138
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+registou:trueutilizadores:139
+Matricula : 139 reliable: 46.00292267065428 condutor_ "ipaiva@mail.google.com"
+Numero de vehiculos : 139
+registou emp:trueutilizadores:140
+Matricula : 140 reliable: 2.8096263926043252 condutor_ "Jorja_S@hotmail.com"
+Numero de vehiculos : 140
+registou cliente:trueutilizadores:135
+registou emp:trueutilizadores:141
+Matricula : 141 reliable: 21.044567894520092 condutor_ "R_Branco@hotmail.com"
+Numero de vehiculos : 141
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:136
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:142
+Matricula : 142 reliable: 69.60843180425374 condutor_ "c_Jesus@mail.google.com"
+Numero de vehiculos : 142
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:137
+registou emp:trueutilizadores:143
+Matricula : 143 reliable: 34.5817709136406 condutor_ "C-B@outlook.com"
+Numero de vehiculos : 143
+Sucesso no login!
+Cliente: "adonilo.C-803@hotmail.com"DRIVER: "secundinonogueira.140@outlook.com"matricula :"secundinonogueira.140@outlook.com"
+Cliente: "adonilo.C-803@hotmail.com"DRIVER: "secundinonogueira.140@outlook.com"matricula :"secundinonogueira.140@outlook.com"
+Cliente: "adonilo.C-803@hotmail.com"DRIVER: "secundinonogueira.140@outlook.com"matricula :"secundinonogueira.140@outlook.com"
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Cliente: "D-l@sapo.pt"DRIVER: "azuil-Marques@hotmail.com"matricula :"azuil-Marques@hotmail.com"
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Cliente: "heladio-almeida_175@gmail.com"DRIVER: "odilia_moura@gmail.com"matricula :"odilia_moura@gmail.com"
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:144
+Matricula : 144 reliable: 43.89660532874816 condutor_ "elisete-L@sapo.pt"
+Numero de vehiculos : 144
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:145
+Matricula : 145 reliable: 88.54955949798831 condutor_ "C-Barros@gmail.com"
+Numero de vehiculos : 145
+Sucesso no login!
+registou emp:trueutilizadores:146
+Matricula : 146 reliable: 57.79747025890353 condutor_ "Margarida-R@mail.google.com"
+Numero de vehiculos : 146
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+registou cliente:trueutilizadores:138
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:147
+Matricula : 147 reliable: 1.3730747067781324 condutor_ "alcinaoliveira@mail.google.com"
+Numero de vehiculos : 147
+registou cliente:trueutilizadores:139
+registou emp:trueutilizadores:148
+Matricula : 148 reliable: 67.87058909260911 condutor_ "H.m@gmail.com"
+Numero de vehiculos : 148
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 182tam depois181
+Cliente: "d.P@gmail.com"DRIVER: "Dalva.V@mail.google.com"matricula :"Dalva.V@mail.google.com"
+registou cliente:trueutilizadores:140
+registou:trueutilizadores:149
+Matricula : 149 reliable: 68.78763854761297 condutor_ "S-c@mail.google.com"
+Numero de vehiculos : 149
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:141
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou:trueutilizadores:150
+Matricula : 150 reliable: 4.49753656407843 condutor_ "d.O499@hotmail.com"
+Numero de vehiculos : 150
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:151
+Matricula : 151 reliable: 93.57546898901823 condutor_ "DB@hotmail.com"
+Numero de vehiculos : 151
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+registou emp:trueutilizadores:152
+Matricula : 152 reliable: 89.20966691087465 condutor_ "Mafalda-M@mail.google.com"
+Numero de vehiculos : 152
+registou cliente:trueutilizadores:142
+Sucesso no login!
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 188tam depois187
+Viagem removida com sucesso; numero de viagens 
+tam antes: 187tam depois186
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:143
+registou cliente:trueutilizadores:144
+registou emp:trueutilizadores:153
+Matricula : 153 reliable: 51.02318118462812 condutor_ "helder_Coelho@mail.google.com"
+Numero de vehiculos : 153
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:154
+Matricula : 154 reliable: 15.869820723992966 condutor_ "rn@hotmail.com"
+Numero de vehiculos : 154
+Sucesso no login!
+Cliente: "Tarsicio.N@outlook.com"DRIVER: "Aniria-v977@hotmail.com"matricula :"Aniria-v977@hotmail.com"
+Cliente: "Tarsicio.N@outlook.com"DRIVER: "Aniria-v977@hotmail.com"matricula :"Aniria-v977@hotmail.com"
+Cliente: "Tarsicio.N@outlook.com"DRIVER: "Aniria-v977@hotmail.com"matricula :"Aniria-v977@hotmail.com"
+registou cliente:trueutilizadores:145
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 183tam depois182
+Cliente: "T_m@sapo.pt"DRIVER: "Gildasio_B@gmail.com"matricula :"Gildasio_B@gmail.com"
+Cliente: "T_m@sapo.pt"DRIVER: "Gildasio_B@gmail.com"matricula :"Gildasio_B@gmail.com"
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:146
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:147
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:148
+registou cliente:trueutilizadores:149
+registou cliente:trueutilizadores:150
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:155
+Matricula : 155 reliable: 54.976035920669396 condutor_ "D.e.410@outlook.com"
+Numero de vehiculos : 155
+registou cliente:trueutilizadores:151
+registou emp:trueutilizadores:156
+Matricula : 156 reliable: 88.23670990432166 condutor_ "elda_moura.161@outlook.com"
+Numero de vehiculos : 156
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:152
+registou cliente:trueutilizadores:153
+registou emp:trueutilizadores:157
+Matricula : 157 reliable: 52.48814991095071 condutor_ "helier.l@gmail.com"
+Numero de vehiculos : 157
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Sucesso no login!
+Cliente: "pCardoso@gmail.com"DRIVER: "Ulpiano.henriques.390@gmail.com"matricula :"Ulpiano.henriques.390@gmail.com"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 187tam depois186
+Viagem removida com sucesso; numero de viagens 
+tam antes: 186tam depois185
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:154
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:155
+Sucesso no login!
+Sucesso no login!
+Cliente: "Viveque_M.729@sapo.pt"DRIVER: "hadassa_Araujo867@sapo.pt"matricula :"hadassa_Araujo867@sapo.pt"
+registou cliente:trueutilizadores:156
+registou emp:trueutilizadores:158
+Matricula : 158 reliable: 95.84076084398575 condutor_ "a-M.184@sapo.pt"
+Numero de vehiculos : 158
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:159
+Matricula : 159 reliable: 65.64204565860386 condutor_ "A.Amorim_926@outlook.com"
+Numero de vehiculos : 159
+Sucesso no login!
+Cliente: "Dacio_b@outlook.com"DRIVER: "leomenia_Paiva.669@mail.google.com"matricula :"leomenia_Paiva.669@mail.google.com"
+Cliente: "Dacio_b@outlook.com"DRIVER: "leomenia_Paiva.669@mail.google.com"matricula :"leomenia_Paiva.669@mail.google.com"
+Cliente: "Dacio_b@outlook.com"DRIVER: "leomenia_Paiva.669@mail.google.com"matricula :"leomenia_Paiva.669@mail.google.com"
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:160
+Matricula : 160 reliable: 30.833818002047707 condutor_ "Briolanjo-n@sapo.pt"
+Numero de vehiculos : 160
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:157
+registou emp:trueutilizadores:161
+Matricula : 161 reliable: 64.70246665710707 condutor_ "hilmaesteves@sapo.pt"
+Numero de vehiculos : 161
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:162
+Matricula : 162 reliable: 0.20746472094901325 condutor_ "AlziraM@sapo.pt"
+Numero de vehiculos : 162
+registou cliente:trueutilizadores:158
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:159
+registou emp:trueutilizadores:163
+Matricula : 163 reliable: 35.806793548928475 condutor_ "d.Leite@mail.google.com"
+Numero de vehiculos : 163
+registou cliente:trueutilizadores:160
+registou cliente:trueutilizadores:161
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:164
+Matricula : 164 reliable: 93.97395921334395 condutor_ "B-C821@mail.google.com"
+Numero de vehiculos : 164
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+registou emp:trueutilizadores:165
+Matricula : 165 reliable: 9.243343192396324 condutor_ "haide_e@gmail.com"
+Numero de vehiculos : 165
+registou emp:trueutilizadores:166
+Matricula : 166 reliable: 54.664053997027665 condutor_ "ovieira-508@outlook.com"
+Numero de vehiculos : 166
+registou emp:trueutilizadores:167
+Matricula : 167 reliable: 11.066782203675595 condutor_ "s_M@mail.google.com"
+Numero de vehiculos : 167
+registou cliente:trueutilizadores:162
+registou cliente:trueutilizadores:163
+registou emp:trueutilizadores:168
+Matricula : 168 reliable: 74.11412777771787 condutor_ "Bp936@mail.google.com"
+Numero de vehiculos : 168
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:164
+registou cliente:trueutilizadores:165
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:169
+Matricula : 169 reliable: 97.10985336199592 condutor_ "T.Brito.915@sapo.pt"
+Numero de vehiculos : 169
+registou cliente:trueutilizadores:166
+registou cliente:trueutilizadores:167
+registou cliente:trueutilizadores:168
+registou cliente:trueutilizadores:169
+registou:trueutilizadores:170
+Matricula : 170 reliable: 17.782847982379835 condutor_ "C.Macedo@hotmail.com"
+Numero de vehiculos : 170
+Sucesso no login!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:170
+registou emp:trueutilizadores:171
+Matricula : 171 reliable: 1.130600396959458 condutor_ "Carla.r@outlook.com"
+Numero de vehiculos : 171
+registou cliente:trueutilizadores:171
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou:trueutilizadores:172
+Matricula : 172 reliable: 9.678885639209621 condutor_ "E.domingues.395@outlook.com"
+Numero de vehiculos : 172
+registou cliente:trueutilizadores:172
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:173
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou:trueutilizadores:173
+Matricula : 173 reliable: 97.40698246891698 condutor_ "E_M_991@mail.google.com"
+Numero de vehiculos : 173
+registou emp:trueutilizadores:174
+Matricula : 174 reliable: 30.531376584352966 condutor_ "polibe_Moura@hotmail.com"
+Numero de vehiculos : 174
+registou cliente:trueutilizadores:174
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:175
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+registou cliente:trueutilizadores:176
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:177
+registou cliente:trueutilizadores:178
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:179
+registou cliente:trueutilizadores:180
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:175
+Matricula : 175 reliable: 75.27088504583548 condutor_ "t_V_scp@sapo.pt"
+Numero de vehiculos : 175
+registou emp:trueutilizadores:176
+Matricula : 176 reliable: 25.429101726976043 condutor_ "db742@mail.google.com"
+Numero de vehiculos : 176
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:177
+Matricula : 177 reliable: 15.81979807566528 condutor_ "Cedrico-Abreu@sapo.pt"
+Numero de vehiculos : 177
+registou emp:trueutilizadores:178
+Matricula : 178 reliable: 70.89068817064523 condutor_ "L-b@mail.google.com"
+Numero de vehiculos : 178
+registou cliente:trueutilizadores:181
+registou cliente:trueutilizadores:182
+registou emp:trueutilizadores:179
+Matricula : 179 reliable: 23.808254074525827 condutor_ "J-Amorim@gmail.com"
+Numero de vehiculos : 179
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:183
+registou emp:trueutilizadores:180
+Matricula : 180 reliable: 63.02437809810716 condutor_ "H.M-570@mail.google.com"
+Numero de vehiculos : 180
+registou cliente:trueutilizadores:184
+registou emp:trueutilizadores:181
+Matricula : 181 reliable: 6.166360274206051 condutor_ "tianaM@hotmail.com"
+Numero de vehiculos : 181
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:185
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:182
+Matricula : 182 reliable: 20.503486968094197 condutor_ "danila_M661@gmail.com"
+Numero de vehiculos : 182
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:183
+Matricula : 183 reliable: 35.32737816329665 condutor_ "uriel_martins-347@hotmail.com"
+Numero de vehiculos : 183
+registou emp:trueutilizadores:184
+Matricula : 184 reliable: 7.089938847251231 condutor_ "Mauricio_m@gmail.com"
+Numero de vehiculos : 184
+registou emp:trueutilizadores:185
+Matricula : 185 reliable: 58.52214885557111 condutor_ "B_henriques.229@sapo.pt"
+Numero de vehiculos : 185
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:186
+registou cliente:trueutilizadores:187
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:186
+Matricula : 186 reliable: 92.75876700308652 condutor_ "l_B.602@hotmail.com"
+Numero de vehiculos : 186
+registou cliente:trueutilizadores:188
+Sucesso no login!
+registou emp:trueutilizadores:187
+Matricula : 187 reliable: 5.785098993701032 condutor_ "henriquetasousa-512@gmail.com"
+Numero de vehiculos : 187
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:189
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:188
+Matricula : 188 reliable: 23.858622810045972 condutor_ "Enes.A@sapo.pt"
+Numero de vehiculos : 188
+registou cliente:trueutilizadores:190
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:191
+registou cliente:trueutilizadores:192
+Sucesso no login!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:189
+Matricula : 189 reliable: 26.447553862348094 condutor_ "B.F@sapo.pt"
+Numero de vehiculos : 189
+registou emp:trueutilizadores:190
+Matricula : 190 reliable: 81.13358565751383 condutor_ "S_Nunes@sapo.pt"
+Numero de vehiculos : 190
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:191
+Matricula : 191 reliable: 85.71969211922028 condutor_ "M_alves993@hotmail.com"
+Numero de vehiculos : 191
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 251tam depois250
+Viagem removida com sucesso; numero de viagens 
+tam antes: 250tam depois249
+Viagem removida com sucesso; numero de viagens 
+tam antes: 249tam depois248
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:193
+registou cliente:trueutilizadores:194
+registou cliente:trueutilizadores:195
+registou cliente:trueutilizadores:196
+registou emp:trueutilizadores:192
+Matricula : 192 reliable: 82.40154566967223 condutor_ "sidonio-r_977@gmail.com"
+Numero de vehiculos : 192
+registou cliente:trueutilizadores:197
+registou emp:trueutilizadores:193
+Matricula : 193 reliable: 27.29305380112168 condutor_ "e_M@mail.google.com"
+Numero de vehiculos : 193
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:194
+Matricula : 194 reliable: 67.09260022745386 condutor_ "yara.carneiro@sapo.pt"
+Numero de vehiculos : 194
+registou emp:trueutilizadores:195
+Matricula : 195 reliable: 69.0141213710476 condutor_ "eCosta-4@gmail.com"
+Numero de vehiculos : 195
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 254tam depois253
+Viagem removida com sucesso; numero de viagens 
+tam antes: 253tam depois252
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:198
+registou cliente:trueutilizadores:199
+registou emp:trueutilizadores:196
+Matricula : 196 reliable: 42.897444190721814 condutor_ "wersun.M_366@sapo.pt"
+Numero de vehiculos : 196
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou:trueutilizadores:197
+Matricula : 197 reliable: 97.10412470591541 condutor_ "Gumesindo_R.865@mail.google.com"
+Numero de vehiculos : 197
+registou cliente:trueutilizadores:200
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:198
+Matricula : 198 reliable: 3.33480777903995 condutor_ "ernaniNunes@hotmail.com"
+Numero de vehiculos : 198
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:201
+registou cliente:trueutilizadores:202
+registou emp:trueutilizadores:199
+Matricula : 199 reliable: 86.06974114503515 condutor_ "a.Leite_205@outlook.com"
+Numero de vehiculos : 199
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 258tam depois257
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:203
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:200
+Matricula : 200 reliable: 34.22241370165446 condutor_ "S.Vaz@sapo.pt"
+Numero de vehiculos : 200
+registou emp:trueutilizadores:201
+Matricula : 201 reliable: 14.499901526126314 condutor_ "Ticiana.Pires@sapo.pt"
+Numero de vehiculos : 201
+registou emp:trueutilizadores:202
+Matricula : 202 reliable: 52.333044640867286 condutor_ "HB@hotmail.com"
+Numero de vehiculos : 202
+registou emp:trueutilizadores:203
+Matricula : 203 reliable: 96.51229663562852 condutor_ "smorais@mail.google.com"
+Numero de vehiculos : 203
+registou cliente:trueutilizadores:204
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:204
+Matricula : 204 reliable: 88.70012036712751 condutor_ "ACruz@mail.google.com"
+Numero de vehiculos : 204
+registou cliente:trueutilizadores:205
+registou:trueutilizadores:205
+Matricula : 205 reliable: 2.906354896129215 condutor_ "heliodoraa@hotmail.com"
+Numero de vehiculos : 205
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 261tam depois260
+Cliente: "G-fonseca79@mail.google.com"DRIVER: "ida_B134@gmail.com"matricula :"ida_B134@gmail.com"
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+registou emp:trueutilizadores:206
+Matricula : 206 reliable: 96.99444536541327 condutor_ "l-a_702@mail.google.com"
+Numero de vehiculos : 206
+registou emp:trueutilizadores:207
+Matricula : 207 reliable: 97.39475245212248 condutor_ "z.n379@gmail.com"
+Numero de vehiculos : 207
+registou cliente:trueutilizadores:206
+registou emp:trueutilizadores:208
+Matricula : 208 reliable: 1.3807239356513956 condutor_ "jaquelina_M@hotmail.com"
+Numero de vehiculos : 208
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:209
+Matricula : 209 reliable: 72.04126277169881 condutor_ "i-v@sapo.pt"
+Numero de vehiculos : 209
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou:trueutilizadores:210
+Matricula : 210 reliable: 22.49625590133547 condutor_ "gusmaoMarques633@sapo.pt"
+Numero de vehiculos : 210
+registou emp:trueutilizadores:211
+Matricula : 211 reliable: 61.71106335756807 condutor_ "lilianeb183@outlook.com"
+Numero de vehiculos : 211
+Sucesso no login!
+registou cliente:trueutilizadores:207
+registou emp:trueutilizadores:212
+Matricula : 212 reliable: 51.57697162544345 condutor_ "E_m@gmail.com"
+Numero de vehiculos : 212
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Cliente: "v-F@outlook.com"DRIVER: "l.f@outlook.com"matricula :"l.f@outlook.com"
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:208
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 274tam depois273
+registou cliente:trueutilizadores:209
+registou emp:trueutilizadores:213
+Matricula : 213 reliable: 26.46576775972036 condutor_ "i-l@mail.google.com"
+Numero de vehiculos : 213
+registou emp:trueutilizadores:214
+Matricula : 214 reliable: 9.271389478683034 condutor_ "jeni-barbosa-52@hotmail.com"
+Numero de vehiculos : 214
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:210
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:211
+Sucesso no login!
+registou emp:trueutilizadores:215
+Matricula : 215 reliable: 3.692491116943619 condutor_ "alder.A@sapo.pt"
+Numero de vehiculos : 215
+registou emp:trueutilizadores:216
+Matricula : 216 reliable: 9.864371483033663 condutor_ "assuntabrito-27@mail.google.com"
+Numero de vehiculos : 216
+Sucesso no login!
+Cliente: "s.nogueira@sapo.pt"DRIVER: "L_l.231@hotmail.com"matricula :"L_l.231@hotmail.com"
+Cliente: "s.nogueira@sapo.pt"DRIVER: "L_l.231@hotmail.com"matricula :"L_l.231@hotmail.com"
+Cliente: "s.nogueira@sapo.pt"DRIVER: "L_l.231@hotmail.com"matricula :"L_l.231@hotmail.com"
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:212
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 277tam depois276
+Cliente: "T_cscb@outlook.com"DRIVER: "JosefaSousa@hotmail.com"matricula :"JosefaSousa@hotmail.com"
+Cliente: "T_cscb@outlook.com"DRIVER: "JosefaSousa@hotmail.com"matricula :"JosefaSousa@hotmail.com"
+Cliente: "T_cscb@outlook.com"DRIVER: "JosefaSousa@hotmail.com"matricula :"JosefaSousa@hotmail.com"
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:213
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Cliente: "C.c@sapo.pt"DRIVER: "T.Brito.915@sapo.pt"matricula :"T.Brito.915@sapo.pt"
+Cliente: "C.c@sapo.pt"DRIVER: "T.Brito.915@sapo.pt"matricula :"T.Brito.915@sapo.pt"
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 271tam depois270
+Viagem removida com sucesso; numero de viagens 
+tam antes: 270tam depois269
+Viagem removida com sucesso; numero de viagens 
+tam antes: 269tam depois268
+Viagem removida com sucesso; numero de viagens 
+tam antes: 268tam depois267
+Nao conseguiu remover, nao tinha viagens!
+registou:trueutilizadores:217
+Matricula : 217 reliable: 21.16585791795844 condutor_ "Diamantina_a_712@mail.google.com"
+Numero de vehiculos : 217
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou emp:trueutilizadores:218
+Matricula : 218 reliable: 41.9990198034676 condutor_ "an@mail.google.com"
+Numero de vehiculos : 218
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:214
+Sucesso no login!
+Cliente: "J.vicente@mail.google.com"DRIVER: "edmeroMorais@outlook.com"matricula :"edmeroMorais@outlook.com"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 270tam depois269
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:219
+Matricula : 219 reliable: 9.869706545362877 condutor_ "Marcileneamaral@gmail.com"
+Numero de vehiculos : 219
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:220
+Matricula : 220 reliable: 16.767990021490576 condutor_ "d_Sa@mail.google.com"
+Numero de vehiculos : 220
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 270tam depois269
+Cliente: "dirio_domingues.400@gmail.com"DRIVER: "ipaiva@mail.google.com"matricula :"ipaiva@mail.google.com"
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:215
+registou emp:trueutilizadores:221
+Matricula : 221 reliable: 99.52927625815228 condutor_ "Joao-Maia657@outlook.com"
+Numero de vehiculos : 221
+registou emp:trueutilizadores:222
+Matricula : 222 reliable: 73.45130041916632 condutor_ "Berengaria-P.355@hotmail.com"
+Numero de vehiculos : 222
+Sucesso no login!
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:216
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:217
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:223
+Matricula : 223 reliable: 30.383197229053415 condutor_ "S_S@mail.google.com"
+Numero de vehiculos : 223
+registou emp:trueutilizadores:224
+Matricula : 224 reliable: 66.40439369068196 condutor_ "a.l@sapo.pt"
+Numero de vehiculos : 224
+registou emp:trueutilizadores:225
+Matricula : 225 reliable: 79.16231344120412 condutor_ "GildoA@hotmail.com"
+Numero de vehiculos : 225
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:218
+registou emp:trueutilizadores:226
+Matricula : 226 reliable: 13.14903827014251 condutor_ "L-m-slb@hotmail.com"
+Numero de vehiculos : 226
+registou emp:trueutilizadores:227
+Matricula : 227 reliable: 41.19373035140648 condutor_ "Ramao-p@outlook.com"
+Numero de vehiculos : 227
+registou cliente:trueutilizadores:219
+registou emp:trueutilizadores:228
+Matricula : 228 reliable: 7.714206093981835 condutor_ "P_nscb@gmail.com"
+Numero de vehiculos : 228
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:229
+Matricula : 229 reliable: 83.879586527897 condutor_ "r_N@hotmail.com"
+Numero de vehiculos : 229
+registou cliente:trueutilizadores:220
+registou emp:trueutilizadores:230
+Matricula : 230 reliable: 33.039922522967004 condutor_ "E-macedo@outlook.com"
+Numero de vehiculos : 230
+registou emp:trueutilizadores:231
+Matricula : 231 reliable: 89.66188575806886 condutor_ "mfigueiredo_45@hotmail.com"
+Numero de vehiculos : 231
+Sucesso no login!
+Cliente: "Lyannii.Cruz@gmail.com"DRIVER: "d_Sa@mail.google.com"matricula :"d_Sa@mail.google.com"
+Cliente: "Lyannii.Cruz@gmail.com"DRIVER: "d_Sa@mail.google.com"matricula :"d_Sa@mail.google.com"
+registou cliente:trueutilizadores:221
+registou cliente:trueutilizadores:222
+registou cliente:trueutilizadores:223
+registou emp:trueutilizadores:232
+Matricula : 232 reliable: 70.9612261549023 condutor_ "Vicenta-leal@gmail.com"
+Numero de vehiculos : 232
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 284tam depois283
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:224
+Sucesso no login!
+Cliente: "janinaDomingues@hotmail.com"DRIVER: "Aniria-v977@hotmail.com"matricula :"Aniria-v977@hotmail.com"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 285tam depois284
+Cliente: "janinaDomingues@hotmail.com"DRIVER: "Aniria-v977@hotmail.com"matricula :"Aniria-v977@hotmail.com"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 283tam depois282
+Sucesso no login!
+Cliente: "G-fonseca79@mail.google.com"DRIVER: "galiana.Oliveira@mail.google.com"matricula :"galiana.Oliveira@mail.google.com"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 281tam depois280
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:225
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:226
+registou emp:trueutilizadores:233
+Matricula : 233 reliable: 58.12121758661941 condutor_ "levinamoura@sapo.pt"
+Numero de vehiculos : 233
+registou cliente:trueutilizadores:227
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:234
+Matricula : 234 reliable: 97.22497547843348 condutor_ "C.lourenco@mail.google.com"
+Numero de vehiculos : 234
+registou cliente:trueutilizadores:228
+registou cliente:trueutilizadores:229
+registou cliente:trueutilizadores:230
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:231
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:232
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+registou emp:trueutilizadores:235
+Matricula : 235 reliable: 95.79247440796455 condutor_ "RD-234@mail.google.com"
+Numero de vehiculos : 235
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:233
+registou:trueutilizadores:236
+Matricula : 236 reliable: 97.15441354279902 condutor_ "Celsioneves@hotmail.com"
+Numero de vehiculos : 236
+registou cliente:trueutilizadores:234
+registou cliente:trueutilizadores:235
+registou emp:trueutilizadores:237
+Matricula : 237 reliable: 76.16420188491684 condutor_ "f_Maia@hotmail.com"
+Numero de vehiculos : 237
+registou cliente:trueutilizadores:236
+Sucesso no login!
+Cliente: "heriberta.Cruz@gmail.com"DRIVER: "a-T@mail.google.com"matricula :"a-T@mail.google.com"
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+registou:trueutilizadores:238
+Matricula : 238 reliable: 39.617027877739844 condutor_ "sunamitaC@mail.google.com"
+Numero de vehiculos : 238
+registou cliente:trueutilizadores:237
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou:trueutilizadores:239
+Matricula : 239 reliable: 5.157533863748731 condutor_ "Filino-p@hotmail.com"
+Numero de vehiculos : 239
+registou cliente:trueutilizadores:238
+registou emp:trueutilizadores:240
+Matricula : 240 reliable: 28.251673534738377 condutor_ "amorinaM-739@outlook.com"
+Numero de vehiculos : 240
+registou emp:trueutilizadores:241
+Matricula : 241 reliable: 18.266125312689464 condutor_ "a-cruz@gmail.com"
+Numero de vehiculos : 241
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:239
+registou cliente:trueutilizadores:240
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:242
+Matricula : 242 reliable: 6.061335716134176 condutor_ "Alcindo-C@gmail.com"
+Numero de vehiculos : 242
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+Cliente: "junoaraujo@mail.google.com"DRIVER: "C_Barros@outlook.com"matricula :"C_Barros@outlook.com"
+Cliente: "junoaraujo@mail.google.com"DRIVER: "C_Barros@outlook.com"matricula :"C_Barros@outlook.com"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 297tam depois296
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:241
+registou emp:trueutilizadores:243
+Matricula : 243 reliable: 39.18468571234012 condutor_ "gislena_Andrade_647@outlook.com"
+Numero de vehiculos : 243
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+Sucesso no login!
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+IUPI TEMOS VIAGEM
+registou cliente:trueutilizadores:242
+registou cliente:trueutilizadores:243
+registou cliente:trueutilizadores:244
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 301tam depois300
+Cliente: "cR_fcp@outlook.com"DRIVER: "alder.A@sapo.pt"matricula :"alder.A@sapo.pt"
+Cliente: "cR_fcp@outlook.com"DRIVER: "alder.A@sapo.pt"matricula :"alder.A@sapo.pt"
+Viagem removida com sucesso; numero de viagens 
+tam antes: 298tam depois297
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:244
+Matricula : 244 reliable: 99.64265865312298 condutor_ "Apolo-Castro@hotmail.com"
+Numero de vehiculos : 244
+registou:trueutilizadores:245
+Matricula : 245 reliable: 90.31907595728936 condutor_ "Dulce-Branco@mail.google.com"
+Numero de vehiculos : 245
+registou emp:trueutilizadores:246
+Matricula : 246 reliable: 63.176407303393546 condutor_ "Farida_P-503@outlook.com"
+Numero de vehiculos : 246
+registou emp:trueutilizadores:247
+Matricula : 247 reliable: 99.01203029649581 condutor_ "ovidio_Rocha_scb@gmail.com"
+Numero de vehiculos : 247
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+registou cliente:trueutilizadores:245
+registou emp:trueutilizadores:248
+Matricula : 248 reliable: 44.44314055902405 condutor_ "Carolina-sa@gmail.com"
+Numero de vehiculos : 248
+EXECUTADO!

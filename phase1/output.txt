@@ -1,0 +1,3133 @@
+java -cp './target/classes:./lib/antlr-runtime-4.7.1.jar:./target/classes/' ATS
+registou:trueutilizadores:1
+Matricula : 1 reliable: 10.627709882934955 condutor_ "g_figueiredo@sapo.pt"
+Numero de vehiculos : 1
+registou: true
+Sucesso no login!
+registou emp:trueutilizadores:2
+Matricula : 2 reliable: 40.40867401653373 condutor_ "Honorinabrito@mail.google.com"
+Numero de vehiculos : 2
+Sucesso no login!
+Sucesso no login!
+Sucesso no login!
+registou cliente:trueutilizadores:1
+registou:trueutilizadores:3
+Matricula : 3 reliable: 55.568602613538665 condutor_ "G.F@sapo.pt"
+Numero de vehiculos : 3
+registou emp:trueutilizadores:4
+Matricula : 4 reliable: 77.51522411234686 condutor_ "Alaideassuncao@gmail.com"
+Numero de vehiculos : 4
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 0
+ TEMOS VIAGEM SOLICITADACONTADOR : 1
+ TEMOS VIAGEM SOLICITADACONTADOR : 2
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 3
+ TEMOS VIAGEM SOLICITADACONTADOR : 4
+ TEMOS VIAGEM SOLICITADACONTADOR : 5
+ TEMOS VIAGEM SOLICITADACONTADOR : 6
+registou: true
+registou cliente:trueutilizadores:2
+registou:trueutilizadores:5
+Matricula : 5 reliable: 20.579259880993682 condutor_ "fidelior@mail.google.com"
+Numero de vehiculos : 5
+registou: true
+registou emp:trueutilizadores:6
+Matricula : 6 reliable: 45.7027593285724 condutor_ "J-c@outlook.com"
+Numero de vehiculos : 6
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 7
+ TEMOS VIAGEM SOLICITADACONTADOR : 8
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:3
+registou cliente:trueutilizadores:4
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou: true
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "EvelioTorres@mail.google.com"DRIVER: "Honorinabrito@mail.google.com"matricula :2
+Numero antes: 9Numero depois: 8
+registou: true
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 9
+registou cliente:trueutilizadores:5
+registou emp:trueutilizadores:7
+Matricula : 7 reliable: 83.77921160949992 condutor_ "A.C_scb@hotmail.com"
+Numero de vehiculos : 7
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 10
+ TEMOS VIAGEM SOLICITADACONTADOR : 11
+ TEMOS VIAGEM SOLICITADACONTADOR : 12
+registou cliente:trueutilizadores:6
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 13
+ TEMOS VIAGEM SOLICITADACONTADOR : 14
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 15
+ TEMOS VIAGEM SOLICITADACONTADOR : 16
+registou cliente:trueutilizadores:7
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 17
+ TEMOS VIAGEM SOLICITADACONTADOR : 18
+ TEMOS VIAGEM SOLICITADACONTADOR : 19
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 20
+registou emp:trueutilizadores:8
+Matricula : 8 reliable: 49.55790233518936 condutor_ "Eurica_d_531@mail.google.com"
+Numero de vehiculos : 8
+registou emp:trueutilizadores:9
+Matricula : 9 reliable: 43.31522387613735 condutor_ "odilia_moura@gmail.com"
+Numero de vehiculos : 9
+registou emp:trueutilizadores:10
+Matricula : 10 reliable: 99.87525090676951 condutor_ "TFerreira@gmail.com"
+Numero de vehiculos : 10
+registou emp:trueutilizadores:11
+Matricula : 11 reliable: 80.05489416133543 condutor_ "i_abreu.150@hotmail.com"
+Numero de vehiculos : 11
+registou cliente:trueutilizadores:8
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 21
+ TEMOS VIAGEM SOLICITADACONTADOR : 22
+ TEMOS VIAGEM SOLICITADACONTADOR : 23
+ TEMOS VIAGEM SOLICITADACONTADOR : 24
+registou cliente:trueutilizadores:9
+Sucesso no login!
+registou cliente:trueutilizadores:10
+registou emp:trueutilizadores:12
+Matricula : 12 reliable: 74.14928749851907 condutor_ "jadir_carvalho@mail.google.com"
+Numero de vehiculos : 12
+registou:trueutilizadores:13
+Matricula : 13 reliable: 64.57554053877935 condutor_ "g-cardoso@hotmail.com"
+Numero de vehiculos : 13
+registou emp:trueutilizadores:14
+Matricula : 14 reliable: 94.45145189958035 condutor_ "Dalva.V@mail.google.com"
+Numero de vehiculos : 14
+registou cliente:trueutilizadores:11
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:12
+registou cliente:trueutilizadores:13
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+registou emp:trueutilizadores:15
+Matricula : 15 reliable: 24.878617859087736 condutor_ "galiana.Oliveira@mail.google.com"
+Numero de vehiculos : 15
+registou cliente:trueutilizadores:14
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:15
+registou cliente:trueutilizadores:16
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 25
+ TEMOS VIAGEM SOLICITADACONTADOR : 26
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 26tam depois25
+registou cliente:trueutilizadores:17
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 27
+ TEMOS VIAGEM SOLICITADACONTADOR : 28
+ TEMOS VIAGEM SOLICITADACONTADOR : 29
+ TEMOS VIAGEM SOLICITADACONTADOR : 30
+Sucesso no login!
+registou cliente:trueutilizadores:18
+registou emp:trueutilizadores:16
+Matricula : 16 reliable: 38.40670691328744 condutor_ "Silas-Pacheco_623@gmail.com"
+Numero de vehiculos : 16
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 31
+ TEMOS VIAGEM SOLICITADACONTADOR : 32
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 33
+ TEMOS VIAGEM SOLICITADACONTADOR : 34
+ TEMOS VIAGEM SOLICITADACONTADOR : 35
+registou emp:trueutilizadores:17
+Matricula : 17 reliable: 56.87625407943386 condutor_ "a.Morais@outlook.com"
+Numero de vehiculos : 17
+registou cliente:trueutilizadores:19
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 36
+ TEMOS VIAGEM SOLICITADACONTADOR : 37
+ TEMOS VIAGEM SOLICITADACONTADOR : 38
+ TEMOS VIAGEM SOLICITADACONTADOR : 39
+registou cliente:trueutilizadores:20
+registou emp:trueutilizadores:18
+Matricula : 18 reliable: 20.55780902163771 condutor_ "a.Carvalho@sapo.pt"
+Numero de vehiculos : 18
+registou cliente:trueutilizadores:21
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 38tam depois37
+Viagem removida com sucesso; numero de viagens 
+tam antes: 37tam depois36
+registou emp:trueutilizadores:19
+Matricula : 19 reliable: 48.68897057470086 condutor_ "Laurina.barbosa@mail.google.com"
+Numero de vehiculos : 19
+registou emp:trueutilizadores:20
+Matricula : 20 reliable: 47.54512585004309 condutor_ "feba.P@sapo.pt"
+Numero de vehiculos : 20
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 40
+ TEMOS VIAGEM SOLICITADACONTADOR : 41
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "EvelioTorres@mail.google.com"DRIVER: "Honorinabrito@mail.google.com"matricula :2
+Numero antes: 38Numero depois: 37
+Viagem removida com sucesso; numero de viagens 
+tam antes: 37tam depois36
+Viagem removida com sucesso; numero de viagens 
+tam antes: 36tam depois35
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 42
+ TEMOS VIAGEM SOLICITADACONTADOR : 43
+ TEMOS VIAGEM SOLICITADACONTADOR : 44
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 45
+ TEMOS VIAGEM SOLICITADACONTADOR : 46
+ TEMOS VIAGEM SOLICITADACONTADOR : 47
+ TEMOS VIAGEM SOLICITADACONTADOR : 48
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 49
+ TEMOS VIAGEM SOLICITADACONTADOR : 50
+ TEMOS VIAGEM SOLICITADACONTADOR : 51
+ TEMOS VIAGEM SOLICITADACONTADOR : 52
+registou cliente:trueutilizadores:22
+registou emp:trueutilizadores:21
+Matricula : 21 reliable: 32.7247254016463 condutor_ "leomenia_Paiva.669@mail.google.com"
+Numero de vehiculos : 21
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 53
+ TEMOS VIAGEM SOLICITADACONTADOR : 54
+ TEMOS VIAGEM SOLICITADACONTADOR : 55
+registou cliente:trueutilizadores:23
+Sucesso no login!
+registou cliente:trueutilizadores:24
+registou cliente:trueutilizadores:25
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 56
+registou cliente:trueutilizadores:26
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 57
+ TEMOS VIAGEM SOLICITADACONTADOR : 58
+registou cliente:trueutilizadores:27
+registou:trueutilizadores:22
+Matricula : 22 reliable: 65.48497958766059 condutor_ "uldrico-Nogueira@sapo.pt"
+Numero de vehiculos : 22
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 59
+ TEMOS VIAGEM SOLICITADACONTADOR : 60
+ TEMOS VIAGEM SOLICITADACONTADOR : 61
+registou emp:trueutilizadores:23
+Matricula : 23 reliable: 80.49899339108715 condutor_ "saulo-m-192@gmail.com"
+Numero de vehiculos : 23
+Sucesso no login!
+registou cliente:trueutilizadores:28
+Sucesso no login!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 62
+ TEMOS VIAGEM SOLICITADACONTADOR : 63
+Sucesso no login!
+Sucesso no login!
+registou cliente:trueutilizadores:29
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 64
+registou cliente:trueutilizadores:30
+Sucesso no login!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 65
+ TEMOS VIAGEM SOLICITADACONTADOR : 66
+registou cliente:trueutilizadores:31
+registou cliente:trueutilizadores:32
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:24
+Matricula : 24 reliable: 16.242329176236147 condutor_ "l.f@outlook.com"
+Numero de vehiculos : 24
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 67
+ TEMOS VIAGEM SOLICITADACONTADOR : 68
+ TEMOS VIAGEM SOLICITADACONTADOR : 69
+registou emp:trueutilizadores:25
+Matricula : 25 reliable: 10.192518690692598 condutor_ "dhruvag@gmail.com"
+Numero de vehiculos : 25
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:33
+registou cliente:trueutilizadores:34
+registou emp:trueutilizadores:26
+Matricula : 26 reliable: 20.580873855599148 condutor_ "ramiroS-857@hotmail.com"
+Numero de vehiculos : 26
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 70
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 71
+registou cliente:trueutilizadores:35
+registou cliente:trueutilizadores:36
+registou cliente:trueutilizadores:37
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:38
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 72
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "bC@gmail.com"DRIVER: "l.f@outlook.com"matricula :24
+Numero antes: 66Numero depois: 65
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:39
+registou emp:trueutilizadores:27
+Matricula : 27 reliable: 20.03533651222682 condutor_ "L_l.231@hotmail.com"
+Numero de vehiculos : 27
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 73
+ TEMOS VIAGEM SOLICITADACONTADOR : 74
+ TEMOS VIAGEM SOLICITADACONTADOR : 75
+ TEMOS VIAGEM SOLICITADACONTADOR : 76
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:40
+registou:trueutilizadores:28
+Matricula : 28 reliable: 51.85418719598018 condutor_ "aarao-A@mail.google.com"
+Numero de vehiculos : 28
+Sucesso no login!
+registou:trueutilizadores:29
+Matricula : 29 reliable: 94.97849795337922 condutor_ "alvarina_Moura.301@mail.google.com"
+Numero de vehiculos : 29
+Sucesso no login!
+registou cliente:trueutilizadores:41
+registou:trueutilizadores:30
+Matricula : 30 reliable: 62.91026625028739 condutor_ "S_Brito@sapo.pt"
+Numero de vehiculos : 30
+registou emp:trueutilizadores:31
+Matricula : 31 reliable: 21.660450019093325 condutor_ "a-A@mail.google.com"
+Numero de vehiculos : 31
+registou emp:trueutilizadores:32
+Matricula : 32 reliable: 71.09341260767255 condutor_ "d.S_slb@sapo.pt"
+Numero de vehiculos : 32
+registou cliente:trueutilizadores:42
+registou emp:trueutilizadores:33
+Matricula : 33 reliable: 57.61017074815579 condutor_ "A.Domingues@mail.google.com"
+Numero de vehiculos : 33
+Sucesso no login!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 77
+ TEMOS VIAGEM SOLICITADACONTADOR : 78
+ TEMOS VIAGEM SOLICITADACONTADOR : 79
+registou cliente:trueutilizadores:43
+registou cliente:trueutilizadores:44
+registou cliente:trueutilizadores:45
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou:trueutilizadores:34
+Matricula : 34 reliable: 46.704342273737 condutor_ "s_Cunha.804@gmail.com"
+Numero de vehiculos : 34
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 80
+registou emp:trueutilizadores:35
+Matricula : 35 reliable: 61.72130977545306 condutor_ "secundinonogueira.140@outlook.com"
+Numero de vehiculos : 35
+Sucesso no login!
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "EvelioTorres@mail.google.com"DRIVER: "Honorinabrito@mail.google.com"matricula :2
+Numero antes: 73Numero depois: 72
+CONSEGIU VIAJAR!!
+Cliente: "EvelioTorres@mail.google.com"DRIVER: "Honorinabrito@mail.google.com"matricula :2
+Numero antes: 72Numero depois: 71
+Viagem removida com sucesso; numero de viagens 
+tam antes: 71tam depois70
+Viagem removida com sucesso; numero de viagens 
+tam antes: 70tam depois69
+registou emp:trueutilizadores:36
+Matricula : 36 reliable: 17.95747530742309 condutor_ "Caia.m226@sapo.pt"
+Numero de vehiculos : 36
+registou cliente:trueutilizadores:46
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:47
+registou emp:trueutilizadores:37
+Matricula : 37 reliable: 61.66706554196152 condutor_ "josefina-Cruz@outlook.com"
+Numero de vehiculos : 37
+registou cliente:trueutilizadores:48
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "G-fonseca79@mail.google.com"DRIVER: "Dalva.V@mail.google.com"matricula :14
+Numero antes: 69Numero depois: 68
+CONSEGIU VIAJAR!!
+Cliente: "G-fonseca79@mail.google.com"DRIVER: "Dalva.V@mail.google.com"matricula :14
+Numero antes: 68Numero depois: 67
+Viagem removida com sucesso; numero de viagens 
+tam antes: 67tam depois66
+Viagem removida com sucesso; numero de viagens 
+tam antes: 66tam depois65
+registou cliente:trueutilizadores:49
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 81
+ TEMOS VIAGEM SOLICITADACONTADOR : 82
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "angelica_m@hotmail.com"DRIVER: "feba.P@sapo.pt"matricula :20
+Numero antes: 67Numero depois: 66
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 83
+ TEMOS VIAGEM SOLICITADACONTADOR : 84
+ TEMOS VIAGEM SOLICITADACONTADOR : 85
+ TEMOS VIAGEM SOLICITADACONTADOR : 86
+registou emp:trueutilizadores:38
+Matricula : 38 reliable: 19.93570779585465 condutor_ "jaime_a746@outlook.com"
+Numero de vehiculos : 38
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 87
+ TEMOS VIAGEM SOLICITADACONTADOR : 88
+ TEMOS VIAGEM SOLICITADACONTADOR : 89
+registou cliente:trueutilizadores:50
+registou emp:trueutilizadores:39
+Matricula : 39 reliable: 78.1216737881222 condutor_ "cristela-Gomes@hotmail.com"
+Numero de vehiculos : 39
+registou cliente:trueutilizadores:51
+registou emp:trueutilizadores:40
+Matricula : 40 reliable: 75.35506676149389 condutor_ "boris_Marques-680@mail.google.com"
+Numero de vehiculos : 40
+registou cliente:trueutilizadores:52
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:41
+Matricula : 41 reliable: 42.84224509290863 condutor_ "Acilioa@mail.google.com"
+Numero de vehiculos : 41
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 90
+ TEMOS VIAGEM SOLICITADACONTADOR : 91
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:53
+registou emp:trueutilizadores:42
+Matricula : 42 reliable: 95.30057332341991 condutor_ "alder.Pires@mail.google.com"
+Numero de vehiculos : 42
+registou:trueutilizadores:43
+Matricula : 43 reliable: 78.00720541269077 condutor_ "J_M.74@mail.google.com"
+Numero de vehiculos : 43
+Sucesso no login!
+registou cliente:trueutilizadores:54
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 92
+ TEMOS VIAGEM SOLICITADACONTADOR : 93
+ TEMOS VIAGEM SOLICITADACONTADOR : 94
+ TEMOS VIAGEM SOLICITADACONTADOR : 95
+registou emp:trueutilizadores:44
+Matricula : 44 reliable: 89.18399465216554 condutor_ "hadassa_Araujo867@sapo.pt"
+Numero de vehiculos : 44
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:45
+Matricula : 45 reliable: 6.290091115296925 condutor_ "Sm333@outlook.com"
+Numero de vehiculos : 45
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:55
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "Laurinda.Gomes@outlook.com"DRIVER: "odilia_moura@gmail.com"matricula :9
+Numero antes: 79Numero depois: 78
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "L-Campos-slb@gmail.com"DRIVER: "S_Brito@sapo.pt"matricula :30
+Numero antes: 78Numero depois: 77
+Viagem removida com sucesso; numero de viagens 
+tam antes: 77tam depois76
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:56
+registou emp:trueutilizadores:46
+Matricula : 46 reliable: 97.7604292179438 condutor_ "J.domingues@sapo.pt"
+Numero de vehiculos : 46
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:57
+registou emp:trueutilizadores:47
+Matricula : 47 reliable: 3.6109220832685085 condutor_ "e_moura@outlook.com"
+Numero de vehiculos : 47
+registou cliente:trueutilizadores:58
+registou cliente:trueutilizadores:59
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:60
+registou emp:trueutilizadores:48
+Matricula : 48 reliable: 3.815373262460886 condutor_ "C_Barros@outlook.com"
+Numero de vehiculos : 48
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 96
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 97
+ TEMOS VIAGEM SOLICITADACONTADOR : 98
+ TEMOS VIAGEM SOLICITADACONTADOR : 99
+ TEMOS VIAGEM SOLICITADACONTADOR : 100
+registou emp:trueutilizadores:49
+Matricula : 49 reliable: 37.79189082476885 condutor_ "graciaf.839@hotmail.com"
+Numero de vehiculos : 49
+Sucesso no login!
+registou cliente:trueutilizadores:61
+registou emp:trueutilizadores:50
+Matricula : 50 reliable: 98.74692019744771 condutor_ "d-C@outlook.com"
+Numero de vehiculos : 50
+registou cliente:trueutilizadores:62
+registou cliente:trueutilizadores:63
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 101
+ TEMOS VIAGEM SOLICITADACONTADOR : 102
+ TEMOS VIAGEM SOLICITADACONTADOR : 103
+ TEMOS VIAGEM SOLICITADACONTADOR : 104
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 105
+ TEMOS VIAGEM SOLICITADACONTADOR : 106
+ TEMOS VIAGEM SOLICITADACONTADOR : 107
+registou cliente:trueutilizadores:64
+registou emp:trueutilizadores:51
+Matricula : 51 reliable: 13.41401211485509 condutor_ "M.Assuncao-902@outlook.com"
+Numero de vehiculos : 51
+registou cliente:trueutilizadores:65
+registou cliente:trueutilizadores:66
+registou cliente:trueutilizadores:67
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:52
+Matricula : 52 reliable: 20.62556503408519 condutor_ "L-Macedoslb@sapo.pt"
+Numero de vehiculos : 52
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 108
+ TEMOS VIAGEM SOLICITADACONTADOR : 109
+registou emp:trueutilizadores:53
+Matricula : 53 reliable: 27.097908393229464 condutor_ "iagpinho@hotmail.com"
+Numero de vehiculos : 53
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 110
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 111
+ TEMOS VIAGEM SOLICITADACONTADOR : 112
+ TEMOS VIAGEM SOLICITADACONTADOR : 113
+ TEMOS VIAGEM SOLICITADACONTADOR : 114
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "I-g@gmail.com"DRIVER: "galiana.Oliveira@mail.google.com"matricula :15
+Numero antes: 95Numero depois: 94
+CONSEGIU VIAJAR!!
+Cliente: "I-g@gmail.com"DRIVER: "galiana.Oliveira@mail.google.com"matricula :15
+Numero antes: 94Numero depois: 93
+CONSEGIU VIAJAR!!
+Cliente: "ADomingues@mail.google.com"DRIVER: "galiana.Oliveira@mail.google.com"matricula :15
+Numero antes: 93Numero depois: 92
+Viagem removida com sucesso; numero de viagens 
+tam antes: 92tam depois91
+Viagem removida com sucesso; numero de viagens 
+tam antes: 91tam depois90
+Viagem removida com sucesso; numero de viagens 
+tam antes: 90tam depois89
+Sucesso no login!
+registou cliente:trueutilizadores:68
+registou cliente:trueutilizadores:69
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 115
+Sucesso no login!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 116
+Sucesso no login!
+registou emp:trueutilizadores:54
+Matricula : 54 reliable: 2.756754163224606 condutor_ "JosefaSousa@hotmail.com"
+Numero de vehiculos : 54
+registou emp:trueutilizadores:55
+Matricula : 55 reliable: 19.968278054186683 condutor_ "Matilda-M@gmail.com"
+Numero de vehiculos : 55
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 117
+ TEMOS VIAGEM SOLICITADACONTADOR : 118
+registou cliente:trueutilizadores:70
+registou emp:trueutilizadores:56
+Matricula : 56 reliable: 47.835146491003435 condutor_ "e-n@outlook.com"
+Numero de vehiculos : 56
+registou emp:trueutilizadores:57
+Matricula : 57 reliable: 70.80339790553171 condutor_ "G-f@gmail.com"
+Numero de vehiculos : 57
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 119
+registou cliente:trueutilizadores:71
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 120
+ TEMOS VIAGEM SOLICITADACONTADOR : 121
+ TEMOS VIAGEM SOLICITADACONTADOR : 122
+registou cliente:trueutilizadores:72
+Sucesso no login!
+registou:trueutilizadores:58
+Matricula : 58 reliable: 68.72156099006617 condutor_ "ZelindaO_Almeida.587@sapo.pt"
+Numero de vehiculos : 58
+registou:trueutilizadores:59
+Matricula : 59 reliable: 8.754883816022552 condutor_ "Seomara-simoesfcp@mail.google.com"
+Numero de vehiculos : 59
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 123
+ TEMOS VIAGEM SOLICITADACONTADOR : 124
+ TEMOS VIAGEM SOLICITADACONTADOR : 125
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 126
+ TEMOS VIAGEM SOLICITADACONTADOR : 127
+ TEMOS VIAGEM SOLICITADACONTADOR : 128
+ TEMOS VIAGEM SOLICITADACONTADOR : 129
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 130
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 131
+ TEMOS VIAGEM SOLICITADACONTADOR : 132
+registou cliente:trueutilizadores:73
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 133
+ TEMOS VIAGEM SOLICITADACONTADOR : 134
+registou emp:trueutilizadores:60
+Matricula : 60 reliable: 89.88828510816856 condutor_ "azuil-Marques@hotmail.com"
+Numero de vehiculos : 60
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou:trueutilizadores:61
+Matricula : 61 reliable: 20.4373266701262 condutor_ "silvanoN_983@sapo.pt"
+Numero de vehiculos : 61
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:74
+registou cliente:trueutilizadores:75
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 135
+ TEMOS VIAGEM SOLICITADACONTADOR : 136
+ TEMOS VIAGEM SOLICITADACONTADOR : 137
+registou emp:trueutilizadores:62
+Matricula : 62 reliable: 52.75391216887332 condutor_ "r-F.759@hotmail.com"
+Numero de vehiculos : 62
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 138
+ TEMOS VIAGEM SOLICITADACONTADOR : 139
+ TEMOS VIAGEM SOLICITADACONTADOR : 140
+ TEMOS VIAGEM SOLICITADACONTADOR : 141
+registou emp:trueutilizadores:63
+Matricula : 63 reliable: 18.609186990552786 condutor_ "Sancia-Costa_216@sapo.pt"
+Numero de vehiculos : 63
+registou:trueutilizadores:64
+Matricula : 64 reliable: 52.94982496728775 condutor_ "clarinhamendes@mail.google.com"
+Numero de vehiculos : 64
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 142
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "adonilo.C-803@hotmail.com"DRIVER: "dhruvag@gmail.com"matricula :25
+Numero antes: 117Numero depois: 116
+CONSEGIU VIAJAR!!
+Cliente: "adonilo.C-803@hotmail.com"DRIVER: "dhruvag@gmail.com"matricula :25
+Numero antes: 116Numero depois: 115
+Viagem removida com sucesso; numero de viagens 
+tam antes: 115tam depois114
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:65
+Matricula : 65 reliable: 48.44038532380808 condutor_ "Emaus-campos@outlook.com"
+Numero de vehiculos : 65
+registou emp:trueutilizadores:66
+Matricula : 66 reliable: 94.37076893828348 condutor_ "Expedito-campos568@outlook.com"
+Numero de vehiculos : 66
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 143
+ TEMOS VIAGEM SOLICITADACONTADOR : 144
+ TEMOS VIAGEM SOLICITADACONTADOR : 145
+registou emp:trueutilizadores:67
+Matricula : 67 reliable: 41.646654963433235 condutor_ "Seomara-Rodrigues@gmail.com"
+Numero de vehiculos : 67
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 146
+ TEMOS VIAGEM SOLICITADACONTADOR : 147
+ TEMOS VIAGEM SOLICITADACONTADOR : 148
+registou cliente:trueutilizadores:76
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 149
+ TEMOS VIAGEM SOLICITADACONTADOR : 150
+ TEMOS VIAGEM SOLICITADACONTADOR : 151
+registou cliente:trueutilizadores:77
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 152
+registou cliente:trueutilizadores:78
+registou cliente:trueutilizadores:79
+registou emp:trueutilizadores:68
+Matricula : 68 reliable: 85.88308004737723 condutor_ "aM@gmail.com"
+Numero de vehiculos : 68
+registou cliente:trueutilizadores:80
+Sucesso no login!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 153
+ TEMOS VIAGEM SOLICITADACONTADOR : 154
+ TEMOS VIAGEM SOLICITADACONTADOR : 155
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 156
+ TEMOS VIAGEM SOLICITADACONTADOR : 157
+registou emp:trueutilizadores:69
+Matricula : 69 reliable: 73.94273394313339 condutor_ "FloriaTeixeira.795@hotmail.com"
+Numero de vehiculos : 69
+registou emp:trueutilizadores:70
+Matricula : 70 reliable: 72.51683232312524 condutor_ "c-correia-slb@hotmail.com"
+Numero de vehiculos : 70
+registou cliente:trueutilizadores:81
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 129tam depois128
+Viagem removida com sucesso; numero de viagens 
+tam antes: 128tam depois127
+Viagem removida com sucesso; numero de viagens 
+tam antes: 127tam depois126
+Viagem removida com sucesso; numero de viagens 
+tam antes: 126tam depois125
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou:trueutilizadores:71
+Matricula : 71 reliable: 16.74773225171221 condutor_ "D-c@sapo.pt"
+Numero de vehiculos : 71
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:82
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 125tam depois124
+CONSEGIU VIAJAR!!
+Cliente: "iris-N-975@hotmail.com"DRIVER: "graciaf.839@hotmail.com"matricula :49
+Numero antes: 124Numero depois: 123
+Viagem removida com sucesso; numero de viagens 
+tam antes: 123tam depois122
+CONSEGIU VIAJAR!!
+Cliente: "iris-N-975@hotmail.com"DRIVER: "graciaf.839@hotmail.com"matricula :49
+Numero antes: 122Numero depois: 121
+Viagem removida com sucesso; numero de viagens 
+tam antes: 121tam depois120
+Viagem removida com sucesso; numero de viagens 
+tam antes: 120tam depois119
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:83
+registou emp:trueutilizadores:72
+Matricula : 72 reliable: 9.992489747233934 condutor_ "U-costa-982@mail.google.com"
+Numero de vehiculos : 72
+registou cliente:trueutilizadores:84
+registou:trueutilizadores:73
+Matricula : 73 reliable: 17.078353930767733 condutor_ "d.m@mail.google.com"
+Numero de vehiculos : 73
+registou emp:trueutilizadores:74
+Matricula : 74 reliable: 4.20943283155355 condutor_ "Dejanira.Araujo_scp@mail.google.com"
+Numero de vehiculos : 74
+Sucesso no login!
+registou emp:trueutilizadores:75
+Matricula : 75 reliable: 82.45780162532488 condutor_ "V-Amorim-467@gmail.com"
+Numero de vehiculos : 75
+Sucesso no login!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 158
+ TEMOS VIAGEM SOLICITADACONTADOR : 159
+ TEMOS VIAGEM SOLICITADACONTADOR : 160
+ TEMOS VIAGEM SOLICITADACONTADOR : 161
+registou emp:trueutilizadores:76
+Matricula : 76 reliable: 66.85773319571707 condutor_ "d_A@hotmail.com"
+Numero de vehiculos : 76
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 162
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 163
+ TEMOS VIAGEM SOLICITADACONTADOR : 164
+ TEMOS VIAGEM SOLICITADACONTADOR : 165
+Sucesso no login!
+registou emp:trueutilizadores:77
+Matricula : 77 reliable: 77.93598960496846 condutor_ "Ermeria-Simoes@sapo.pt"
+Numero de vehiculos : 77
+registou emp:trueutilizadores:78
+Matricula : 78 reliable: 88.2083532538611 condutor_ "Luana.sousa465@sapo.pt"
+Numero de vehiculos : 78
+registou emp:trueutilizadores:79
+Matricula : 79 reliable: 34.849892536271156 condutor_ "s_m_892@hotmail.com"
+Numero de vehiculos : 79
+registou cliente:trueutilizadores:85
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:86
+Sucesso no login!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 166
+ TEMOS VIAGEM SOLICITADACONTADOR : 167
+ TEMOS VIAGEM SOLICITADACONTADOR : 168
+ TEMOS VIAGEM SOLICITADACONTADOR : 169
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 170
+ TEMOS VIAGEM SOLICITADACONTADOR : 171
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 133tam depois132
+Viagem removida com sucesso; numero de viagens 
+tam antes: 132tam depois131
+CONSEGIU VIAJAR!!
+Cliente: "Antonia_G@hotmail.com"DRIVER: "Acilioa@mail.google.com"matricula :41
+Numero antes: 131Numero depois: 130
+Viagem removida com sucesso; numero de viagens 
+tam antes: 130tam depois129
+Viagem removida com sucesso; numero de viagens 
+tam antes: 129tam depois128
+Viagem removida com sucesso; numero de viagens 
+tam antes: 128tam depois127
+CONSEGIU VIAJAR!!
+Cliente: "josueF@mail.google.com"DRIVER: "Acilioa@mail.google.com"matricula :41
+Numero antes: 127Numero depois: 126
+CONSEGIU VIAJAR!!
+Cliente: "T_m@sapo.pt"DRIVER: "Acilioa@mail.google.com"matricula :41
+Numero antes: 126Numero depois: 125
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 172
+ TEMOS VIAGEM SOLICITADACONTADOR : 173
+ TEMOS VIAGEM SOLICITADACONTADOR : 174
+registou cliente:trueutilizadores:87
+registou emp:trueutilizadores:80
+Matricula : 80 reliable: 27.55191262776736 condutor_ "BG@hotmail.com"
+Numero de vehiculos : 80
+registou emp:trueutilizadores:81
+Matricula : 81 reliable: 17.036004007813332 condutor_ "C_Alves@gmail.com"
+Numero de vehiculos : 81
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 175
+ TEMOS VIAGEM SOLICITADACONTADOR : 176
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:82
+Matricula : 82 reliable: 68.75296368695459 condutor_ "SR@sapo.pt"
+Numero de vehiculos : 82
+registou cliente:trueutilizadores:88
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 177
+ TEMOS VIAGEM SOLICITADACONTADOR : 178
+ TEMOS VIAGEM SOLICITADACONTADOR : 179
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 180
+ TEMOS VIAGEM SOLICITADACONTADOR : 181
+ TEMOS VIAGEM SOLICITADACONTADOR : 182
+ TEMOS VIAGEM SOLICITADACONTADOR : 183
+Sucesso no login!
+registou:trueutilizadores:83
+Matricula : 83 reliable: 52.70760146080683 condutor_ "s.Costa@sapo.pt"
+Numero de vehiculos : 83
+registou:trueutilizadores:84
+Matricula : 84 reliable: 51.163789919172295 condutor_ "a.Branco408@gmail.com"
+Numero de vehiculos : 84
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 137tam depois136
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+registou cliente:trueutilizadores:89
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou:trueutilizadores:85
+Matricula : 85 reliable: 99.9490263477745 condutor_ "e.lourenco@gmail.com"
+Numero de vehiculos : 85
+registou emp:trueutilizadores:86
+Matricula : 86 reliable: 98.1390898371499 condutor_ "liana.ribeiro@hotmail.com"
+Numero de vehiculos : 86
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:87
+Matricula : 87 reliable: 81.80808409374848 condutor_ "HG@sapo.pt"
+Numero de vehiculos : 87
+registou:trueutilizadores:88
+Matricula : 88 reliable: 3.9605632183530637 condutor_ "EH870@hotmail.com"
+Numero de vehiculos : 88
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 184
+ TEMOS VIAGEM SOLICITADACONTADOR : 185
+registou cliente:trueutilizadores:90
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:89
+Matricula : 89 reliable: 20.319911855680704 condutor_ "d_mota@mail.google.com"
+Numero de vehiculos : 89
+registou emp:trueutilizadores:90
+Matricula : 90 reliable: 94.7257193175052 condutor_ "Jair-Cfcp@outlook.com"
+Numero de vehiculos : 90
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 186
+ TEMOS VIAGEM SOLICITADACONTADOR : 187
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 140tam depois139
+CONSEGIU VIAJAR!!
+Cliente: "Altinofigueiredo@hotmail.com"DRIVER: "alvarina_Moura.301@mail.google.com"matricula :29
+Numero antes: 139Numero depois: 138
+CONSEGIU VIAJAR!!
+Cliente: "Altinofigueiredo@hotmail.com"DRIVER: "alvarina_Moura.301@mail.google.com"matricula :29
+Numero antes: 138Numero depois: 137
+Viagem removida com sucesso; numero de viagens 
+tam antes: 137tam depois136
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "d.P@gmail.com"DRIVER: "d_A@hotmail.com"matricula :76
+Numero antes: 136Numero depois: 135
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:91
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "filipo_azevedo@mail.google.com"DRIVER: "ZelindaO_Almeida.587@sapo.pt"matricula :58
+Numero antes: 135Numero depois: 134
+Viagem removida com sucesso; numero de viagens 
+tam antes: 134tam depois133
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:91
+Matricula : 91 reliable: 47.90492677726623 condutor_ "Verissimo-neto932@sapo.pt"
+Numero de vehiculos : 91
+registou:trueutilizadores:92
+Matricula : 92 reliable: 80.5836099310214 condutor_ "j_b@mail.google.com"
+Numero de vehiculos : 92
+registou cliente:trueutilizadores:92
+Sucesso no login!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 188
+ TEMOS VIAGEM SOLICITADACONTADOR : 189
+ TEMOS VIAGEM SOLICITADACONTADOR : 190
+ TEMOS VIAGEM SOLICITADACONTADOR : 191
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:93
+Matricula : 93 reliable: 28.997570137777593 condutor_ "Aniria-v977@hotmail.com"
+Numero de vehiculos : 93
+Sucesso no login!
+registou cliente:trueutilizadores:93
+registou emp:trueutilizadores:94
+Matricula : 94 reliable: 15.367901590513089 condutor_ "edmeroMorais@outlook.com"
+Numero de vehiculos : 94
+registou emp:trueutilizadores:95
+Matricula : 95 reliable: 98.19164479458597 condutor_ "AlanaLourenco-scp@outlook.com"
+Numero de vehiculos : 95
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:96
+Matricula : 96 reliable: 40.932254742013384 condutor_ "Hn@gmail.com"
+Numero de vehiculos : 96
+registou emp:trueutilizadores:97
+Matricula : 97 reliable: 15.157541580652145 condutor_ "a-T@mail.google.com"
+Numero de vehiculos : 97
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 192
+ TEMOS VIAGEM SOLICITADACONTADOR : 193
+ TEMOS VIAGEM SOLICITADACONTADOR : 194
+registou cliente:trueutilizadores:94
+registou cliente:trueutilizadores:95
+registou cliente:trueutilizadores:96
+Sucesso no login!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 195
+ TEMOS VIAGEM SOLICITADACONTADOR : 196
+ TEMOS VIAGEM SOLICITADACONTADOR : 197
+registou cliente:trueutilizadores:97
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 198
+ TEMOS VIAGEM SOLICITADACONTADOR : 199
+ TEMOS VIAGEM SOLICITADACONTADOR : 200
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:98
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 201
+ TEMOS VIAGEM SOLICITADACONTADOR : 202
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 203
+ TEMOS VIAGEM SOLICITADACONTADOR : 204
+registou cliente:trueutilizadores:99
+registou cliente:trueutilizadores:100
+Sucesso no login!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 205
+registou:trueutilizadores:98
+Matricula : 98 reliable: 55.49907213002832 condutor_ "d_reis@gmail.com"
+Numero de vehiculos : 98
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:101
+Sucesso no login!
+Sucesso no login!
+registou cliente:trueutilizadores:102
+registou cliente:trueutilizadores:103
+registou:trueutilizadores:99
+Matricula : 99 reliable: 45.221617664151516 condutor_ "hugo-nogueira.fcp@mail.google.com"
+Numero de vehiculos : 99
+registou emp:trueutilizadores:100
+Matricula : 100 reliable: 25.966153552671255 condutor_ "leo_anjos@sapo.pt"
+Numero de vehiculos : 100
+registou cliente:trueutilizadores:104
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:105
+registou emp:trueutilizadores:101
+Matricula : 101 reliable: 64.5749343219927 condutor_ "b.Correia_615@hotmail.com"
+Numero de vehiculos : 101
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 206
+registou:trueutilizadores:102
+Matricula : 102 reliable: 41.78588233667472 condutor_ "a.T@gmail.com"
+Numero de vehiculos : 102
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 207
+registou emp:trueutilizadores:103
+Matricula : 103 reliable: 31.497040826563882 condutor_ "s.L.313@sapo.pt"
+Numero de vehiculos : 103
+registou:trueutilizadores:104
+Matricula : 104 reliable: 60.51933803357612 condutor_ "q_F@sapo.pt"
+Numero de vehiculos : 104
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 208
+ TEMOS VIAGEM SOLICITADACONTADOR : 209
+ TEMOS VIAGEM SOLICITADACONTADOR : 210
+registou cliente:trueutilizadores:106
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+registou cliente:trueutilizadores:107
+registou cliente:trueutilizadores:108
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 211
+ TEMOS VIAGEM SOLICITADACONTADOR : 212
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:105
+Matricula : 105 reliable: 47.86825400753495 condutor_ "gabriel_M@sapo.pt"
+Numero de vehiculos : 105
+registou cliente:trueutilizadores:109
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 213
+ TEMOS VIAGEM SOLICITADACONTADOR : 214
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 215
+ TEMOS VIAGEM SOLICITADACONTADOR : 216
+ TEMOS VIAGEM SOLICITADACONTADOR : 217
+ TEMOS VIAGEM SOLICITADACONTADOR : 218
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 219
+ TEMOS VIAGEM SOLICITADACONTADOR : 220
+ TEMOS VIAGEM SOLICITADACONTADOR : 221
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 222
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:106
+Matricula : 106 reliable: 51.750826223042004 condutor_ "Ulpiano.henriques.390@gmail.com"
+Numero de vehiculos : 106
+registou cliente:trueutilizadores:110
+Sucesso no login!
+registou emp:trueutilizadores:107
+Matricula : 107 reliable: 56.304190042553 condutor_ "i_t@sapo.pt"
+Numero de vehiculos : 107
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:111
+registou emp:trueutilizadores:108
+Matricula : 108 reliable: 33.57997326765274 condutor_ "Ercilio_Mendes_764@mail.google.com"
+Numero de vehiculos : 108
+registou:trueutilizadores:109
+Matricula : 109 reliable: 69.70435915307424 condutor_ "rosalinda-C@mail.google.com"
+Numero de vehiculos : 109
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 223
+ TEMOS VIAGEM SOLICITADACONTADOR : 224
+registou cliente:trueutilizadores:112
+registou cliente:trueutilizadores:113
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:110
+Matricula : 110 reliable: 20.111888539664612 condutor_ "angelico.araujo@gmail.com"
+Numero de vehiculos : 110
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 225
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:114
+registou cliente:trueutilizadores:115
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 226
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 227
+ TEMOS VIAGEM SOLICITADACONTADOR : 228
+ TEMOS VIAGEM SOLICITADACONTADOR : 229
+ TEMOS VIAGEM SOLICITADACONTADOR : 230
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 231
+ TEMOS VIAGEM SOLICITADACONTADOR : 232
+ TEMOS VIAGEM SOLICITADACONTADOR : 233
+ TEMOS VIAGEM SOLICITADACONTADOR : 234
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 235
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 236
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 182tam depois181
+Viagem removida com sucesso; numero de viagens 
+tam antes: 181tam depois180
+Viagem removida com sucesso; numero de viagens 
+tam antes: 180tam depois179
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 237
+ TEMOS VIAGEM SOLICITADACONTADOR : 238
+registou cliente:trueutilizadores:116
+Sucesso no login!
+registou emp:trueutilizadores:111
+Matricula : 111 reliable: 12.652094010085047 condutor_ "A_Leal_793@outlook.com"
+Numero de vehiculos : 111
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 239
+ TEMOS VIAGEM SOLICITADACONTADOR : 240
+registou cliente:trueutilizadores:117
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:112
+Matricula : 112 reliable: 47.32303688192877 condutor_ "bernardino_moura@sapo.pt"
+Numero de vehiculos : 112
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:113
+Matricula : 113 reliable: 58.109456173628715 condutor_ "Azizalmeida@outlook.com"
+Numero de vehiculos : 113
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:118
+registou:trueutilizadores:114
+Matricula : 114 reliable: 76.26228744093872 condutor_ "Enunes-fcp@gmail.com"
+Numero de vehiculos : 114
+Sucesso no login!
+registou cliente:trueutilizadores:119
+registou cliente:trueutilizadores:120
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 241
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 242
+ TEMOS VIAGEM SOLICITADACONTADOR : 243
+registou:trueutilizadores:115
+Matricula : 115 reliable: 74.60257371722288 condutor_ "Gildasio_B@gmail.com"
+Numero de vehiculos : 115
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "j-m@mail.google.com"DRIVER: "L_l.231@hotmail.com"matricula :27
+Numero antes: 186Numero depois: 185
+Viagem removida com sucesso; numero de viagens 
+tam antes: 185tam depois184
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+registou emp:trueutilizadores:116
+Matricula : 116 reliable: 11.045732758061778 condutor_ "lg@mail.google.com"
+Numero de vehiculos : 116
+registou cliente:trueutilizadores:121
+Sucesso no login!
+Sucesso no login!
+registou emp:trueutilizadores:117
+Matricula : 117 reliable: 16.071682902152162 condutor_ "j_m891@hotmail.com"
+Numero de vehiculos : 117
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 244
+registou emp:trueutilizadores:118
+Matricula : 118 reliable: 22.66257638087272 condutor_ "c-T.807@hotmail.com"
+Numero de vehiculos : 118
+registou cliente:trueutilizadores:122
+registou cliente:trueutilizadores:123
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 185tam depois184
+registou cliente:trueutilizadores:124
+registou emp:trueutilizadores:119
+Matricula : 119 reliable: 24.840357859601713 condutor_ "esmeraldacscp@mail.google.com"
+Numero de vehiculos : 119
+registou emp:trueutilizadores:120
+Matricula : 120 reliable: 83.91549183042812 condutor_ "arquiminioa_slb@outlook.com"
+Numero de vehiculos : 120
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 245
+ TEMOS VIAGEM SOLICITADACONTADOR : 246
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:125
+registou emp:trueutilizadores:121
+Matricula : 121 reliable: 40.2707702046472 condutor_ "p_Faria@gmail.com"
+Numero de vehiculos : 121
+Sucesso no login!
+registou cliente:trueutilizadores:126
+registou emp:trueutilizadores:122
+Matricula : 122 reliable: 18.824408604740483 condutor_ "Hemexi_neves.280@outlook.com"
+Numero de vehiculos : 122
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 247
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:123
+Matricula : 123 reliable: 23.999237986828714 condutor_ "cristoforo.Gaspar.23@mail.google.com"
+Numero de vehiculos : 123
+registou emp:trueutilizadores:124
+Matricula : 124 reliable: 39.671314604832965 condutor_ "magali.Marques@mail.google.com"
+Numero de vehiculos : 124
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:127
+registou emp:trueutilizadores:125
+Matricula : 125 reliable: 97.72998827938369 condutor_ "I.G_scp@outlook.com"
+Numero de vehiculos : 125
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 248
+registou emp:trueutilizadores:126
+Matricula : 126 reliable: 16.228373135506146 condutor_ "tomas.Pereira@gmail.com"
+Numero de vehiculos : 126
+registou emp:trueutilizadores:127
+Matricula : 127 reliable: 8.540035651494671 condutor_ "i-l@outlook.com"
+Numero de vehiculos : 127
+registou cliente:trueutilizadores:128
+registou cliente:trueutilizadores:129
+Sucesso no login!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 249
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:128
+Matricula : 128 reliable: 25.758996504482067 condutor_ "C-m_686@hotmail.com"
+Numero de vehiculos : 128
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 250
+ TEMOS VIAGEM SOLICITADACONTADOR : 251
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 252
+ TEMOS VIAGEM SOLICITADACONTADOR : 253
+ TEMOS VIAGEM SOLICITADACONTADOR : 254
+ TEMOS VIAGEM SOLICITADACONTADOR : 255
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 256
+ TEMOS VIAGEM SOLICITADACONTADOR : 257
+registou emp:trueutilizadores:129
+Matricula : 129 reliable: 19.854035305522476 condutor_ "ida_B134@gmail.com"
+Numero de vehiculos : 129
+registou emp:trueutilizadores:130
+Matricula : 130 reliable: 92.44344386552466 condutor_ "C_campos@hotmail.com"
+Numero de vehiculos : 130
+registou emp:trueutilizadores:131
+Matricula : 131 reliable: 65.52223455195254 condutor_ "vicente.C@hotmail.com"
+Numero de vehiculos : 131
+registou cliente:trueutilizadores:130
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 258
+ TEMOS VIAGEM SOLICITADACONTADOR : 259
+registou emp:trueutilizadores:132
+Matricula : 132 reliable: 7.895747731124536 condutor_ "k.ribeiro@gmail.com"
+Numero de vehiculos : 132
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "ximena.Silva.359@sapo.pt"DRIVER: "EH870@hotmail.com"matricula :88
+Numero antes: 199Numero depois: 198
+CONSEGIU VIAJAR!!
+Cliente: "ximena.Silva.359@sapo.pt"DRIVER: "EH870@hotmail.com"matricula :88
+Numero antes: 198Numero depois: 197
+Viagem removida com sucesso; numero de viagens 
+tam antes: 197tam depois196
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 260
+ TEMOS VIAGEM SOLICITADACONTADOR : 261
+ TEMOS VIAGEM SOLICITADACONTADOR : 262
+ TEMOS VIAGEM SOLICITADACONTADOR : 263
+registou emp:trueutilizadores:133
+Matricula : 133 reliable: 8.085436848444939 condutor_ "t_Assuncao_29@hotmail.com"
+Numero de vehiculos : 133
+registou cliente:trueutilizadores:131
+registou cliente:trueutilizadores:132
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 264
+ TEMOS VIAGEM SOLICITADACONTADOR : 265
+ TEMOS VIAGEM SOLICITADACONTADOR : 266
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 267
+registou emp:trueutilizadores:134
+Matricula : 134 reliable: 32.471890765563174 condutor_ "N_miranda_slb@sapo.pt"
+Numero de vehiculos : 134
+registou cliente:trueutilizadores:133
+Sucesso no login!
+registou emp:trueutilizadores:135
+Matricula : 135 reliable: 56.3378610746413 condutor_ "safia_G.scp@outlook.com"
+Numero de vehiculos : 135
+registou cliente:trueutilizadores:134
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 268
+registou:trueutilizadores:136
+Matricula : 136 reliable: 82.18561135440495 condutor_ "cH@gmail.com"
+Numero de vehiculos : 136
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 269
+ TEMOS VIAGEM SOLICITADACONTADOR : 270
+ TEMOS VIAGEM SOLICITADACONTADOR : 271
+ TEMOS VIAGEM SOLICITADACONTADOR : 272
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 209tam depois208
+CONSEGIU VIAJAR!!
+Cliente: "agataf@mail.google.com"DRIVER: "fidelior@mail.google.com"matricula :5
+Numero antes: 208Numero depois: 207
+Viagem removida com sucesso; numero de viagens 
+tam antes: 207tam depois206
+Viagem removida com sucesso; numero de viagens 
+tam antes: 206tam depois205
+Viagem removida com sucesso; numero de viagens 
+tam antes: 205tam depois204
+CONSEGIU VIAJAR!!
+Cliente: "i_Nunes@gmail.com"DRIVER: "fidelior@mail.google.com"matricula :5
+Numero antes: 204Numero depois: 203
+Viagem removida com sucesso; numero de viagens 
+tam antes: 203tam depois202
+registou emp:trueutilizadores:137
+Matricula : 137 reliable: 6.0510862384927755 condutor_ "Vidal_Vicente@outlook.com"
+Numero de vehiculos : 137
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 202tam depois201
+Sucesso no login!
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 201tam depois200
+CONSEGIU VIAJAR!!
+Cliente: "Hermanf@sapo.pt"DRIVER: "Matilda-M@gmail.com"matricula :55
+Numero antes: 200Numero depois: 199
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 273
+ TEMOS VIAGEM SOLICITADACONTADOR : 274
+ TEMOS VIAGEM SOLICITADACONTADOR : 275
+registou emp:trueutilizadores:138
+Matricula : 138 reliable: 79.44573922283907 condutor_ "vSimoes@hotmail.com"
+Numero de vehiculos : 138
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+registou:trueutilizadores:139
+Matricula : 139 reliable: 18.224260604576692 condutor_ "ipaiva@mail.google.com"
+Numero de vehiculos : 139
+registou emp:trueutilizadores:140
+Matricula : 140 reliable: 28.527196250455823 condutor_ "Jorja_S@hotmail.com"
+Numero de vehiculos : 140
+registou cliente:trueutilizadores:135
+registou emp:trueutilizadores:141
+Matricula : 141 reliable: 49.868444503581244 condutor_ "R_Branco@hotmail.com"
+Numero de vehiculos : 141
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 276
+ TEMOS VIAGEM SOLICITADACONTADOR : 277
+ TEMOS VIAGEM SOLICITADACONTADOR : 278
+ TEMOS VIAGEM SOLICITADACONTADOR : 279
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 280
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:136
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 281
+ TEMOS VIAGEM SOLICITADACONTADOR : 282
+ TEMOS VIAGEM SOLICITADACONTADOR : 283
+ TEMOS VIAGEM SOLICITADACONTADOR : 284
+registou emp:trueutilizadores:142
+Matricula : 142 reliable: 89.56321972035792 condutor_ "c_Jesus@mail.google.com"
+Numero de vehiculos : 142
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:137
+registou emp:trueutilizadores:143
+Matricula : 143 reliable: 84.24554620383353 condutor_ "C-B@outlook.com"
+Numero de vehiculos : 143
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "pCardoso@gmail.com"DRIVER: "secundinonogueira.140@outlook.com"matricula :35
+Numero antes: 211Numero depois: 210
+CONSEGIU VIAJAR!!
+Cliente: "pCardoso@gmail.com"DRIVER: "secundinonogueira.140@outlook.com"matricula :35
+Numero antes: 210Numero depois: 209
+CONSEGIU VIAJAR!!
+Cliente: "inguefernandes@outlook.com"DRIVER: "secundinonogueira.140@outlook.com"matricula :35
+Numero antes: 209Numero depois: 208
+Viagem removida com sucesso; numero de viagens 
+tam antes: 208tam depois207
+Viagem removida com sucesso; numero de viagens 
+tam antes: 207tam depois206
+CONSEGIU VIAJAR!!
+Cliente: "pCardoso@gmail.com"DRIVER: "secundinonogueira.140@outlook.com"matricula :35
+Numero antes: 206Numero depois: 205
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 285
+ TEMOS VIAGEM SOLICITADACONTADOR : 286
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "damarismelo@sapo.pt"DRIVER: "azuil-Marques@hotmail.com"matricula :60
+Numero antes: 207Numero depois: 206
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 287
+ TEMOS VIAGEM SOLICITADACONTADOR : 288
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "Srodrigues@mail.google.com"DRIVER: "odilia_moura@gmail.com"matricula :9
+Numero antes: 208Numero depois: 207
+CONSEGIU VIAJAR!!
+Cliente: "Srodrigues@mail.google.com"DRIVER: "odilia_moura@gmail.com"matricula :9
+Numero antes: 207Numero depois: 206
+Viagem removida com sucesso; numero de viagens 
+tam antes: 206tam depois205
+CONSEGIU VIAJAR!!
+Cliente: "Srodrigues@mail.google.com"DRIVER: "odilia_moura@gmail.com"matricula :9
+Numero antes: 205Numero depois: 204
+CONSEGIU VIAJAR!!
+Cliente: "Laurinda.Gomes@outlook.com"DRIVER: "odilia_moura@gmail.com"matricula :9
+Numero antes: 204Numero depois: 203
+registou emp:trueutilizadores:144
+Matricula : 144 reliable: 20.448477062254945 condutor_ "elisete-L@sapo.pt"
+Numero de vehiculos : 144
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 289
+ TEMOS VIAGEM SOLICITADACONTADOR : 290
+ TEMOS VIAGEM SOLICITADACONTADOR : 291
+registou emp:trueutilizadores:145
+Matricula : 145 reliable: 67.27780421292897 condutor_ "C-Barros@gmail.com"
+Numero de vehiculos : 145
+Sucesso no login!
+registou emp:trueutilizadores:146
+Matricula : 146 reliable: 3.2998001441341462 condutor_ "Margarida-R@mail.google.com"
+Numero de vehiculos : 146
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+registou cliente:trueutilizadores:138
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 292
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:147
+Matricula : 147 reliable: 85.90072876610067 condutor_ "alcinaoliveira@mail.google.com"
+Numero de vehiculos : 147
+registou cliente:trueutilizadores:139
+registou emp:trueutilizadores:148
+Matricula : 148 reliable: 18.288901742464937 condutor_ "H.m@gmail.com"
+Numero de vehiculos : 148
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "a.raposo@hotmail.com"DRIVER: "a-T@mail.google.com"matricula :97
+Numero antes: 207Numero depois: 206
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 206tam depois205
+CONSEGIU VIAJAR!!
+Cliente: "G-fonseca79@mail.google.com"DRIVER: "Dalva.V@mail.google.com"matricula :14
+Numero antes: 205Numero depois: 204
+registou cliente:trueutilizadores:140
+registou:trueutilizadores:149
+Matricula : 149 reliable: 21.23847056762258 condutor_ "S-c@mail.google.com"
+Numero de vehiculos : 149
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 293
+ TEMOS VIAGEM SOLICITADACONTADOR : 294
+ TEMOS VIAGEM SOLICITADACONTADOR : 295
+registou cliente:trueutilizadores:141
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 296
+ TEMOS VIAGEM SOLICITADACONTADOR : 297
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 298
+ TEMOS VIAGEM SOLICITADACONTADOR : 299
+registou:trueutilizadores:150
+Matricula : 150 reliable: 23.17635586352601 condutor_ "d.O499@hotmail.com"
+Numero de vehiculos : 150
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 211tam depois210
+Viagem removida com sucesso; numero de viagens 
+tam antes: 210tam depois209
+CONSEGIU VIAJAR!!
+Cliente: "Antonia_G@hotmail.com"DRIVER: "Alaideassuncao@gmail.com"matricula :4
+Numero antes: 209Numero depois: 208
+Viagem removida com sucesso; numero de viagens 
+tam antes: 208tam depois207
+CONSEGIU VIAJAR!!
+Cliente: "Antonia_G@hotmail.com"DRIVER: "Alaideassuncao@gmail.com"matricula :4
+Numero antes: 207Numero depois: 206
+CONSEGIU VIAJAR!!
+Cliente: "Antonia_G@hotmail.com"DRIVER: "Alaideassuncao@gmail.com"matricula :4
+Numero antes: 206Numero depois: 205
+Viagem removida com sucesso; numero de viagens 
+tam antes: 205tam depois204
+registou emp:trueutilizadores:151
+Matricula : 151 reliable: 52.53946420823252 condutor_ "DB@hotmail.com"
+Numero de vehiculos : 151
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 300
+Sucesso no login!
+registou emp:trueutilizadores:152
+Matricula : 152 reliable: 63.96116706004573 condutor_ "Mafalda-M@mail.google.com"
+Numero de vehiculos : 152
+registou cliente:trueutilizadores:142
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:143
+registou cliente:trueutilizadores:144
+registou emp:trueutilizadores:153
+Matricula : 153 reliable: 90.68744902832444 condutor_ "helder_Coelho@mail.google.com"
+Numero de vehiculos : 153
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 205tam depois204
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:154
+Matricula : 154 reliable: 94.2391164500776 condutor_ "rn@hotmail.com"
+Numero de vehiculos : 154
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:145
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:146
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 301
+ TEMOS VIAGEM SOLICITADACONTADOR : 302
+ TEMOS VIAGEM SOLICITADACONTADOR : 303
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:147
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:148
+registou cliente:trueutilizadores:149
+registou cliente:trueutilizadores:150
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 304
+ TEMOS VIAGEM SOLICITADACONTADOR : 305
+ TEMOS VIAGEM SOLICITADACONTADOR : 306
+registou emp:trueutilizadores:155
+Matricula : 155 reliable: 59.35451500029573 condutor_ "D.e.410@outlook.com"
+Numero de vehiculos : 155
+registou cliente:trueutilizadores:151
+registou emp:trueutilizadores:156
+Matricula : 156 reliable: 47.59476197705119 condutor_ "elda_moura.161@outlook.com"
+Numero de vehiculos : 156
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 307
+ TEMOS VIAGEM SOLICITADACONTADOR : 308
+registou cliente:trueutilizadores:152
+registou cliente:trueutilizadores:153
+registou emp:trueutilizadores:157
+Matricula : 157 reliable: 30.24747251804676 condutor_ "helier.l@gmail.com"
+Numero de vehiculos : 157
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:154
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 309
+ TEMOS VIAGEM SOLICITADACONTADOR : 310
+ TEMOS VIAGEM SOLICITADACONTADOR : 311
+ TEMOS VIAGEM SOLICITADACONTADOR : 312
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 313
+ TEMOS VIAGEM SOLICITADACONTADOR : 314
+ TEMOS VIAGEM SOLICITADACONTADOR : 315
+registou cliente:trueutilizadores:155
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:156
+registou emp:trueutilizadores:158
+Matricula : 158 reliable: 2.060093772683469 condutor_ "a-M.184@sapo.pt"
+Numero de vehiculos : 158
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 316
+ TEMOS VIAGEM SOLICITADACONTADOR : 317
+registou emp:trueutilizadores:159
+Matricula : 159 reliable: 4.071053400184144 condutor_ "A.Amorim_926@outlook.com"
+Numero de vehiculos : 159
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "Alegria.C@mail.google.com"DRIVER: "leomenia_Paiva.669@mail.google.com"matricula :21
+Numero antes: 221Numero depois: 220
+CONSEGIU VIAJAR!!
+Cliente: "Alegria.C@mail.google.com"DRIVER: "leomenia_Paiva.669@mail.google.com"matricula :21
+Numero antes: 220Numero depois: 219
+CONSEGIU VIAJAR!!
+Cliente: "Alegria.C@mail.google.com"DRIVER: "leomenia_Paiva.669@mail.google.com"matricula :21
+Numero antes: 219Numero depois: 218
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 318
+ TEMOS VIAGEM SOLICITADACONTADOR : 319
+ TEMOS VIAGEM SOLICITADACONTADOR : 320
+ TEMOS VIAGEM SOLICITADACONTADOR : 321
+registou emp:trueutilizadores:160
+Matricula : 160 reliable: 80.36589570023791 condutor_ "Briolanjo-n@sapo.pt"
+Numero de vehiculos : 160
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:157
+registou emp:trueutilizadores:161
+Matricula : 161 reliable: 83.34596768259466 condutor_ "hilmaesteves@sapo.pt"
+Numero de vehiculos : 161
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 322
+ TEMOS VIAGEM SOLICITADACONTADOR : 323
+registou emp:trueutilizadores:162
+Matricula : 162 reliable: 33.91817581731489 condutor_ "AlziraM@sapo.pt"
+Numero de vehiculos : 162
+registou cliente:trueutilizadores:158
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 324
+ TEMOS VIAGEM SOLICITADACONTADOR : 325
+ TEMOS VIAGEM SOLICITADACONTADOR : 326
+ TEMOS VIAGEM SOLICITADACONTADOR : 327
+registou cliente:trueutilizadores:159
+registou emp:trueutilizadores:163
+Matricula : 163 reliable: 45.23899495909114 condutor_ "d.Leite@mail.google.com"
+Numero de vehiculos : 163
+registou cliente:trueutilizadores:160
+registou cliente:trueutilizadores:161
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 328
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 329
+ TEMOS VIAGEM SOLICITADACONTADOR : 330
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "edma-ribeiro944@hotmail.com"DRIVER: "G-f@gmail.com"matricula :57
+Numero antes: 231Numero depois: 230
+Viagem removida com sucesso; numero de viagens 
+tam antes: 230tam depois229
+Viagem removida com sucesso; numero de viagens 
+tam antes: 229tam depois228
+Viagem removida com sucesso; numero de viagens 
+tam antes: 228tam depois227
+CONSEGIU VIAJAR!!
+Cliente: "edma-ribeiro944@hotmail.com"DRIVER: "G-f@gmail.com"matricula :57
+Numero antes: 227Numero depois: 226
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:164
+Matricula : 164 reliable: 93.83940915986565 condutor_ "B-C821@mail.google.com"
+Numero de vehiculos : 164
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+registou emp:trueutilizadores:165
+Matricula : 165 reliable: 52.50301384268226 condutor_ "haide_e@gmail.com"
+Numero de vehiculos : 165
+registou emp:trueutilizadores:166
+Matricula : 166 reliable: 91.57782859888634 condutor_ "ovieira-508@outlook.com"
+Numero de vehiculos : 166
+registou emp:trueutilizadores:167
+Matricula : 167 reliable: 16.17054726091881 condutor_ "s_M@mail.google.com"
+Numero de vehiculos : 167
+registou cliente:trueutilizadores:162
+registou cliente:trueutilizadores:163
+registou emp:trueutilizadores:168
+Matricula : 168 reliable: 79.71649060113748 condutor_ "Bp936@mail.google.com"
+Numero de vehiculos : 168
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 331
+ TEMOS VIAGEM SOLICITADACONTADOR : 332
+ TEMOS VIAGEM SOLICITADACONTADOR : 333
+ TEMOS VIAGEM SOLICITADACONTADOR : 334
+registou cliente:trueutilizadores:164
+registou cliente:trueutilizadores:165
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:169
+Matricula : 169 reliable: 8.780488811465304 condutor_ "T.Brito.915@sapo.pt"
+Numero de vehiculos : 169
+registou cliente:trueutilizadores:166
+registou cliente:trueutilizadores:167
+registou cliente:trueutilizadores:168
+registou cliente:trueutilizadores:169
+registou:trueutilizadores:170
+Matricula : 170 reliable: 34.6249186529231 condutor_ "C.Macedo@hotmail.com"
+Numero de vehiculos : 170
+Sucesso no login!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 335
+registou cliente:trueutilizadores:170
+registou emp:trueutilizadores:171
+Matricula : 171 reliable: 21.529214039101607 condutor_ "Carla.r@outlook.com"
+Numero de vehiculos : 171
+registou cliente:trueutilizadores:171
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 336
+ TEMOS VIAGEM SOLICITADACONTADOR : 337
+ TEMOS VIAGEM SOLICITADACONTADOR : 338
+ TEMOS VIAGEM SOLICITADACONTADOR : 339
+registou:trueutilizadores:172
+Matricula : 172 reliable: 82.32706755524396 condutor_ "E.domingues.395@outlook.com"
+Numero de vehiculos : 172
+registou cliente:trueutilizadores:172
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 340
+ TEMOS VIAGEM SOLICITADACONTADOR : 341
+ TEMOS VIAGEM SOLICITADACONTADOR : 342
+registou cliente:trueutilizadores:173
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 343
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou:trueutilizadores:173
+Matricula : 173 reliable: 57.3257709648749 condutor_ "E_M_991@mail.google.com"
+Numero de vehiculos : 173
+registou emp:trueutilizadores:174
+Matricula : 174 reliable: 86.65934185291015 condutor_ "polibe_Moura@hotmail.com"
+Numero de vehiculos : 174
+registou cliente:trueutilizadores:174
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 344
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 345
+ TEMOS VIAGEM SOLICITADACONTADOR : 346
+Sucesso no login!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 347
+ TEMOS VIAGEM SOLICITADACONTADOR : 348
+ TEMOS VIAGEM SOLICITADACONTADOR : 349
+registou cliente:trueutilizadores:175
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 350
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "edma-ribeiro944@hotmail.com"DRIVER: "G-f@gmail.com"matricula :57
+Numero antes: 246Numero depois: 245
+CONSEGIU VIAJAR!!
+Cliente: "edma-ribeiro944@hotmail.com"DRIVER: "G-f@gmail.com"matricula :57
+Numero antes: 245Numero depois: 244
+Sucesso no login!
+registou cliente:trueutilizadores:176
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:177
+registou cliente:trueutilizadores:178
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 351
+ TEMOS VIAGEM SOLICITADACONTADOR : 352
+ TEMOS VIAGEM SOLICITADACONTADOR : 353
+ TEMOS VIAGEM SOLICITADACONTADOR : 354
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 355
+ TEMOS VIAGEM SOLICITADACONTADOR : 356
+ TEMOS VIAGEM SOLICITADACONTADOR : 357
+ TEMOS VIAGEM SOLICITADACONTADOR : 358
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 359
+registou cliente:trueutilizadores:179
+registou cliente:trueutilizadores:180
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 360
+ TEMOS VIAGEM SOLICITADACONTADOR : 361
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:175
+Matricula : 175 reliable: 22.98709217923468 condutor_ "t_V_scp@sapo.pt"
+Numero de vehiculos : 175
+registou emp:trueutilizadores:176
+Matricula : 176 reliable: 37.09617011400835 condutor_ "db742@mail.google.com"
+Numero de vehiculos : 176
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:177
+Matricula : 177 reliable: 66.32269985845119 condutor_ "Cedrico-Abreu@sapo.pt"
+Numero de vehiculos : 177
+registou emp:trueutilizadores:178
+Matricula : 178 reliable: 78.26215542487715 condutor_ "L-b@mail.google.com"
+Numero de vehiculos : 178
+registou cliente:trueutilizadores:181
+registou cliente:trueutilizadores:182
+registou emp:trueutilizadores:179
+Matricula : 179 reliable: 19.990214597256518 condutor_ "J-Amorim@gmail.com"
+Numero de vehiculos : 179
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 362
+ TEMOS VIAGEM SOLICITADACONTADOR : 363
+registou cliente:trueutilizadores:183
+registou emp:trueutilizadores:180
+Matricula : 180 reliable: 17.203387653468305 condutor_ "H.M-570@mail.google.com"
+Numero de vehiculos : 180
+registou cliente:trueutilizadores:184
+registou emp:trueutilizadores:181
+Matricula : 181 reliable: 2.515508294639668 condutor_ "tianaM@hotmail.com"
+Numero de vehiculos : 181
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 364
+ TEMOS VIAGEM SOLICITADACONTADOR : 365
+registou cliente:trueutilizadores:185
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:182
+Matricula : 182 reliable: 46.22192314564837 condutor_ "danila_M661@gmail.com"
+Numero de vehiculos : 182
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 366
+ TEMOS VIAGEM SOLICITADACONTADOR : 367
+ TEMOS VIAGEM SOLICITADACONTADOR : 368
+registou emp:trueutilizadores:183
+Matricula : 183 reliable: 79.06075194026648 condutor_ "uriel_martins-347@hotmail.com"
+Numero de vehiculos : 183
+registou emp:trueutilizadores:184
+Matricula : 184 reliable: 75.69524489993405 condutor_ "Mauricio_m@gmail.com"
+Numero de vehiculos : 184
+registou emp:trueutilizadores:185
+Matricula : 185 reliable: 17.97564011074352 condutor_ "B_henriques.229@sapo.pt"
+Numero de vehiculos : 185
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:186
+registou cliente:trueutilizadores:187
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 262tam depois261
+Viagem removida com sucesso; numero de viagens 
+tam antes: 261tam depois260
+registou emp:trueutilizadores:186
+Matricula : 186 reliable: 74.78559482495962 condutor_ "l_B.602@hotmail.com"
+Numero de vehiculos : 186
+registou cliente:trueutilizadores:188
+Sucesso no login!
+registou emp:trueutilizadores:187
+Matricula : 187 reliable: 31.47071959423088 condutor_ "henriquetasousa-512@gmail.com"
+Numero de vehiculos : 187
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 369
+ TEMOS VIAGEM SOLICITADACONTADOR : 370
+registou cliente:trueutilizadores:189
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:188
+Matricula : 188 reliable: 4.474697330206235 condutor_ "Enes.A@sapo.pt"
+Numero de vehiculos : 188
+registou cliente:trueutilizadores:190
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 371
+registou cliente:trueutilizadores:191
+registou cliente:trueutilizadores:192
+Sucesso no login!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 372
+ TEMOS VIAGEM SOLICITADACONTADOR : 373
+ TEMOS VIAGEM SOLICITADACONTADOR : 374
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "Antonia_G@hotmail.com"DRIVER: "aarao-A@mail.google.com"matricula :28
+Numero antes: 266Numero depois: 265
+CONSEGIU VIAJAR!!
+Cliente: "Antonia_G@hotmail.com"DRIVER: "aarao-A@mail.google.com"matricula :28
+Numero antes: 265Numero depois: 264
+Viagem removida com sucesso; numero de viagens 
+tam antes: 264tam depois263
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:189
+Matricula : 189 reliable: 10.908054620017394 condutor_ "B.F@sapo.pt"
+Numero de vehiculos : 189
+registou emp:trueutilizadores:190
+Matricula : 190 reliable: 70.21950969962667 condutor_ "S_Nunes@sapo.pt"
+Numero de vehiculos : 190
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 375
+ TEMOS VIAGEM SOLICITADACONTADOR : 376
+ TEMOS VIAGEM SOLICITADACONTADOR : 377
+ TEMOS VIAGEM SOLICITADACONTADOR : 378
+registou emp:trueutilizadores:191
+Matricula : 191 reliable: 62.89225024199918 condutor_ "M_alves993@hotmail.com"
+Numero de vehiculos : 191
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 267tam depois266
+Viagem removida com sucesso; numero de viagens 
+tam antes: 266tam depois265
+Viagem removida com sucesso; numero de viagens 
+tam antes: 265tam depois264
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 379
+ TEMOS VIAGEM SOLICITADACONTADOR : 380
+registou cliente:trueutilizadores:193
+registou cliente:trueutilizadores:194
+registou cliente:trueutilizadores:195
+registou cliente:trueutilizadores:196
+registou emp:trueutilizadores:192
+Matricula : 192 reliable: 61.00288597139826 condutor_ "sidonio-r_977@gmail.com"
+Numero de vehiculos : 192
+registou cliente:trueutilizadores:197
+registou emp:trueutilizadores:193
+Matricula : 193 reliable: 45.39898797953125 condutor_ "e_M@mail.google.com"
+Numero de vehiculos : 193
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 381
+ TEMOS VIAGEM SOLICITADACONTADOR : 382
+ TEMOS VIAGEM SOLICITADACONTADOR : 383
+ TEMOS VIAGEM SOLICITADACONTADOR : 384
+registou emp:trueutilizadores:194
+Matricula : 194 reliable: 77.23849419528229 condutor_ "yara.carneiro@sapo.pt"
+Numero de vehiculos : 194
+registou emp:trueutilizadores:195
+Matricula : 195 reliable: 46.76083511650715 condutor_ "eCosta-4@gmail.com"
+Numero de vehiculos : 195
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:198
+registou cliente:trueutilizadores:199
+registou emp:trueutilizadores:196
+Matricula : 196 reliable: 77.17214119862209 condutor_ "wersun.M_366@sapo.pt"
+Numero de vehiculos : 196
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou:trueutilizadores:197
+Matricula : 197 reliable: 32.72036857555665 condutor_ "Gumesindo_R.865@mail.google.com"
+Numero de vehiculos : 197
+registou cliente:trueutilizadores:200
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "bernadetec_565@hotmail.com"DRIVER: "s_m_892@hotmail.com"matricula :79
+Numero antes: 270Numero depois: 269
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 385
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 386
+ TEMOS VIAGEM SOLICITADACONTADOR : 387
+ TEMOS VIAGEM SOLICITADACONTADOR : 388
+ TEMOS VIAGEM SOLICITADACONTADOR : 389
+registou emp:trueutilizadores:198
+Matricula : 198 reliable: 56.05080324794432 condutor_ "ernaniNunes@hotmail.com"
+Numero de vehiculos : 198
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 390
+registou cliente:trueutilizadores:201
+registou cliente:trueutilizadores:202
+registou emp:trueutilizadores:199
+Matricula : 199 reliable: 7.776497034186869 condutor_ "a.Leite_205@outlook.com"
+Numero de vehiculos : 199
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 275tam depois274
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 391
+ TEMOS VIAGEM SOLICITADACONTADOR : 392
+ TEMOS VIAGEM SOLICITADACONTADOR : 393
+ TEMOS VIAGEM SOLICITADACONTADOR : 394
+registou cliente:trueutilizadores:203
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:200
+Matricula : 200 reliable: 2.2494685554352967 condutor_ "S.Vaz@sapo.pt"
+Numero de vehiculos : 200
+registou emp:trueutilizadores:201
+Matricula : 201 reliable: 38.62812449261956 condutor_ "Ticiana.Pires@sapo.pt"
+Numero de vehiculos : 201
+registou emp:trueutilizadores:202
+Matricula : 202 reliable: 8.57646397353019 condutor_ "HB@hotmail.com"
+Numero de vehiculos : 202
+registou emp:trueutilizadores:203
+Matricula : 203 reliable: 1.7407007245865525 condutor_ "smorais@mail.google.com"
+Numero de vehiculos : 203
+registou cliente:trueutilizadores:204
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:204
+Matricula : 204 reliable: 53.8433839183034 condutor_ "ACruz@mail.google.com"
+Numero de vehiculos : 204
+registou cliente:trueutilizadores:205
+registou:trueutilizadores:205
+Matricula : 205 reliable: 24.908575666506614 condutor_ "heliodoraa@hotmail.com"
+Numero de vehiculos : 205
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+registou emp:trueutilizadores:206
+Matricula : 206 reliable: 4.81471199805209 condutor_ "l-a_702@mail.google.com"
+Numero de vehiculos : 206
+registou emp:trueutilizadores:207
+Matricula : 207 reliable: 30.674999735755335 condutor_ "z.n379@gmail.com"
+Numero de vehiculos : 207
+registou cliente:trueutilizadores:206
+registou emp:trueutilizadores:208
+Matricula : 208 reliable: 63.81593623602102 condutor_ "jaquelina_M@hotmail.com"
+Numero de vehiculos : 208
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 395
+ TEMOS VIAGEM SOLICITADACONTADOR : 396
+ TEMOS VIAGEM SOLICITADACONTADOR : 397
+registou emp:trueutilizadores:209
+Matricula : 209 reliable: 89.38351645684665 condutor_ "i-v@sapo.pt"
+Numero de vehiculos : 209
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 398
+ TEMOS VIAGEM SOLICITADACONTADOR : 399
+ TEMOS VIAGEM SOLICITADACONTADOR : 400
+ TEMOS VIAGEM SOLICITADACONTADOR : 401
+registou:trueutilizadores:210
+Matricula : 210 reliable: 88.3947824071137 condutor_ "gusmaoMarques633@sapo.pt"
+Numero de vehiculos : 210
+registou emp:trueutilizadores:211
+Matricula : 211 reliable: 46.65574078298388 condutor_ "lilianeb183@outlook.com"
+Numero de vehiculos : 211
+Sucesso no login!
+registou cliente:trueutilizadores:207
+registou emp:trueutilizadores:212
+Matricula : 212 reliable: 66.73401263418256 condutor_ "E_m@gmail.com"
+Numero de vehiculos : 212
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 402
+ TEMOS VIAGEM SOLICITADACONTADOR : 403
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:208
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 404
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 405
+ TEMOS VIAGEM SOLICITADACONTADOR : 406
+Sucesso no login!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 407
+ TEMOS VIAGEM SOLICITADACONTADOR : 408
+ TEMOS VIAGEM SOLICITADACONTADOR : 409
+ TEMOS VIAGEM SOLICITADACONTADOR : 410
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 294tam depois293
+registou cliente:trueutilizadores:209
+registou emp:trueutilizadores:213
+Matricula : 213 reliable: 55.77202922920726 condutor_ "i-l@mail.google.com"
+Numero de vehiculos : 213
+registou emp:trueutilizadores:214
+Matricula : 214 reliable: 95.59684044788447 condutor_ "jeni-barbosa-52@hotmail.com"
+Numero de vehiculos : 214
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:210
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 411
+ TEMOS VIAGEM SOLICITADACONTADOR : 412
+ TEMOS VIAGEM SOLICITADACONTADOR : 413
+registou cliente:trueutilizadores:211
+Sucesso no login!
+registou emp:trueutilizadores:215
+Matricula : 215 reliable: 26.073897276928882 condutor_ "alder.A@sapo.pt"
+Numero de vehiculos : 215
+registou emp:trueutilizadores:216
+Matricula : 216 reliable: 78.38513387865835 condutor_ "assuntabrito-27@mail.google.com"
+Numero de vehiculos : 216
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 414
+ TEMOS VIAGEM SOLICITADACONTADOR : 415
+ TEMOS VIAGEM SOLICITADACONTADOR : 416
+ TEMOS VIAGEM SOLICITADACONTADOR : 417
+registou cliente:trueutilizadores:212
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:213
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "Telma-M@outlook.com"DRIVER: "T.Brito.915@sapo.pt"matricula :169
+Numero antes: 300Numero depois: 299
+CONSEGIU VIAJAR!!
+Cliente: "Telma-M@outlook.com"DRIVER: "T.Brito.915@sapo.pt"matricula :169
+Numero antes: 299Numero depois: 298
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 298tam depois297
+Viagem removida com sucesso; numero de viagens 
+tam antes: 297tam depois296
+Viagem removida com sucesso; numero de viagens 
+tam antes: 296tam depois295
+Viagem removida com sucesso; numero de viagens 
+tam antes: 295tam depois294
+Nao conseguiu remover, nao tinha viagens!
+registou:trueutilizadores:217
+Matricula : 217 reliable: 96.37918357670593 condutor_ "Diamantina_a_712@mail.google.com"
+Numero de vehiculos : 217
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 418
+ TEMOS VIAGEM SOLICITADACONTADOR : 419
+ TEMOS VIAGEM SOLICITADACONTADOR : 420
+ TEMOS VIAGEM SOLICITADACONTADOR : 421
+registou emp:trueutilizadores:218
+Matricula : 218 reliable: 41.69029290789153 condutor_ "an@mail.google.com"
+Numero de vehiculos : 218
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:214
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:219
+Matricula : 219 reliable: 87.78153430466237 condutor_ "Marcileneamaral@gmail.com"
+Numero de vehiculos : 219
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 298tam depois297
+Viagem removida com sucesso; numero de viagens 
+tam antes: 297tam depois296
+CONSEGIU VIAJAR!!
+Cliente: "Gentil_M@outlook.com"DRIVER: "S-c@mail.google.com"matricula :149
+Numero antes: 296Numero depois: 295
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:220
+Matricula : 220 reliable: 95.5850976401653 condutor_ "d_Sa@mail.google.com"
+Numero de vehiculos : 220
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 422
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:215
+registou emp:trueutilizadores:221
+Matricula : 221 reliable: 52.26792251417224 condutor_ "Joao-Maia657@outlook.com"
+Numero de vehiculos : 221
+registou emp:trueutilizadores:222
+Matricula : 222 reliable: 1.5481720621048578 condutor_ "Berengaria-P.355@hotmail.com"
+Numero de vehiculos : 222
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 423
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 424
+ TEMOS VIAGEM SOLICITADACONTADOR : 425
+ TEMOS VIAGEM SOLICITADACONTADOR : 426
+ TEMOS VIAGEM SOLICITADACONTADOR : 427
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 428
+ TEMOS VIAGEM SOLICITADACONTADOR : 429
+registou cliente:trueutilizadores:216
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 430
+ TEMOS VIAGEM SOLICITADACONTADOR : 431
+ TEMOS VIAGEM SOLICITADACONTADOR : 432
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 433
+ TEMOS VIAGEM SOLICITADACONTADOR : 434
+ TEMOS VIAGEM SOLICITADACONTADOR : 435
+registou cliente:trueutilizadores:217
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "p.castro121@sapo.pt"DRIVER: "t_Assuncao_29@hotmail.com"matricula :133
+Numero antes: 309Numero depois: 308
+registou emp:trueutilizadores:223
+Matricula : 223 reliable: 64.98749417424075 condutor_ "S_S@mail.google.com"
+Numero de vehiculos : 223
+registou emp:trueutilizadores:224
+Matricula : 224 reliable: 36.593612084929696 condutor_ "a.l@sapo.pt"
+Numero de vehiculos : 224
+registou emp:trueutilizadores:225
+Matricula : 225 reliable: 46.44921754997898 condutor_ "GildoA@hotmail.com"
+Numero de vehiculos : 225
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 436
+ TEMOS VIAGEM SOLICITADACONTADOR : 437
+Sucesso no login!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 438
+registou cliente:trueutilizadores:218
+registou emp:trueutilizadores:226
+Matricula : 226 reliable: 52.621914604505534 condutor_ "L-m-slb@hotmail.com"
+Numero de vehiculos : 226
+registou emp:trueutilizadores:227
+Matricula : 227 reliable: 39.7177682989217 condutor_ "Ramao-p@outlook.com"
+Numero de vehiculos : 227
+registou cliente:trueutilizadores:219
+registou emp:trueutilizadores:228
+Matricula : 228 reliable: 86.32806300639038 condutor_ "P_nscb@gmail.com"
+Numero de vehiculos : 228
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 439
+ TEMOS VIAGEM SOLICITADACONTADOR : 440
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:229
+Matricula : 229 reliable: 12.276503218203406 condutor_ "r_N@hotmail.com"
+Numero de vehiculos : 229
+registou cliente:trueutilizadores:220
+registou emp:trueutilizadores:230
+Matricula : 230 reliable: 74.10562387300672 condutor_ "E-macedo@outlook.com"
+Numero de vehiculos : 230
+registou emp:trueutilizadores:231
+Matricula : 231 reliable: 55.50960111471823 condutor_ "mfigueiredo_45@hotmail.com"
+Numero de vehiculos : 231
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:221
+registou cliente:trueutilizadores:222
+registou cliente:trueutilizadores:223
+registou emp:trueutilizadores:232
+Matricula : 232 reliable: 28.14658169406491 condutor_ "Vicenta-leal@gmail.com"
+Numero de vehiculos : 232
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 441
+ TEMOS VIAGEM SOLICITADACONTADOR : 442
+ TEMOS VIAGEM SOLICITADACONTADOR : 443
+registou cliente:trueutilizadores:224
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "I-g@gmail.com"DRIVER: "galiana.Oliveira@mail.google.com"matricula :15
+Numero antes: 316Numero depois: 315
+Viagem removida com sucesso; numero de viagens 
+tam antes: 315tam depois314
+CONSEGIU VIAJAR!!
+Cliente: "ADomingues@mail.google.com"DRIVER: "galiana.Oliveira@mail.google.com"matricula :15
+Numero antes: 314Numero depois: 313
+CONSEGIU VIAJAR!!
+Cliente: "ADomingues@mail.google.com"DRIVER: "galiana.Oliveira@mail.google.com"matricula :15
+Numero antes: 313Numero depois: 312
+Viagem removida com sucesso; numero de viagens 
+tam antes: 312tam depois311
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:225
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 311tam depois310
+registou cliente:trueutilizadores:226
+registou emp:trueutilizadores:233
+Matricula : 233 reliable: 94.970524866643 condutor_ "levinamoura@sapo.pt"
+Numero de vehiculos : 233
+registou cliente:trueutilizadores:227
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 444
+ TEMOS VIAGEM SOLICITADACONTADOR : 445
+ TEMOS VIAGEM SOLICITADACONTADOR : 446
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:234
+Matricula : 234 reliable: 40.83604672394146 condutor_ "C.lourenco@mail.google.com"
+Numero de vehiculos : 234
+registou cliente:trueutilizadores:228
+registou cliente:trueutilizadores:229
+registou cliente:trueutilizadores:230
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 447
+ TEMOS VIAGEM SOLICITADACONTADOR : 448
+registou cliente:trueutilizadores:231
+Sucesso no login!
+Viagem removida com sucesso; numero de viagens 
+tam antes: 315tam depois314
+Viagem removida com sucesso; numero de viagens 
+tam antes: 314tam depois313
+registou cliente:trueutilizadores:232
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 449
+ TEMOS VIAGEM SOLICITADACONTADOR : 450
+Sucesso no login!
+registou emp:trueutilizadores:235
+Matricula : 235 reliable: 74.56514480696299 condutor_ "RD-234@mail.google.com"
+Numero de vehiculos : 235
+Sucesso no login!
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+registou cliente:trueutilizadores:233
+registou:trueutilizadores:236
+Matricula : 236 reliable: 51.37097532744671 condutor_ "Celsioneves@hotmail.com"
+Numero de vehiculos : 236
+registou cliente:trueutilizadores:234
+registou cliente:trueutilizadores:235
+registou emp:trueutilizadores:237
+Matricula : 237 reliable: 37.18516950275021 condutor_ "f_Maia@hotmail.com"
+Numero de vehiculos : 237
+registou cliente:trueutilizadores:236
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "e_r@gmail.com"DRIVER: "a-T@mail.google.com"matricula :97
+Numero antes: 315Numero depois: 314
+CONSEGIU VIAJAR!!
+Cliente: "e_r@gmail.com"DRIVER: "a-T@mail.google.com"matricula :97
+Numero antes: 314Numero depois: 313
+Viagem removida com sucesso; numero de viagens 
+tam antes: 313tam depois312
+Viagem removida com sucesso; numero de viagens 
+tam antes: 312tam depois311
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 451
+ TEMOS VIAGEM SOLICITADACONTADOR : 452
+ TEMOS VIAGEM SOLICITADACONTADOR : 453
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+registou:trueutilizadores:238
+Matricula : 238 reliable: 53.20756295022737 condutor_ "sunamitaC@mail.google.com"
+Numero de vehiculos : 238
+registou cliente:trueutilizadores:237
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou:trueutilizadores:239
+Matricula : 239 reliable: 86.04619774988446 condutor_ "Filino-p@hotmail.com"
+Numero de vehiculos : 239
+registou cliente:trueutilizadores:238
+registou emp:trueutilizadores:240
+Matricula : 240 reliable: 44.80956687781996 condutor_ "amorinaM-739@outlook.com"
+Numero de vehiculos : 240
+registou emp:trueutilizadores:241
+Matricula : 241 reliable: 11.907849553045702 condutor_ "a-cruz@gmail.com"
+Numero de vehiculos : 241
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:239
+registou cliente:trueutilizadores:240
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 454
+ TEMOS VIAGEM SOLICITADACONTADOR : 455
+ TEMOS VIAGEM SOLICITADACONTADOR : 456
+ TEMOS VIAGEM SOLICITADACONTADOR : 457
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 458
+ TEMOS VIAGEM SOLICITADACONTADOR : 459
+ TEMOS VIAGEM SOLICITADACONTADOR : 460
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+registou emp:trueutilizadores:242
+Matricula : 242 reliable: 65.01387914111038 condutor_ "Alcindo-C@gmail.com"
+Numero de vehiculos : 242
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 461
+ TEMOS VIAGEM SOLICITADACONTADOR : 462
+ TEMOS VIAGEM SOLICITADACONTADOR : 463
+Sucesso no login!
+CONSEGIU VIAJAR!!
+Cliente: "ea851@mail.google.com"DRIVER: "C_Barros@outlook.com"matricula :48
+Numero antes: 324Numero depois: 323
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+registou cliente:trueutilizadores:241
+registou emp:trueutilizadores:243
+Matricula : 243 reliable: 68.30558566612814 condutor_ "gislena_Andrade_647@outlook.com"
+Numero de vehiculos : 243
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 464
+ TEMOS VIAGEM SOLICITADACONTADOR : 465
+Sucesso no login!
+ TEMOS VIAGEM SOLICITADACONTADOR : 466
+ TEMOS VIAGEM SOLICITADACONTADOR : 467
+ TEMOS VIAGEM SOLICITADACONTADOR : 468
+registou cliente:trueutilizadores:242
+registou cliente:trueutilizadores:243
+registou cliente:trueutilizadores:244
+Sucesso no login!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+registou emp:trueutilizadores:244
+Matricula : 244 reliable: 20.599337900728298 condutor_ "Apolo-Castro@hotmail.com"
+Numero de vehiculos : 244
+registou:trueutilizadores:245
+Matricula : 245 reliable: 67.4830654817758 condutor_ "Dulce-Branco@mail.google.com"
+Numero de vehiculos : 245
+registou emp:trueutilizadores:246
+Matricula : 246 reliable: 89.64328306191285 condutor_ "Farida_P-503@outlook.com"
+Numero de vehiculos : 246
+registou emp:trueutilizadores:247
+Matricula : 247 reliable: 5.776643573793905 condutor_ "ovidio_Rocha_scb@gmail.com"
+Numero de vehiculos : 247
+Sucesso no login!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Nao conseguiu viajar, nao tinha viagens!
+Nao conseguiu remover, nao tinha viagens!
+Sucesso no login!
+registou cliente:trueutilizadores:245
+registou emp:trueutilizadores:248
+Matricula : 248 reliable: 87.81658563875288 condutor_ "Carolina-sa@gmail.com"
+Numero de vehiculos : 248
+EXECUTADO! viagens retidas: 328
