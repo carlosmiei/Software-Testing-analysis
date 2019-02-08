@@ -1,6 +1,6 @@
 # Software-Testing-analysis
 Project where we deeply test and analyze a java project. We also refactored the old code
-to get a more reliable, readable and correct java project.
+to get a more reliable, readable and correct java project, decreading the technical debt.
 
 Tools used:
 ANTLR4  (used to create a parser that was able to read the logs)
